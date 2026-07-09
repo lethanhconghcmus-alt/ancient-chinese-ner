@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Secrets — never commit credentials
+kaggle.json
+.env
+*.pem
+credentials.json
+
+# data/raw/ (small, ~11MB) is tracked in git — see data/raw/
+# Generated/tokenized datasets and model checkpoints are NOT — too large,
+# hosted on Kaggle instead, regenerable from data/raw/ via src/ scripts.
+data/processed/*
+models/*
+!data/processed/.gitkeep
+!models/.gitkeep
+
+# Logs
+*.log
