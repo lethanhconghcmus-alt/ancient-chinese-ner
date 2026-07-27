@@ -1,0 +1,16 @@
+# Core training stack (GPU — Colab/Kaggle)
+torch>=2.0.0
+unsloth
+transformers>=4.40.0
+peft>=0.10.0
+datasets
+trl
+
+# Data + metrics
+numpy
+scikit-learn
+pyyaml
+
+# RAG (E6 — BGE-M3 dense retrieval)
+faiss-cpu
+FlagEmbedding

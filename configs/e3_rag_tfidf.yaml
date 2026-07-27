@@ -1,0 +1,13 @@
+# E3 — RAG few-shot với TF-IDF retriever trên model E2 (đã chạy: F1 = 0.6888).
+# Chạy: python scripts/run_rag.py --config configs/e3_rag_tfidf.yaml --retriever tfidf --shots 1
+
+name: e3_rag_tfidf
+
+model:
+  max_seq_len: 1024   # prompt few-shot dài hơn nên cần context rộng hơn khi eval
+
+rag:
+  num_shots: 1
+  retriever: tfidf
+  ngram_range: [1, 2]
+  max_features: 50000

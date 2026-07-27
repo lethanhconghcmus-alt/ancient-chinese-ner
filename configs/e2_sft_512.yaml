@@ -1,0 +1,8 @@
+# E2 — Pretrain + SFT, seq_len=512, rank=16 (đã chạy: F1 = 0.7507).
+# Document lại đúng hyperparams của run gốc.
+
+name: e2_sft_512
+
+model:
+  max_seq_len: 512
+  lora_rank: 16

@@ -1,0 +1,46 @@
+# Giá trị mặc định chung cho mọi experiment.
+# File experiment (e1..e5) chỉ ghi phần override.
+
+model:
+  base_model: unsloth/qwen2.5-7b-unsloth-bnb-4bit
+  max_seq_len: 512
+  lora_rank: 16
+  lora_alpha: 32
+  lora_dropout: 0.05
+  load_in_4bit: true
+
+pretrain:
+  lr: 5.0e-5
+  epochs: 1
+  batch_size: 2
+  grad_accum: 4
+  sample_size: 5000
+  dvsktt_size: 1311
+  save_every: 500
+
+sft:
+  lr: 5.0e-5
+  epochs: 3
+  batch_size: 1
+  grad_accum: 4
+  save_every: 200
+
+eval:
+  batch_size: 4
+  max_new_tokens: 900
+  save_every: 50
+
+rag:
+  num_shots: 1
+  retriever: tfidf
+  ngram_range: [1, 2]
+  max_features: 50000
+  embedding_model: BAAI/bge-m3
+
+paths:
+  data_dir: /content/repo/data/raw
+  ckpt_dir: /content/drive/MyDrive/dvsktt_ner/checkpoints
+  result_dir: /content/drive/MyDrive/dvsktt_ner/results
+  log_dir: /content/drive/MyDrive/dvsktt_ner/logs
+  kaggle_sft_ckpt: thnhcngl/dvsktt-sft-best-checkpoint
+  kaggle_download_dir: /content/data

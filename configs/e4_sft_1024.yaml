@@ -1,0 +1,21 @@
+# E4 — SFT với max_seq_len=1024 (rank giữ 16).
+# Giả thuyết: seq 512 đang truncate các câu dài của DVSKTT → mất entity ở đuôi câu.
+
+name: e4_sft_1024
+
+model:
+  max_seq_len: 1024
+  lora_rank: 16
+  lora_alpha: 32
+  lora_dropout: 0.0
+
+sft:
+  lr: 5.0e-5
+  epochs: 3
+  batch_size: 1
+  grad_accum: 4
+
+eval:
+  batch_size: 4
+  max_new_tokens: 1000
+  save_every: 50

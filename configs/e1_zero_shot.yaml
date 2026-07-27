@@ -1,0 +1,7 @@
+# E1 — Zero-shot baseline: base model, không LoRA, không train.
+# Chạy: python scripts/run_evaluate.py --config configs/e1_zero_shot.yaml --checkpoint base
+
+name: e1_zero_shot
+
+eval:
+  max_new_tokens: 900

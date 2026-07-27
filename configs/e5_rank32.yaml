@@ -1,0 +1,21 @@
+# E5 — LoRA rank=32, seq_len=1024.
+# Giả thuyết: tăng capacity của adapter giúp học tốt hơn các entity hiếm (ORG, TITLE).
+
+name: e5_rank32
+
+model:
+  max_seq_len: 1024
+  lora_rank: 32
+  lora_alpha: 64     # giữ tỉ lệ alpha/rank = 2 như các run trước
+  lora_dropout: 0.0
+
+sft:
+  lr: 5.0e-5
+  epochs: 3
+  batch_size: 1
+  grad_accum: 4
+
+eval:
+  batch_size: 4
+  max_new_tokens: 1000
+  save_every: 50
