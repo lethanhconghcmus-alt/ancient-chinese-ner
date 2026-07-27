@@ -1,0 +1,13 @@
+{
+  "experiment": "e3_rag_tfidf",
+  "config": "configs/e3_rag_tfidf.yaml",
+  "setup": "model E2 (sft_best) + RAG 1-shot, TF-IDF char 1-2gram retriever trên train set",
+  "overall": {
+    "f1": 0.6888
+  },
+  "compared_to": {
+    "e2_sft_512_f1": 0.7507,
+    "delta": -0.0619
+  },
+  "note": "Few-shot example làm GIẢM F1 so với zero-shot prompting trên model đã SFT: example chiếm context làm câu test dài bị truncate, và model copy nhầm entity từ example."
+}

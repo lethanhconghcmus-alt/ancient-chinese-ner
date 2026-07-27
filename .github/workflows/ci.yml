@@ -1,0 +1,44 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # Chỉ deps nhẹ — không cài torch/unsloth trên CI (không GPU);
+      # kiểm tra syntax + config + các hàm data/metric thuần Python.
+      - name: Install light deps
+        run: pip install pyyaml numpy scikit-learn
+
+      - name: Syntax check
+        run: python -m py_compile src/*.py scripts/*.py
+
+      - name: Config + data utils smoke test
+        run: |
+          python - <<'EOF'
+          import glob, sys
+          sys.path.insert(0, '.')
+          from src.config import ExperimentConfig
+          for path in sorted(glob.glob('configs/*.yaml')):
+              cfg = ExperimentConfig.from_yaml(path)
+              print(f'OK {path} -> {cfg.name}')
+
+          from src.data_utils import bio_to_prompt2, compute_prf, load_jsonl, parse_entities
+          data = load_jsonl('data/raw/ner_sft/dev.jsonl')
+          assert len(data) > 0 and {'instruction', 'input', 'output'} <= set(data[0])
+          assert bio_to_prompt2(list('帝崩于長安'), ['O','O','O','B-LOC','I-LOC']) == '帝崩于{長安|LOC}'
+          assert all(abs(v - 0.8) < 1e-9 for v in compute_prf(8, 2, 2))
+          from src.evaluate import compute_metrics
+          golds = [r['output'] for r in data[:20]]
+          assert compute_metrics(golds, golds)['overall']['f1'] == 1.0
+          print('smoke test OK')
+          EOF

@@ -1,0 +1,10 @@
+{
+  "experiment": "e2_sft_512",
+  "config": "configs/e2_sft_512.yaml",
+  "setup": "continued pretrain (5000 lines) + SFT 3 epochs, seq_len=512, LoRA rank=16",
+  "overall": {
+    "f1": 0.7507
+  },
+  "baseline_paper1_f1": 0.82,
+  "note": "Full predictions + per-type metrics nằm trên Google Drive (dvsktt_ner/results/eval_final.json) — chưa sync vào repo."
+}
