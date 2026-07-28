@@ -37,25 +37,26 @@ Input SFT dạng instruction (Alpaca-style): Instruction (mô tả task + entity
 
 ## Kết quả
 
+> ⚠️ **2026-07-29 — dataset đã rebuild (v2), mọi kết quả v1 vô hiệu.**
+> Audit dataset v1 phát hiện 3 lỗi nghiêm trọng: (1) nhãn nhiễu nặng do pipeline
+> convert cũ (audit tay 100 entity: chỉ ~13% đúng hoàn toàn); (2) ~10% câu dính
+> markup annotation trong input; (3) corpus bị nhân bản ~3.7x do concat các file
+> annotation tích lũy → **83.6% câu test trùng nguyên văn với train** (leakage).
+> F1 v1 (E2 0.7507, GuwenBERT-CRF 0.8200) chủ yếu đo memorization.
+> Dataset v2 rebuild từ Excel annotation gốc bằng `scripts/rebuild_dataset.py`
+> (0 leakage, 0 punct-in-entity) — mọi experiment cần chạy lại trên v2.
+
 | Exp | Setup | seq_len | rank | P | R | **F1** | Ghi chú |
 |-----|-------|---------|------|------|------|--------|---------|
-| E1 | Zero-shot (base model) | 512 | — | — | — | — | baseline prompting |
-| E2 | Pretrain + SFT | 512 | 16 | — | — | **0.7507** | best hiện tại |
-| E3 | E2 + RAG 1-shot TF-IDF | 1024 | 16 | — | — | 0.6888 | few-shot làm giảm F1 |
+| E1 | Zero-shot (base model) | 512 | — | — | — | _chờ chạy v2_ | baseline prompting |
+| E2 | Pretrain + SFT | 512 | 16 | — | — | _chờ chạy v2_ | v1: 0.7507 (invalid) |
+| E3 | E2 + RAG 1-shot TF-IDF | 1024 | 16 | — | — | _chờ chạy v2_ | v1: 0.6888 (invalid) |
 | E4 | Pretrain + SFT | 1024 | 16 | — | — | _chưa chạy_ | fix truncation câu dài |
 | E5 | Pretrain + SFT | 1024 | 32 | — | — | _chưa chạy_ | tăng capacity adapter |
-| — | GuwenBERT + CRF (Paper 1) | — | — | — | — | 0.8200 | baseline so sánh |
+| — | GuwenBERT + CRF | — | — | — | — | _chờ chạy v2_ | v1: 0.8200 (cùng leakage) |
 
 Kết quả chi tiết (per-type P/R/F1, error analysis, predictions) lưu trong
 `results/<experiment>/`.
-
-### Error analysis chính (E2)
-
-- **RAG 1-shot giảm F1** (0.7507 → 0.6888): example few-shot chiếm context,
-  câu test dài bị truncate; model cũng bị "nhiễu" copy entity từ example.
-- Câu dài bị truncate ở seq_len=512 → mất entity ở đuôi câu (động cơ cho E4).
-- Entity dài (5+ ký tự) và loại hiếm (`ORG`, `TITLE`) có miss rate cao nhất
-  (động cơ cho E5 rank=32).
 
 ## Cấu trúc repo
 
@@ -64,7 +65,7 @@ ancient-chinese-ner/
 ├── configs/            # YAML config từng experiment (base.yaml = default chung)
 ├── data/raw/
 │   ├── han_pretrain/   # corpus Hán văn cho continued pretraining
-│   └── ner_sft/        # train/dev/test.jsonl (5600/686/701 records)
+│   └── ner_sft/        # train/dev/test.jsonl v2 (1284/160/160 records)
 ├── notebooks/          # Colab notebooks (pipeline gốc)
 ├── scripts/            # CLI entry points (run_pretrain/sft/evaluate/rag)
 ├── src/                # toàn bộ logic: config, data, train, evaluate, rag
@@ -126,8 +127,14 @@ python scripts/run_evaluate.py --config configs/e2_sft_512.yaml \
 
 ## Dataset
 
-- **NER SFT** (`data/raw/ner_sft/`): 6,987 câu từ DVSKTT, đã convert từ nhãn BIO
-  sang format `{entity|TYPE}` inline. Split train/dev/test = 5,600/686/701.
+- **NER SFT v2** (`data/raw/ner_sft/`): 1,604 records unique từ DVSKTT
+  (~23K entities), rebuild từ Excel annotation gốc (anh Thiều) bằng
+  `scripts/rebuild_dataset.py`. Split train/dev/test = 1,284/160/160,
+  **không leakage** (dedup tuyệt đối trước khi split). Trong đó 657 records
+  từ inline markup `"entity"(TYPE)` (tin cậy cao), 947 records từ NER dict
+  projection. BIO tương ứng + report: `data/processed/ner_clean/`.
+  (v1 cũ 6,987 câu thực chất chỉ có 1,961 câu unique nhân bản 3.7x — xem
+  warning ở mục Kết quả; file v1 còn trong git history.)
 - **Pretrain corpus** (`data/raw/han_pretrain/dvsktt_han_merged.txt`): 1,311 dòng
   DVSKTT (giữ 100%) + Hán văn cổ Trung Quốc, sample tổng 5,000 dòng mỗi run.
 

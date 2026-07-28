@@ -23,6 +23,7 @@ credentials.json
 data/processed/*
 models/*
 !data/processed/.gitkeep
+!data/processed/ner_clean/
 !models/.gitkeep
 
 # Logs
