@@ -1,0 +1,4572 @@
+[
+ {
+  "rid": 1,
+  "action": "BOUNDARY",
+  "cur": "(chưa tag)",
+  "cur_type": "",
+  "new": "刑部左侍郎",
+  "new_type": "TITLE",
+  "ctx": "部左侍郎陽郡公阮能紹【刑部左侍郎】桂海侯黎仕澈工部左侍",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 1,
+  "action": "BOUNDARY",
+  "cur": "工部|ORG",
+  "cur_type": "",
+  "new": "工部左侍郎",
+  "new_type": "TITLE",
+  "ctx": "部左侍郎桂海侯黎仕澈【工部左侍郎】延禄伯楊㵆兵部右侍郎",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 1,
+  "action": "BOUNDARY",
+  "cur": "(chưa tag)",
+  "cur_type": "",
+  "new": "兵部右侍郎",
+  "new_type": "TITLE",
+  "ctx": "工部左侍郎延禄伯楊㵆【兵部右侍郎】潤裔伯胡士.",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 1,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "太尉",
+  "new_type": "TITLE",
+  "ctx": "兵進𤼵諒山道委節制府【太尉】宜國公鄭根統督諸将進",
+  "evidence": "xuất hiện 70x trong data, 62 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 1,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "都督同知",
+  "new_type": "TITLE",
+  "ctx": "黎時憲少傅奠郡公鄭楃【都督同知】禄郡公丁文左立郡公黎",
+  "evidence": "xuất hiện 22x trong data, 21 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 1,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "鄭根",
+  "new_type": "PER",
+  "ctx": "道委節制府太尉宜國公【鄭根】統督諸将進𤼵太原道差",
+  "evidence": "xuất hiện 34x trong data, 34 lần là PER, chỗ này chưa tag"
+ },
+ {
+  "rid": 1,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "黎時憲",
+  "new_type": "PER",
+  "ctx": "雲郡公鄭榩少尉豪郡公【黎時憲】少傅奠郡公鄭楃都督同",
+  "evidence": "xuất hiện 18x trong data, 18 lần là PER, chỗ này chưa tag"
+ },
+ {
+  "rid": 1,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "諒山",
+  "new_type": "LOC",
+  "ctx": ".於是王親提大兵進𤼵【諒山】道委節制府太尉宜國公",
+  "evidence": "xuất hiện 36x trong data, 35 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 1,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "宜國公",
+  "new_type": "TITLE",
+  "ctx": "𤼵諒山道委節制府太尉【宜國公】鄭根統督諸将進𤼵太原",
+  "evidence": "xuất hiện 10x trong data, 10 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 1,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "節制府",
+  "new_type": "ORG",
+  "ctx": "親提大兵進𤼵諒山道委【節制府】太尉宜國公鄭根統督諸",
+  "evidence": "xuất hiện 10x trong data, 10 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 1,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "九月",
+  "new_type": "DTM",
+  "ctx": "陞職爵有差〇.【九月】大舉進征髙平.時髙平",
+  "evidence": "xuất hiện 58x trong data, 55 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 1,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "少傅",
+  "new_type": "TITLE",
+  "ctx": "鄭榩少尉豪郡公黎時憲【少傅】奠郡公鄭楃都督同知禄",
+  "evidence": "xuất hiện 20x trong data, 20 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 1,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "太傅",
+  "new_type": "TITLE",
+  "ctx": "統督諸将進𤼵太原道差【太傅】莅郡公鄭棟少尉雲郡公",
+  "evidence": "xuất hiện 72x trong data, 58 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 1,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "少尉",
+  "new_type": "TITLE",
+  "ctx": "原道差太傅莅郡公鄭棟【少尉】雲郡公鄭榩少尉豪郡公",
+  "evidence": "xuất hiện 24x trong data, 21 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 1,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "少尉",
+  "new_type": "TITLE",
+  "ctx": "公鄭棟少尉雲郡公鄭榩【少尉】豪郡公黎時憲少傅奠郡",
+  "evidence": "xuất hiện 24x trong data, 21 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 1,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "統領",
+  "new_type": "TITLE",
+  "ctx": "丁文左立郡公黎珠等爲【統領】督率.以禮部左侍郎陽",
+  "evidence": "xuất hiện 8x trong data, 8 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 1,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "太原",
+  "new_type": "LOC",
+  "ctx": "國公鄭根統督諸将進𤼵【太原】道差太傅莅郡公鄭棟少",
+  "evidence": "xuất hiện 34x trong data, 33 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 1,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "黎仕澈",
+  "new_type": "PER",
+  "ctx": "能紹刑部左侍郎桂海侯【黎仕澈】工部左侍郎延禄伯楊㵆",
+  "evidence": "xuất hiện 9x trong data, 9 lần là PER, chỗ này chưa tag"
+ },
+ {
+  "rid": 1,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "鄭棟",
+  "new_type": "PER",
+  "ctx": "𤼵太原道差太傅莅郡公【鄭棟】少尉雲郡公鄭榩少尉豪",
+  "evidence": "xuất hiện 9x trong data, 9 lần là PER, chỗ này chưa tag"
+ },
+ {
+  "rid": 3,
+  "action": "RETYPE",
+  "cur": "進士",
+  "cur_type": "ORG",
+  "new": "進士",
+  "new_type": "TITLE",
+  "ctx": "迪心等九人弟二甲【進士】出身.阮𤩽等五十人第",
+  "evidence": "chức/danh vị -> TITLE"
+ },
+ {
+  "rid": 3,
+  "action": "RETYPE",
+  "cur": "進士",
+  "cur_type": "ORG",
+  "new": "進士",
+  "new_type": "TITLE",
+  "ctx": "阮𤩽等五十人第三甲同【進士】出身.秋八月大水.定",
+  "evidence": "chức/danh vị -> TITLE"
+ },
+ {
+  "rid": 3,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "正月",
+  "new_type": "DTM",
+  "ctx": "每年之内二次朝京每年【正月】七月各一次來朝.若有",
+  "evidence": "xuất hiện 13x trong data, 13 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 3,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十一月",
+  "new_type": "DTM",
+  "ctx": "二日帝下詔征老撾.東【十一月】二十日定選除刑部各司",
+  "evidence": "xuất hiện 37x trong data, 35 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 3,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "七月",
+  "new_type": "DTM",
+  "ctx": "之内二次朝京每年正月【七月】各一次來朝.若有適已",
+  "evidence": "xuất hiện 24x trong data, 23 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 3,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "衙門",
+  "new_type": "ORG",
+  "ctx": "日定首領官署字例一各【衙門】首領官.󰱥今奏本及一",
+  "evidence": "xuất hiện 21x trong data, 21 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 3,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "二十日",
+  "new_type": "DTM",
+  "ctx": "下詔征老撾.東十一月【二十日】定選除刑部各司官令.",
+  "evidence": "xuất hiện 14x trong data, 14 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 4,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "是月",
+  "new_type": "DTM",
+  "ctx": "僞情先啓訴有功故也.【是月】會試天下士人.取合格",
+  "evidence": "xuất hiện 14x trong data, 14 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 4,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "同進士出身",
+  "new_type": "TITLE",
+  "ctx": "進士出身胡士揚等七名【同進士出身】.朝堂等官請進封王世",
+  "evidence": "xuất hiện 19x trong data, 19 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 4,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "進士出身",
+  "new_type": "TITLE",
+  "ctx": "得失.賜馮曰脩等二名【進士出身】胡士揚等七名同進士出",
+  "evidence": "xuất hiện 17x trong data, 17 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 5,
+  "action": "BOUNDARY",
+  "cur": "春正",
+  "cur_type": "LOC",
+  "new": "春正月",
+  "new_type": "DTM",
+  "ctx": ".丁酉六年宋嘉熙元年【春正】月詔凣造嘱書文契係田",
+  "evidence": "guideline: 春正月 DTM lấy trọn"
+ },
+ {
+  "rid": 5,
+  "action": "RETYPE",
+  "cur": "太宗",
+  "cur_type": "TITLE",
+  "new": "太宗",
+  "new_type": "PER",
+  "ctx": "城就安子山孚雲國師師【太宗】故交也居.",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 5,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "太尉",
+  "new_type": "TITLE",
+  "ctx": "為大王関内侯范敬恩為【太尉】賜大王冠服.丁酉六年",
+  "evidence": "xuất hiện 70x trong data, 62 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 5,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三月",
+  "new_type": "DTM",
+  "ctx": "聖無子而順天懷娠國康【三月】陳守度與天極公主𡧸謀",
+  "evidence": "xuất hiện 78x trong data, 77 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 5,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "六年",
+  "new_type": "DTM",
+  "ctx": "太尉賜大王冠服.丁酉【六年】宋嘉熙元年春正月詔凣",
+  "evidence": "xuất hiện 15x trong data, 15 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 5,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "大王",
+  "new_type": "TITLE",
+  "ctx": "加封興仁王馮佐周為【大王】関内侯范敬恩為太尉賜",
+  "evidence": "xuất hiện 45x trong data, 39 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 5,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "大王",
+  "new_type": "TITLE",
+  "ctx": "関内侯范敬恩為太尉賜【大王】冠服.丁酉六年宋嘉熙",
+  "evidence": "xuất hiện 45x trong data, 39 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 5,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "守度",
+  "new_type": "PER",
+  "ctx": "而順天懷娠國康三月陳【守度】與天極公主𡧸謀於帝曰",
+  "evidence": "xuất hiện 29x trong data, 29 lần là PER, chỗ này chưa tag"
+ },
+ {
+  "rid": 6,
+  "action": "RETYPE",
+  "cur": "西國公",
+  "cur_type": "ORG",
+  "new": "西國公",
+  "new_type": "TITLE",
+  "ctx": "太尉【西國公】阮凱康爲太尉端國公並",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 6,
+  "action": "RETYPE",
+  "cur": "端國公",
+  "cur_type": "ORG",
+  "new": "端國公",
+  "new_type": "TITLE",
+  "ctx": "尉西國公阮凱康爲太尉【端國公】並賜姓莫.南道将黎伯",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 6,
+  "action": "RETYPE",
+  "cur": "太宰奉國公",
+  "cur_type": "ORG",
+  "new": "太宰奉國公",
+  "new_type": "TITLE",
+  "ctx": "姓莫.南道将黎伯驪爲【太宰奉國公】及上下臣属皆受封以圖",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 6,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三年",
+  "new_type": "DTM",
+  "ctx": "土山人庚戌二年莫景曆【三年】〇.明嘉靖二十九年莫",
+  "evidence": "xuất hiện 22x trong data, 22 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 9,
+  "action": "RETYPE",
+  "cur": "進士",
+  "cur_type": "ORG",
+  "new": "進士",
+  "new_type": "TITLE",
+  "ctx": "光華等二人同【進士】出身.九月流星大作聲",
+  "evidence": "chức/danh vị -> TITLE"
+ },
+ {
+  "rid": 9,
+  "action": "RETYPE",
+  "cur": "唐安王",
+  "cur_type": "ORG",
+  "new": "唐安王",
+  "new_type": "TITLE",
+  "ctx": "忠誠生子九人長敬止封【唐安王】副總帥次敬直封忠謹公",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 9,
+  "action": "RETYPE",
+  "cur": "忠謹公",
+  "cur_type": "ORG",
+  "new": "忠謹公",
+  "new_type": "TITLE",
+  "ctx": "唐安王副總帥次敬直封【忠謹公】錦衣衛掌衛事敬敷封端",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 9,
+  "action": "RETYPE",
+  "cur": "端亮公",
+  "cur_type": "ORG",
+  "new": "端亮公",
+  "new_type": "TITLE",
+  "ctx": "公錦衣衛掌衛事敬敷封【端亮公】興國衛掌衛事敬簡封惠",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 9,
+  "action": "RETYPE",
+  "cur": "惠成公",
+  "cur_type": "ORG",
+  "new": "惠成公",
+  "new_type": "TITLE",
+  "ctx": "公興國衛掌衛事敬簡封【惠成公】昭武衛掌衛事敬遵封勇",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 9,
+  "action": "RETYPE",
+  "cur": "勇義公",
+  "cur_type": "ORG",
+  "new": "勇義公",
+  "new_type": "TITLE",
+  "ctx": "公昭武衛掌衛事敬遵封【勇義公】朝東衛掌衛事敬慎封達",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 9,
+  "action": "RETYPE",
+  "cur": "達禮公",
+  "cur_type": "ORG",
+  "new": "達禮公",
+  "new_type": "TITLE",
+  "ctx": "公朝東衛掌衛事敬慎封【達禮公】敬恭封󰦛厚公敬體封匡",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 9,
+  "action": "RETYPE",
+  "cur": "󰦛厚公",
+  "cur_type": "ORG",
+  "new": "󰦛厚公",
+  "new_type": "TITLE",
+  "ctx": "事敬慎封達禮公敬恭封【󰦛厚公】敬體封匡輔公敬邦未得",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 9,
+  "action": "RETYPE",
+  "cur": "匡輔公",
+  "cur_type": "ORG",
+  "new": "匡輔公",
+  "new_type": "TITLE",
+  "ctx": "公敬恭封󰦛厚公敬體封【匡輔公】敬邦未得封.女九人長",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 9,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "敬典",
+  "new_type": "PER",
+  "ctx": "星出.十月莫敬典卒.【敬典】仁厚勇畧聰慧敏達履歷",
+  "evidence": "xuất hiện 13x trong data, 13 lần là PER, chỗ này chưa tag"
+ },
+ {
+  "rid": 10,
+  "action": "RETYPE",
+  "cur": "臨國公",
+  "cur_type": "LOC",
+  "new": "臨國公",
+  "new_type": "TITLE",
+  "ctx": "璤㱕于良溪侯裴堵後封【臨國公】.時侍書阮詮本娶領女",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 10,
+  "action": "RETYPE",
+  "cur": "尚書",
+  "cur_type": "ORG",
+  "new": "尚書",
+  "new_type": "TITLE",
+  "ctx": "副都御史阮貴雅為吏部【尚書】陪侍經筵.",
+  "evidence": "gazetteer: {'TITLE': 60, 'ORG': 3} -> đa số TITLE"
+ },
+ {
+  "rid": 10,
+  "action": "BOUNDARY",
+  "cur": "吏部|ORG+尚書|ORG",
+  "cur_type": "",
+  "new": "吏部尚書",
+  "new_type": "TITLE",
+  "ctx": "史󰱑副都御史阮貴雅為【吏部尚書】陪侍經筵.",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 10,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "御史",
+  "new_type": "ORG",
+  "ctx": "詮亦出其女.初六日以【御史】󰱑副都御史阮貴雅為吏",
+  "evidence": "xuất hiện 32x trong data, 27 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 10,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "御史",
+  "new_type": "ORG",
+  "ctx": ".初六日以御史󰱑副都【御史】阮貴雅為吏部尚書陪侍",
+  "evidence": "xuất hiện 32x trong data, 27 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 10,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "太平",
+  "new_type": "LOC",
+  "ctx": "月令上洪下洪荆門南策【太平】等府築海陽真金堤.莫",
+  "evidence": "xuất hiện 26x trong data, 26 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 11,
+  "action": "RETYPE",
+  "cur": "匡定公",
+  "cur_type": "PER",
+  "new": "匡定公",
+  "new_type": "TITLE",
+  "ctx": "揮三軍聞令奮力一攻斬【匡定公】新郡公於陣前.莫見兵",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 11,
+  "action": "RETYPE",
+  "cur": "新郡公",
+  "cur_type": "PER",
+  "new": "新郡公",
+  "new_type": "TITLE",
+  "ctx": "聞令奮力一攻斬匡定公【新郡公】於陣前.莫見兵勢不敵",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 11,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "官軍",
+  "new_type": "ORG",
+  "ctx": "為誓.於是大𭛁砲三聲【官軍】無不一當百勢如破竹遂",
+  "evidence": "xuất hiện 29x trong data, 28 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 13,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "八年",
+  "new_type": "DTM",
+  "ctx": "丑端慶元年[明弘治十【八年】].春正月朔日食.二",
+  "evidence": "xuất hiện 8x trong data, 8 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 13,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "百姓",
+  "new_type": "ORG",
+  "ctx": "十一日詔各處承宣官員【百姓】等大事用大方紙小事用",
+  "evidence": "xuất hiện 10x trong data, 9 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 13,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "百姓",
+  "new_type": "ORG",
+  "ctx": "箇月悉如明令.若官員【百姓】嘱書文契猶用方紙許本",
+  "evidence": "xuất hiện 10x trong data, 9 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 14,
+  "action": "RETYPE",
+  "cur": "建國公",
+  "cur_type": "PER",
+  "new": "建國公",
+  "new_type": "TITLE",
+  "ctx": "定都寕缺姓以下名自稱【建國公】㨿建昌乙技自稱強國公",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 14,
+  "action": "RETYPE",
+  "cur": "強國公",
+  "cur_type": "PER",
+  "new": "強國公",
+  "new_type": "TITLE",
+  "ctx": "建國公㨿建昌乙技自稱【強國公】㨿錦江太國公㨿嘉福華",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 14,
+  "action": "RETYPE",
+  "cur": "太國公",
+  "cur_type": "PER",
+  "new": "太國公",
+  "new_type": "TITLE",
+  "ctx": "乙技自稱強國公㨿錦江【太國公】㨿嘉福華國公㨿快州嚴",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 14,
+  "action": "RETYPE",
+  "cur": "華國公",
+  "cur_type": "PER",
+  "new": "華國公",
+  "new_type": "TITLE",
+  "ctx": "公㨿錦江太國公㨿嘉福【華國公】㨿快州嚴國公㨿四岐慶",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 14,
+  "action": "RETYPE",
+  "cur": "嚴國公",
+  "cur_type": "PER",
+  "new": "嚴國公",
+  "new_type": "TITLE",
+  "ctx": "公㨿嘉福華國公㨿快州【嚴國公】㨿四岐慶國公㨿山陽德",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 14,
+  "action": "RETYPE",
+  "cur": "四岐慶國公",
+  "cur_type": "PER",
+  "new": "四岐慶國公",
+  "new_type": "TITLE",
+  "ctx": "華國公㨿快州嚴國公㨿【四岐慶國公】㨿山陽德國公㨿夏華羙",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 14,
+  "action": "RETYPE",
+  "cur": "山陽德國公",
+  "cur_type": "PER",
+  "new": "山陽德國公",
+  "new_type": "TITLE",
+  "ctx": "嚴國公㨿四岐慶國公㨿【山陽德國公】㨿夏華羙壽侯㨿青波威",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 14,
+  "action": "RETYPE",
+  "cur": "夏華羙壽侯",
+  "cur_type": "PER",
+  "new": "夏華羙壽侯",
+  "new_type": "TITLE",
+  "ctx": "慶國公㨿山陽德國公㨿【夏華羙壽侯】㨿青波威王莫敬用㨿太",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 14,
+  "action": "RETYPE",
+  "cur": "青波威王",
+  "cur_type": "PER",
+  "new": "青波威王",
+  "new_type": "TITLE",
+  "ctx": "德國公㨿夏華羙壽侯㨿【青波威王】莫敬用㨿太原壮王莫敬",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 14,
+  "action": "RETYPE",
+  "cur": "天施義國公",
+  "cur_type": "PER",
+  "new": "天施義國公",
+  "new_type": "TITLE",
+  "ctx": "用㨿太原壮王莫敬章㨿【天施義國公】㨿新興文國公㨿三陽錦",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 14,
+  "action": "RETYPE",
+  "cur": "新興文國公",
+  "cur_type": "PER",
+  "new": "新興文國公",
+  "new_type": "TITLE",
+  "ctx": "莫敬章㨿天施義國公㨿【新興文國公】㨿三陽錦國公㨿青池忠",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 14,
+  "action": "RETYPE",
+  "cur": "三陽錦國公",
+  "cur_type": "PER",
+  "new": "三陽錦國公",
+  "new_type": "TITLE",
+  "ctx": "義國公㨿新興文國公㨿【三陽錦國公】㨿青池忠國公㨿普安福",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 14,
+  "action": "RETYPE",
+  "cur": "青池忠國公",
+  "cur_type": "PER",
+  "new": "青池忠國公",
+  "new_type": "TITLE",
+  "ctx": "文國公㨿三陽錦國公㨿【青池忠國公】㨿普安福國公㨿右𨻫.",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 14,
+  "action": "RETYPE",
+  "cur": "普安福國公",
+  "cur_type": "PER",
+  "new": "普安福國公",
+  "new_type": "TITLE",
+  "ctx": "錦國公㨿青池忠國公㨿【普安福國公】㨿右𨻫.大者數千餘人",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 15,
+  "action": "RETYPE",
+  "cur": "夷獠",
+  "cur_type": "LOC",
+  "new": "夷獠",
+  "new_type": "ORG",
+  "ctx": ".今藉其屢敗人情未固【夷獠】烏合易爲摧殄正當共出",
+  "evidence": "tộc danh/chính thể -> ORG"
+ },
+ {
+  "rid": 15,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "正月",
+  "new_type": "DTM",
+  "ctx": "三年梁中大同元年.春【正月】覇先等克嘉寧城.帝入",
+  "evidence": "xuất hiện 13x trong data, 13 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 15,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "八月",
+  "new_type": "DTM",
+  "ctx": "梁兵遂屯嘉寧江口.秋【八月】帝復率二萬自獠中率屯",
+  "evidence": "xuất hiện 55x trong data, 53 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 16,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十二月",
+  "new_type": "DTM",
+  "ctx": "二三月播種夏田則十一【十二月】耕種是夏田之急於冬尾",
+  "evidence": "xuất hiện 51x trong data, 50 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 16,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三月",
+  "new_type": "DTM",
+  "ctx": "隙秋夏有異.秋田則二【三月】播種夏田則十一十二月",
+  "evidence": "xuất hiện 78x trong data, 77 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 16,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十一日",
+  "new_type": "DTM",
+  "ctx": "少尹阮必勃之言也.二【十一日】定農隙時興作.建昌府",
+  "evidence": "xuất hiện 12x trong data, 12 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 17,
+  "action": "RETYPE",
+  "cur": "願王",
+  "cur_type": "PER",
+  "new": "願王",
+  "new_type": "TITLE",
+  "ctx": "十衣下褚二十衣遣王.【願王】聽樂消憂存問鄰國.賈",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 17,
+  "action": "RETYPE",
+  "cur": "蠻夷",
+  "cur_type": "PER",
+  "new": "蠻夷",
+  "new_type": "ORG",
+  "ctx": "制黃屋左纛.因爲書稱【蠻夷】大長老夫臣佗昧子再拜",
+  "evidence": "tộc danh/chính thể -> ORG"
+ },
+ {
+  "rid": 17,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "皇帝",
+  "new_type": "TITLE",
+  "ctx": "老夫臣佗昧子再拜上書【皇帝】陛下老夫故越吏也髙帝",
+  "evidence": "xuất hiện 69x trong data, 64 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 17,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "陛下",
+  "new_type": "TITLE",
+  "ctx": "臣佗昧子再拜上書皇帝【陛下】老夫故越吏也髙帝賜璽",
+  "evidence": "xuất hiện 14x trong data, 14 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 17,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "天子",
+  "new_type": "TITLE",
+  "ctx": "立两賢不並世漢皇帝賢【天子】自今去帝制黃屋左纛.",
+  "evidence": "xuất hiện 17x trong data, 17 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 18,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "太平",
+  "new_type": "LOC",
+  "ctx": "得傳宣天語意永期中外【太平】同.帝餞希曾詩云一自",
+  "evidence": "xuất hiện 26x trong data, 26 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 19,
+  "action": "RETYPE",
+  "cur": "節制",
+  "cur_type": "ORG",
+  "new": "節制",
+  "new_type": "TITLE",
+  "ctx": "俱将兵占㨿海陽地方.【節制】鄭松又差阮黄領兵徃勦",
+  "evidence": "chức/danh vị -> TITLE"
+ },
+ {
+  "rid": 19,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "統領",
+  "new_type": "TITLE",
+  "ctx": "餘不䏻破.至是命阮黄【統領】諸水兵攻之.及至黄使",
+  "evidence": "xuất hiện 8x trong data, 8 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 20,
+  "action": "RETYPE",
+  "cur": "恭王",
+  "cur_type": "ORG",
+  "new": "恭王",
+  "new_type": "TITLE",
+  "ctx": "聖節.逮登容簒位󰲝為【恭王】𭁈皇太后俱遇害.後追",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 20,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "海陽",
+  "new_type": "LOC",
+  "ctx": "未有開科乃詔山南山西【海陽】京北四政各士人共就嘉",
+  "evidence": "xuất hiện 44x trong data, 44 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 20,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "京北",
+  "new_type": "LOC",
+  "ctx": "開科乃詔山南山西海陽【京北】四政各士人共就嘉林春",
+  "evidence": "xuất hiện 27x trong data, 27 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 20,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "七年",
+  "new_type": "DTM",
+  "ctx": "七月二十六日生.光紹【七年】.昭宗出外莫登庸因立",
+  "evidence": "xuất hiện 10x trong data, 10 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 20,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "山南",
+  "new_type": "LOC",
+  "ctx": "試因國乱未有開科乃詔【山南】山西海陽京北四政各士",
+  "evidence": "xuất hiện 36x trong data, 36 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 20,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "山西",
+  "new_type": "LOC",
+  "ctx": "國乱未有開科乃詔山南【山西】海陽京北四政各士人共",
+  "evidence": "xuất hiện 18x trong data, 18 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 20,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三年",
+  "new_type": "DTM",
+  "ctx": "帝乃昭宗同母弟以端慶【三年】七月二十六日生.光紹",
+  "evidence": "xuất hiện 22x trong data, 22 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 21,
+  "action": "BOUNDARY",
+  "cur": "兵部|ORG",
+  "cur_type": "",
+  "new": "兵部左侍郎",
+  "new_type": "TITLE",
+  "ctx": "空.仍委阮文質賫行.【兵部左侍郎】陳中立翰林院檢討黎俊",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 21,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "朝廷",
+  "new_type": "ORG",
+  "ctx": "退兵如無王須馳來奏聞【朝廷】淄究妄報之人寘之于法",
+  "evidence": "xuất hiện 33x trong data, 28 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 22,
+  "action": "RETYPE",
+  "cur": "偽福王",
+  "cur_type": "ORG",
+  "new": "偽福王",
+  "new_type": "TITLE",
+  "ctx": "城駐營.時【偽福王】高國公並名缺等率眾奪",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 22,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "是月",
+  "new_type": "DTM",
+  "ctx": "于山西地方後又雨雹.【是月】明人又使委官王建立就",
+  "evidence": "xuất hiện 14x trong data, 14 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 23,
+  "action": "RETYPE",
+  "cur": "吕瑰王",
+  "cur_type": "PER",
+  "new": "吕瑰王",
+  "new_type": "TITLE",
+  "ctx": "子不可以承大統固要立【吕瑰王】.於是汝爲諷太后使出",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 23,
+  "action": "RETYPE",
+  "cur": "吕瑰王",
+  "cur_type": "PER",
+  "new": "吕瑰王",
+  "new_type": "TITLE",
+  "ctx": "於是汝爲諷太后使出迎【吕瑰王】汝爲等乃閉諸城門立帝",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 23,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "是月",
+  "new_type": "DTM",
+  "ctx": "后于東京太廟明德宫.【是月】化外州透入爭那巖䦕田",
+  "evidence": "xuất hiện 14x trong data, 14 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 24,
+  "action": "RETYPE",
+  "cur": "節制",
+  "cur_type": "ORG",
+  "new": "節制",
+  "new_type": "TITLE",
+  "ctx": "公績亦收兵回清華.時【節制】鄭松兼統内外.鄭永紹",
+  "evidence": "chức/danh vị -> TITLE"
+ },
+ {
+  "rid": 24,
+  "action": "RETYPE",
+  "cur": "鄭栢良郡公",
+  "cur_type": "PER",
+  "new": "鄭栢良郡公",
+  "new_type": "TITLE",
+  "ctx": "鄭松兼統内外.鄭永紹【鄭栢良郡公】等隂謀圖害.事泄俱繋",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 26,
+  "action": "RETYPE",
+  "cur": "壽國公",
+  "cur_type": "ORG",
+  "new": "壽國公",
+  "new_type": "TITLE",
+  "ctx": "世安民.以故國舅褚啓【壽國公】鄭侑𭁈瑞郡公吳柄皆謀",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 26,
+  "action": "RETYPE",
+  "cur": "瑞郡公",
+  "cur_type": "ORG",
+  "new": "瑞郡公",
+  "new_type": "TITLE",
+  "ctx": "國舅褚啓壽國公鄭侑𭁈【瑞郡公】吳柄皆謀曰陳有一人即",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 26,
+  "action": "RETYPE",
+  "cur": "太尉",
+  "cur_type": "ORG",
+  "new": "太尉",
+  "new_type": "TITLE",
+  "ctx": "維岳阮敬敬後仕莫官至【太尉】西國公追贈西岐王阮盎",
+  "evidence": "gazetteer: {'TITLE': 62, 'PER': 1, 'ORG': 7} -> đa số TITLE"
+ },
+ {
+  "rid": 26,
+  "action": "RETYPE",
+  "cur": "西國公",
+  "cur_type": "ORG",
+  "new": "西國公",
+  "new_type": "TITLE",
+  "ctx": "阮敬敬後仕莫官至太尉【西國公】追贈西岐王阮盎等聞之",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 26,
+  "action": "RETYPE",
+  "cur": "西岐王",
+  "cur_type": "ORG",
+  "new": "西岐王",
+  "new_type": "TITLE",
+  "ctx": "莫官至太尉西國公追贈【西岐王】阮盎等聞之擊鉦三連将",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 26,
+  "action": "RETYPE",
+  "cur": "錦衣衛",
+  "cur_type": "LOC",
+  "new": "錦衣衛",
+  "new_type": "ORG",
+  "ctx": "外見諸城門已閉遂直至【錦衣衛】敵萬司.把門拒之.",
+  "evidence": "gazetteer: {'ORG': 26, 'LOC': 1} -> đa số ORG"
+ },
+ {
+  "rid": 27,
+  "action": "RETYPE",
+  "cur": "尚書",
+  "cur_type": "ORG",
+  "new": "尚書",
+  "new_type": "TITLE",
+  "ctx": "徽延河伯黎希葛及吏部【尚書】黄仁添等三月初三日大",
+  "evidence": "gazetteer: {'TITLE': 60, 'ORG': 3} -> đa số TITLE"
+ },
+ {
+  "rid": 27,
+  "action": "BOUNDARY",
+  "cur": "尚書|ORG",
+  "cur_type": "",
+  "new": "吏部尚書",
+  "new_type": "TITLE",
+  "ctx": "黎景徽延河伯黎希葛及【吏部尚書】黄仁添等三月初三日大",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 28,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三日",
+  "new_type": "DTM",
+  "ctx": "與學士阮士固博戲或二【三日】夜以斷晝只據枰啜粥不",
+  "evidence": "xuất hiện 11x trong data, 11 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 29,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "諒山",
+  "new_type": "LOC",
+  "ctx": "出况村関外庶無󰏲遲.【諒山】都承憲三司刘𠃔直阮悌",
+  "evidence": "xuất hiện 36x trong data, 35 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 30,
+  "action": "RETYPE",
+  "cur": "偽威王",
+  "cur_type": "ORG",
+  "new": "偽威王",
+  "new_type": "TITLE",
+  "ctx": "【偽威王】莫敬用春山山東等.世",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 30,
+  "action": "RETYPE",
+  "cur": "偽太傅剛國公",
+  "cur_type": "PER",
+  "new": "偽太傅剛國公",
+  "new_type": "TITLE",
+  "ctx": "而還.是時清華原頭人【偽太傅剛國公】缺名起兵㨿乂安瓊瑠上",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 31,
+  "action": "DEL",
+  "cur": "天下",
+  "cur_type": "LOC",
+  "new": "",
+  "new_type": "",
+  "ctx": "尚挽唐󰔄之熙暭.布告【天下】咸使文之.十二月十五",
+  "evidence": "danh từ chung, guideline không tag"
+ },
+ {
+  "rid": 31,
+  "action": "RETYPE",
+  "cur": "端禮侯",
+  "cur_type": "ORG",
+  "new": "端禮侯",
+  "new_type": "TITLE",
+  "ctx": "金鏕提領四城軍務事封【端禮侯】.莫登庸殺福良侯何飛",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 31,
+  "action": "RETYPE",
+  "cur": "福良侯",
+  "cur_type": "ORG",
+  "new": "福良侯",
+  "new_type": "TITLE",
+  "ctx": "事封端禮侯.莫登庸殺【福良侯】何飛鶽等.時飛鶽等聞",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 31,
+  "action": "RETYPE",
+  "cur": "紫岳伯",
+  "cur_type": "ORG",
+  "new": "紫岳伯",
+  "new_type": "TITLE",
+  "ctx": "光紹帝解散北竄為其徒【紫岳伯】執送京師隘殺之.飛鶽",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 31,
+  "action": "RETYPE",
+  "cur": "陀陽王",
+  "cur_type": "PER",
+  "new": "陀陽王",
+  "new_type": "TITLE",
+  "ctx": "以前日奉使諳程常馳告【陀陽王】播迁亦竄死.阮文運阮",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 32,
+  "action": "RETYPE",
+  "cur": "蛮",
+  "cur_type": "PER",
+  "new": "蛮",
+  "new_type": "ORG",
+  "ctx": "入水則死不若還入城與【蛮】人鬪以一人易二蛮亦有",
+  "evidence": "tộc danh/chính thể -> ORG"
+ },
+ {
+  "rid": 32,
+  "action": "RETYPE",
+  "cur": "蛮",
+  "cur_type": "PER",
+  "new": "蛮",
+  "new_type": "ORG",
+  "ctx": "城與蛮人鬪以一人易二【蛮】亦有利.遂還向城入東",
+  "evidence": "tộc danh/chính thể -> ORG"
+ },
+ {
+  "rid": 32,
+  "action": "RETYPE",
+  "cur": "蛮",
+  "cur_type": "PER",
+  "new": "蛮",
+  "new_type": "ORG",
+  "ctx": "門.安南羅城東門也.【蛮】人不為備惟德等縱兵殺",
+  "evidence": "tộc danh/chính thể -> ORG"
+ },
+ {
+  "rid": 32,
+  "action": "RETYPE",
+  "cur": "蛮",
+  "cur_type": "PER",
+  "new": "蛮",
+  "new_type": "ORG",
+  "ctx": "人不為備惟德等縱兵殺【蛮】二千餘人.迨夜蛮將楊",
+  "evidence": "tộc danh/chính thể -> ORG"
+ },
+ {
+  "rid": 32,
+  "action": "RETYPE",
+  "cur": "蛮",
+  "cur_type": "PER",
+  "new": "蛮",
+  "new_type": "ORG",
+  "ctx": "兵殺蛮二千餘人.迨夜【蛮】將楊思縉始自子城城内",
+  "evidence": "tộc danh/chính thể -> ORG"
+ },
+ {
+  "rid": 32,
+  "action": "RETYPE",
+  "cur": "南詔",
+  "cur_type": "PER",
+  "new": "南詔",
+  "new_type": "ORG",
+  "ctx": "城也出救惟德等皆死.【南詔】两𨺻交州所殺虜且十五",
+  "evidence": "tộc danh/chính thể -> ORG"
+ },
+ {
+  "rid": 34,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "時帝",
+  "new_type": "PER",
+  "ctx": "斬大將一人餘皆驚散.【時帝】至米芹縱兵進擊斬首三",
+  "evidence": "xuất hiện 9x trong data, 8 lần là PER, chỗ này chưa tag"
+ },
+ {
+  "rid": 35,
+  "action": "RETYPE",
+  "cur": "皇子",
+  "cur_type": "PER",
+  "new": "皇子",
+  "new_type": "TITLE",
+  "ctx": "聞之惶感乃夜幸于外将【皇子】四人與俱至乂安城駐蹕",
+  "evidence": "gazetteer: {'TITLE': 44, 'PER': 2} -> đa số TITLE"
+ },
+ {
+  "rid": 35,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "陛下",
+  "new_type": "TITLE",
+  "ctx": "于帝曰左相兵權勢大.【陛下】難與並立.帝聞之惶感",
+  "evidence": "xuất hiện 14x trong data, 14 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 36,
+  "action": "RETYPE",
+  "cur": "親王",
+  "cur_type": "PER",
+  "new": "親王",
+  "new_type": "TITLE",
+  "ctx": "矣其制以皇宗列爵為始【親王】則皇子受封以府為號如",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 36,
+  "action": "RETYPE",
+  "cur": "皇子",
+  "cur_type": "PER",
+  "new": "皇子",
+  "new_type": "TITLE",
+  "ctx": "以皇宗列爵為始親王則【皇子】受封以府為號如建興府",
+  "evidence": "gazetteer: {'TITLE': 44, 'PER': 2} -> đa số TITLE"
+ },
+ {
+  "rid": 36,
+  "action": "RETYPE",
+  "cur": "建興王",
+  "cur_type": "LOC",
+  "new": "建興王",
+  "new_type": "TITLE",
+  "ctx": "封以府為號如建興府日【建興王】之類是也.嗣親王則親",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 36,
+  "action": "RETYPE",
+  "cur": "親王",
+  "cur_type": "PER",
+  "new": "親王",
+  "new_type": "TITLE",
+  "ctx": "日建興王之類是也.嗣【親王】則親王世子受封以縣為",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 36,
+  "action": "RETYPE",
+  "cur": "親王",
+  "cur_type": "PER",
+  "new": "親王",
+  "new_type": "TITLE",
+  "ctx": "王之類是也.嗣親王則【親王】世子受封以縣為號.",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 36,
+  "action": "RETYPE",
+  "cur": "世子",
+  "cur_type": "PER",
+  "new": "世子",
+  "new_type": "TITLE",
+  "ctx": "類是也.嗣親王則親王【世子】受封以縣為號.",
+  "evidence": "gazetteer: {'TITLE': 12, 'PER': 1} -> đa số TITLE"
+ },
+ {
+  "rid": 37,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "太祖",
+  "new_type": "TITLE",
+  "ctx": "王次子也.辛亥元年周【太祖】郭威廣順元年.王既黜",
+  "evidence": "xuất hiện 34x trong data, 29 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 37,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三哥",
+  "new_type": "PER",
+  "ctx": "郭威廣順元年.王既黜【三哥】即王位稱南.",
+  "evidence": "xuất hiện 11x trong data, 11 lần là PER, chỗ này chưa tag"
+ },
+ {
+  "rid": 39,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "七年",
+  "new_type": "DTM",
+  "ctx": "築羅城稍復牢固在位十【七年】以足疾乞還.許之以兵",
+  "evidence": "xuất hiện 10x trong data, 10 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 39,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "五月",
+  "new_type": "DTM",
+  "ctx": "今在盛光坊耤田東西.【五月】辛巳唐置柔遠軍於府治",
+  "evidence": "xuất hiện 43x trong data, 39 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 39,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "大王",
+  "new_type": "TITLE",
+  "ctx": "未幾卒.子安尊為布盖【大王】俗謂父曰布母曰盖故以",
+  "evidence": "xuất hiện 45x trong data, 39 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 39,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "大王",
+  "new_type": "TITLE",
+  "ctx": "祀即孚佑彰信崇義布盖【大王】其神祠今在盛光坊耤田",
+  "evidence": "xuất hiện 45x trong data, 39 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 39,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "七月",
+  "new_type": "DTM",
+  "ctx": "唐置柔遠軍於府治.秋【七月】庚辰唐以趙昌為都護.",
+  "evidence": "xuất hiện 24x trong data, 23 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 39,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "兵部",
+  "new_type": "ORG",
+  "ctx": "年以足疾乞還.許之以【兵部】郎中裴泰代昌.癸未唐",
+  "evidence": "xuất hiện 28x trong data, 27 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 40,
+  "action": "BOUNDARY",
+  "cur": "禮部|ORG",
+  "cur_type": "",
+  "new": "禮部尚書",
+  "new_type": "TITLE",
+  "ctx": "多牛社人.三月十六日【禮部尚書】丁貞奏乞行諭祭并加封",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 40,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三年",
+  "new_type": "DTM",
+  "ctx": "雅為吏部左侍郎.甲申【三年】明嘉靖三年.春帝在菩",
+  "evidence": "xuất hiện 22x trong data, 22 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 40,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三年",
+  "new_type": "DTM",
+  "ctx": "侍郎.甲申三年明嘉靖【三年】.春帝在菩提行營進封",
+  "evidence": "xuất hiện 22x trong data, 22 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 41,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "文武百官",
+  "new_type": "TITLE",
+  "ctx": "節制鄭松親率諸大臣及【文武百官】行拜賀禮.令閲另兵.",
+  "evidence": "xuất hiện 12x trong data, 11 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 41,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "五月",
+  "new_type": "DTM",
+  "ctx": "者致老弱多没于軍中.【五月】旱榖豆枯死.二十日帝",
+  "evidence": "xuất hiện 43x trong data, 39 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 41,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "二十日",
+  "new_type": "DTM",
+  "ctx": "父子及徒黨梟其首級.【二十日】帝回京.御駕至安常.",
+  "evidence": "xuất hiện 14x trong data, 14 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 41,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "二十日",
+  "new_type": "DTM",
+  "ctx": "中.五月旱榖豆枯死.【二十日】帝密禱于禁中又立壇于",
+  "evidence": "xuất hiện 14x trong data, 14 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 42,
+  "action": "RETYPE",
+  "cur": "南詔",
+  "cur_type": "PER",
+  "new": "南詔",
+  "new_type": "ORG",
+  "ctx": "眾.【南詔】引餘眾奔入州城固守.",
+  "evidence": "tộc danh/chính thể -> ORG"
+ },
+ {
+  "rid": 42,
+  "action": "RETYPE",
+  "cur": "蠻",
+  "cur_type": "PER",
+  "new": "蠻",
+  "new_type": "ORG",
+  "ctx": "冬十月駢圍州城十餘日【蠻】人困蹙甚.城且下會得",
+  "evidence": "tộc danh/chính thể -> ORG"
+ },
+ {
+  "rid": 42,
+  "action": "RETYPE",
+  "cur": "蠻",
+  "cur_type": "PER",
+  "new": "蠻",
+  "new_type": "ORG",
+  "ctx": "撿校工部尚書使駢來攻【蠻】人.駢至海門而還.晏",
+  "evidence": "tộc danh/chính thể -> ORG"
+ },
+ {
+  "rid": 42,
+  "action": "BOUNDARY",
+  "cur": "(chưa tag)",
+  "cur_type": "",
+  "new": "工部尚書",
+  "new_type": "TITLE",
+  "ctx": "帝得奏大喜即加駢撿校【工部尚書】使駢來攻蠻人.駢至海",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 42,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "冬十月",
+  "new_type": "DTM",
+  "ctx": "引餘眾奔入州城固守.【冬十月】駢圍州城十餘日蠻人困",
+  "evidence": "xuất hiện 59x trong data, 55 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 42,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "京師",
+  "new_type": "LOC",
+  "ctx": "匿於島聞維周過即馳詣【京師】.唐帝得奏大喜即加駢",
+  "evidence": "xuất hiện 56x trong data, 55 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 43,
+  "action": "RETYPE",
+  "cur": "平安王",
+  "cur_type": "PER",
+  "new": "平安王",
+  "new_type": "TITLE",
+  "ctx": "郎衍嘉侯黎弼四啓言扵【平安王】其一定世子預付兵權以",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 43,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "冬十月",
+  "new_type": "DTM",
+  "ctx": "用等六名同進士出身.【冬十月】户部左侍郎衍嘉侯黎弼",
+  "evidence": "xuất hiện 59x trong data, 55 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 43,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "世子",
+  "new_type": "TITLE",
+  "ctx": "四啓言扵平安王其一定【世子】預付兵權以固人心其二",
+  "evidence": "xuất hiện 13x trong data, 12 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 45,
+  "action": "RETYPE",
+  "cur": "富禄侯",
+  "cur_type": "PER",
+  "new": "富禄侯",
+  "new_type": "TITLE",
+  "ctx": ".太傅清郡公鄭𭫨密差【富禄侯】缺名斬得僞立郡公.三",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 45,
+  "action": "BOUNDARY",
+  "cur": "(chưa tag)",
+  "cur_type": "",
+  "new": "刑部左侍郎",
+  "new_type": "TITLE",
+  "ctx": "榜等往伐武崖僞黨.以【刑部左侍郎】禮川伯阮克寬爲督視.",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 45,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "督視",
+  "new_type": "TITLE",
+  "ctx": "郡公鄭榛朗郡公鄭稴𭁈【督視】副都御史芳泉伯阮惟時",
+  "evidence": "xuất hiện 24x trong data, 24 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 45,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "督視",
+  "new_type": "TITLE",
+  "ctx": "左侍郎禮川伯阮克寬爲【督視】.又添差左軍營将士一",
+  "evidence": "xuất hiện 24x trong data, 24 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 45,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "太保",
+  "new_type": "TITLE",
+  "ctx": "斬得僞立郡公.三月命【太保】鎮郡公鄭林率属将禄郡",
+  "evidence": "xuất hiện 89x trong data, 74 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 45,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三月",
+  "new_type": "DTM",
+  "ctx": "侯缺名斬得僞立郡公.【三月】命太保鎮郡公鄭林率属",
+  "evidence": "xuất hiện 78x trong data, 77 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 45,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "属将",
+  "new_type": "TITLE",
+  "ctx": "月命太保鎮郡公鄭林率【属将】禄郡公缺名會郡公鄭榜",
+  "evidence": "xuất hiện 11x trong data, 11 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 46,
+  "action": "RETYPE",
+  "cur": "太祖",
+  "cur_type": "TITLE",
+  "new": "太祖",
+  "new_type": "PER",
+  "ctx": "造勝嚴寺.黎文休曰李【太祖】即帝位甫及二年宗廟未",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 46,
+  "action": "DEL",
+  "cur": "則",
+  "cur_type": "PER",
+  "new": "",
+  "new_type": "",
+  "ctx": "觀而度京師千餘人為僧【則】土木財力之費不可勝言",
+  "evidence": "hư từ, rác projection"
+ },
+ {
+  "rid": 46,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "京師",
+  "new_type": "LOC",
+  "ctx": "寺又重修諸路寺觀而度【京師】千餘人為僧則土木財力",
+  "evidence": "xuất hiện 56x trong data, 55 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 46,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "社稷",
+  "new_type": "ORG",
+  "ctx": "帝位甫及二年宗廟未建【社稷】未立先於天德府創立八",
+  "evidence": "xuất hiện 12x trong data, 12 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 48,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "二月",
+  "new_type": "DTM",
+  "ctx": "次爵一次.戊戌六年[【二月】以後改永壽元年明曆十",
+  "evidence": "xuất hiện 61x trong data, 61 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 48,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十二年",
+  "new_type": "DTM",
+  "ctx": "月以後改永壽元年明曆【十二年】清順治十四年].永春",
+  "evidence": "xuất hiện 8x trong data, 8 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 49,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "翰林",
+  "new_type": "ORG",
+  "ctx": "一百三十條.夏四月命【翰林】科󰱑等官徃十二承宣審",
+  "evidence": "xuất hiện 19x trong data, 18 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 52,
+  "action": "RETYPE",
+  "cur": "都督同知",
+  "cur_type": "ORG",
+  "new": "都督同知",
+  "new_type": "TITLE",
+  "ctx": "為征夷将軍掛将軍印.【都督同知】黎永為征夷副将軍及總",
+  "evidence": "gazetteer: {'TITLE': 21, 'ORG': 1} -> đa số TITLE"
+ },
+ {
+  "rid": 52,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "駙馬都尉",
+  "new_type": "TITLE",
+  "ctx": "伐哀盆及老撾大破之.【駙馬都尉】東軍都督府掌府事端武",
+  "evidence": "xuất hiện 11x trong data, 9 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 52,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "将軍",
+  "new_type": "TITLE",
+  "ctx": "事端武候鄭公路為征夷【将軍】掛将軍印.都督同知黎",
+  "evidence": "xuất hiện 29x trong data, 29 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 52,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "将軍",
+  "new_type": "TITLE",
+  "ctx": "候鄭公路為征夷将軍掛【将軍】印.都督同知黎永為征",
+  "evidence": "xuất hiện 29x trong data, 29 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 52,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "将軍",
+  "new_type": "TITLE",
+  "ctx": "都督同知黎永為征夷副【将軍】及總兵同知阮弄等提領",
+  "evidence": "xuất hiện 29x trong data, 29 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 52,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "老撾",
+  "new_type": "LOC",
+  "ctx": "伐哀盆及【老撾】大破之.駙馬都尉東軍",
+  "evidence": "xuất hiện 13x trong data, 13 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 52,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "將軍",
+  "new_type": "TITLE",
+  "ctx": "𭛁去進擊哀牢.游騎副【將軍】黎弄及土兵參將丁世嶢",
+  "evidence": "xuất hiện 12x trong data, 11 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 52,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "將軍",
+  "new_type": "TITLE",
+  "ctx": "驅馳諸将震讋以威.掛【將軍】印如或失機驛聞行在參",
+  "evidence": "xuất hiện 12x trong data, 11 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 53,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "明年",
+  "new_type": "DTM",
+  "ctx": "月詔軍士繕甲治兵約以【明年】春二月伐占城.帝幸古",
+  "evidence": "xuất hiện 9x trong data, 9 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 53,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "春二月",
+  "new_type": "DTM",
+  "ctx": "軍士繕甲治兵約以明年【春二月】伐占城.帝幸古覽行營",
+  "evidence": "xuất hiện 24x trong data, 24 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 53,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十二月",
+  "new_type": "DTM",
+  "ctx": "者杖亦如之刺靣十字.【十二月】詔軍士繕甲治兵約以明",
+  "evidence": "xuất hiện 51x trong data, 50 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 53,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "陛下",
+  "new_type": "TITLE",
+  "ctx": "先雨潤今【陛下】欲興師征討不庭而兵噐",
+  "evidence": "xuất hiện 14x trong data, 14 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 53,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "百姓",
+  "new_type": "ORG",
+  "ctx": "帝幸古覽行營詔諸強盗【百姓】禾秧財物得財杖一百不",
+  "evidence": "xuất hiện 10x trong data, 9 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 54,
+  "action": "DEL",
+  "cur": "天下",
+  "cur_type": "LOC",
+  "new": "",
+  "new_type": "",
+  "ctx": "道塲新文及公文格式頒【天下】.九月詔庚寅辛卯年至",
+  "evidence": "danh từ chung, guideline không tag"
+ },
+ {
+  "rid": 54,
+  "action": "DEL",
+  "cur": "天下",
+  "cur_type": "LOC",
+  "new": "",
+  "new_type": "",
+  "ctx": ".若過年此不得贖.詔【天下】士人習學業待試.以内",
+  "evidence": "danh từ chung, guideline không tag"
+ },
+ {
+  "rid": 55,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "六年",
+  "new_type": "DTM",
+  "ctx": "職爵.癸丑五年莫景曆【六年】>>明嘉靖三十二年帝",
+  "evidence": "xuất hiện 15x trong data, 15 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 55,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "同進士出身",
+  "new_type": "TITLE",
+  "ctx": "士出身阮公族等十二人【同進士出身】.甲寅六年莫改景曆爲",
+  "evidence": "xuất hiện 19x trong data, 19 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 55,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "進士出身",
+  "new_type": "TITLE",
+  "ctx": "進士及第阮義立等五人【進士出身】阮公族等十二人同進士",
+  "evidence": "xuất hiện 17x trong data, 17 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 55,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "進士及第",
+  "new_type": "TITLE",
+  "ctx": "賜阮亮采黄珣陳永綏等【進士及第】阮義立等五人進士出身",
+  "evidence": "xuất hiện 10x trong data, 10 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 56,
+  "action": "RETYPE",
+  "cur": "蜀王",
+  "cur_type": "PER",
+  "new": "蜀王",
+  "new_type": "TITLE",
+  "ctx": "爲顯驗.媚娘既嫁山精【蜀王】憤怒嘱其子孫必滅文郎",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 56,
+  "action": "RETYPE",
+  "cur": "雄王",
+  "cur_type": "PER",
+  "new": "雄王",
+  "new_type": "TITLE",
+  "ctx": "攻取之.史臣吳士連曰【雄王】之世建侯立屏分國爲十",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 56,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "史臣",
+  "new_type": "TITLE",
+  "ctx": "蜀泮有勇畧乃攻取之.【史臣】吳士連曰雄王之世建侯",
+  "evidence": "xuất hiện 43x trong data, 43 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 57,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "六月",
+  "new_type": "DTM",
+  "ctx": "率土臣謹願奏祈以聞.【六月】初七日勑諭二十條.十",
+  "evidence": "xuất hiện 50x trong data, 45 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 57,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "禮部",
+  "new_type": "ORG",
+  "ctx": "七月二十七日明遣正使【禮部】郎中樂章副.",
+  "evidence": "xuất hiện 49x trong data, 49 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 57,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十六日",
+  "new_type": "DTM",
+  "ctx": "侍書陶󰁮為東閣校書.【十六日】詔捕茶王克昌以克昌潜",
+  "evidence": "xuất hiện 16x trong data, 16 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 57,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "八月",
+  "new_type": "DTM",
+  "ctx": "以克昌潜謀大逆固也至【八月】初六日克昌病死.秋七",
+  "evidence": "xuất hiện 55x trong data, 53 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 57,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "七月",
+  "new_type": "DTM",
+  "ctx": "月初六日克昌病死.秋【七月】二十七日明遣正使禮部",
+  "evidence": "xuất hiện 24x trong data, 23 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 57,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "二十七日",
+  "new_type": "DTM",
+  "ctx": "六日克昌病死.秋七月【二十七日】明遣正使禮部郎中樂章",
+  "evidence": "xuất hiện 18x trong data, 18 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 58,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "大王",
+  "new_type": "TITLE",
+  "ctx": "月二十四日星隕.興道【大王】卧病.帝幸其第問曰如",
+  "evidence": "xuất hiện 45x trong data, 39 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 59,
+  "action": "BOUNDARY",
+  "cur": "户部|ORG+尚書|TITLE",
+  "cur_type": "",
+  "new": "户部尚書",
+  "new_type": "TITLE",
+  "ctx": "寶示宰臣使之商議.權【户部尚書】阮居道言皇帝之寶乃傳",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 59,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "皇帝",
+  "new_type": "TITLE",
+  "ctx": "席坐.十二月帝以天南【皇帝】之寶示宰臣使之商議.",
+  "evidence": "xuất hiện 69x trong data, 64 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 59,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "皇帝",
+  "new_type": "TITLE",
+  "ctx": ".權户部尚書阮居道言【皇帝】之寶乃傳國之寶但天南",
+  "evidence": "xuất hiện 69x trong data, 64 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 59,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十二月",
+  "new_type": "DTM",
+  "ctx": "事不得𭁈正官正席坐.【十二月】帝以天南皇帝之寶示宰",
+  "evidence": "xuất hiện 51x trong data, 50 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 60,
+  "action": "RETYPE",
+  "cur": "節制",
+  "cur_type": "ORG",
+  "new": "節制",
+  "new_type": "TITLE",
+  "ctx": "【節制】鄭松觧其縛待以賓禮宣",
+  "evidence": "chức/danh vị -> TITLE"
+ },
+ {
+  "rid": 60,
+  "action": "RETYPE",
+  "cur": "節制",
+  "cur_type": "ORG",
+  "new": "節制",
+  "new_type": "TITLE",
+  "ctx": "已亡莫英䧺難施其力.【節制】鄭松嘉其言.是日莫兵",
+  "evidence": "chức/danh vị -> TITLE"
+ },
+ {
+  "rid": 60,
+  "action": "RETYPE",
+  "cur": "莫兵",
+  "cur_type": "PER",
+  "new": "莫兵",
+  "new_type": "ORG",
+  "ctx": "節制鄭松嘉其言.是日【莫兵】横屍相枕填委满壑血流",
+  "evidence": "gazetteer: {'ORG': 29, 'PER': 1} -> đa số ORG"
+ },
+ {
+  "rid": 60,
+  "action": "RETYPE",
+  "cur": "節制",
+  "cur_type": "ORG",
+  "new": "節制",
+  "new_type": "TITLE",
+  "ctx": "驚收殘卒㨿長江自守.【節制】鄭松兵至江會日暮且曰",
+  "evidence": "chức/danh vị -> TITLE"
+ },
+ {
+  "rid": 60,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "京城",
+  "new_type": "LOC",
+  "ctx": "死者數十員.噐械山積【京城】殿屋蕭然一空.莫茂洽",
+  "evidence": "xuất hiện 20x trong data, 20 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 61,
+  "action": "RETYPE",
+  "cur": "太祖",
+  "cur_type": "TITLE",
+  "new": "太祖",
+  "new_type": "PER",
+  "ctx": "左右如眾官導從之儀.【太祖】見而悅之因戱曰將家子",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 61,
+  "action": "RETYPE",
+  "cur": "太祖",
+  "cur_type": "TITLE",
+  "new": "太祖",
+  "new_type": "PER",
+  "ctx": "而在黎乎由天之命耳.【太祖】驚異由是益竒之.受禅",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 61,
+  "action": "RETYPE",
+  "cur": "開天王",
+  "cur_type": "PER",
+  "new": "開天王",
+  "new_type": "TITLE",
+  "ctx": "東宫太子.順天三年封【開天王】居于外.十一年命為元",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 61,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三年",
+  "new_type": "DTM",
+  "ctx": "日立為東宫太子.順天【三年】封開天王居于外.十一",
+  "evidence": "xuất hiện 22x trong data, 22 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 61,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "順天",
+  "new_type": "LOC",
+  "ctx": "禅之日立為東宫太子.【順天】三年封開天王居于外.",
+  "evidence": "xuất hiện 11x trong data, 10 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 61,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "元帥",
+  "new_type": "TITLE",
+  "ctx": "王居于外.十一年命為【元帥】擊占城于布政寨.大軍",
+  "evidence": "xuất hiện 14x trong data, 14 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 61,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "東宫",
+  "new_type": "LOC",
+  "ctx": "益竒之.受禅之日立為【東宫】太子.順天三年封開天",
+  "evidence": "xuất hiện 15x trong data, 14 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 62,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "鎮守",
+  "new_type": "TITLE",
+  "ctx": "餘歡阮定譚克讓等列營【鎮守】相持為登庸所破叔懋餘",
+  "evidence": "xuất hiện 11x trong data, 11 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 62,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "登庸",
+  "new_type": "PER",
+  "ctx": "克讓等列營鎮守相持為【登庸】所破叔懋餘歡等兵稍却",
+  "evidence": "xuất hiện 15x trong data, 14 lần là PER, chỗ này chưa tag"
+ },
+ {
+  "rid": 64,
+  "action": "RETYPE",
+  "cur": "仁宗",
+  "cur_type": "TITLE",
+  "new": "仁宗",
+  "new_type": "PER",
+  "ctx": "二月七日頒國諱帝諱烇【仁宗】昑聖宗晃太宗煚太祖承",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 64,
+  "action": "RETYPE",
+  "cur": "聖宗",
+  "cur_type": "TITLE",
+  "new": "聖宗",
+  "new_type": "PER",
+  "ctx": "日頒國諱帝諱烇仁宗昑【聖宗】晃太宗煚太祖承元祖李",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 64,
+  "action": "RETYPE",
+  "cur": "太祖",
+  "cur_type": "TITLE",
+  "new": "太祖",
+  "new_type": "PER",
+  "ctx": "烇仁宗昑聖宗晃太宗煚【太祖】承元祖李内諱聖慈皇后",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 64,
+  "action": "RETYPE",
+  "cur": "元祖",
+  "cur_type": "TITLE",
+  "new": "元祖",
+  "new_type": "PER",
+  "ctx": "昑聖宗晃太宗煚太祖承【元祖】李内諱聖慈皇后蜂順慈",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 64,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "六年",
+  "new_type": "DTM",
+  "ctx": "后也在位二十一年遜位【六年】壽四十五歳崩于天長府",
+  "evidence": "xuất hiện 15x trong data, 15 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 65,
+  "action": "RETYPE",
+  "cur": "節制",
+  "cur_type": "ORG",
+  "new": "節制",
+  "new_type": "TITLE",
+  "ctx": "沿江以守之.二十五日【節制】鄭松令諸營奇大移草津",
+  "evidence": "chức/danh vị -> TITLE"
+ },
+ {
+  "rid": 65,
+  "action": "RETYPE",
+  "cur": "節制",
+  "cur_type": "ORG",
+  "new": "節制",
+  "new_type": "TITLE",
+  "ctx": "明萬曆二十一年.九日【節制】鄭松督.",
+  "evidence": "chức/danh vị -> TITLE"
+ },
+ {
+  "rid": 65,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "正月",
+  "new_type": "DTM",
+  "ctx": "癸巳十六年是歳莫氏亡【正月】明萬曆二十一年.九日",
+  "evidence": "xuất hiện 13x trong data, 13 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 65,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "七年",
+  "new_type": "DTM",
+  "ctx": "年迄于其亡前後共六十【七年】.讖云莫得於亥失於亥",
+  "evidence": "xuất hiện 10x trong data, 10 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 65,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三年",
+  "new_type": "DTM",
+  "ctx": "元年傳五世至壬辰洪寕【三年】莫茂洽被俘.又繼以癸",
+  "evidence": "xuất hiện 22x trong data, 22 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 65,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "登庸",
+  "new_type": "PER",
+  "ctx": "云莫得於亥失於亥.盖【登庸】丁亥年簒位至茂洽以癸",
+  "evidence": "xuất hiện 15x trong data, 14 lần là PER, chỗ này chưa tag"
+ },
+ {
+  "rid": 66,
+  "action": "DEL",
+  "cur": "則",
+  "cur_type": "PER",
+  "new": "",
+  "new_type": "",
+  "ctx": "其父之不軐【則】其罪大矣誅之可也奪其",
+  "evidence": "hư từ, rác projection"
+ },
+ {
+  "rid": 66,
+  "action": "RETYPE",
+  "cur": "太宗",
+  "cur_type": "TITLE",
+  "new": "太宗",
+  "new_type": "PER",
+  "ctx": "爵邑降為庶人亦可也.【太宗】既赦其罪又以州郡附盖",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 66,
+  "action": "DEL",
+  "cur": "則",
+  "cur_type": "PER",
+  "new": "",
+  "new_type": "",
+  "ctx": "郡附盖之賜印封為太保【則】賞罰無章.及其為廣源",
+  "evidence": "hư từ, rác projection"
+ },
+ {
+  "rid": 66,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "明年",
+  "new_type": "DTM",
+  "ctx": "忘有國之大義也.帝以【明年】將伐占城詔造龍鳳魚蛇",
+  "evidence": "xuất hiện 9x trong data, 9 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 66,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "冬十月",
+  "new_type": "DTM",
+  "ctx": "豹鸚鵡戰艦數百餘艘.【冬十月】長春殿御楯自動.詔群",
+  "evidence": "xuất hiện 59x trong data, 55 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 67,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "朝廷",
+  "new_type": "ORG",
+  "ctx": ".夫何當職之具僚不顧【朝廷】之成憲.體國忘家者少",
+  "evidence": "xuất hiện 33x trong data, 28 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 68,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十二年",
+  "new_type": "DTM",
+  "ctx": "紀.後李南帝.在位三【十二年】.帝用詐術以併國望賊",
+  "evidence": "xuất hiện 8x trong data, 8 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 68,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "史臣",
+  "new_type": "TITLE",
+  "ctx": "【史臣】吳士連曰婦人謂嫁曰歸",
+  "evidence": "xuất hiện 43x trong data, 43 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 68,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三年",
+  "new_type": "DTM",
+  "ctx": "王起戊辰終庚寅凣二十【三年】.後李紀.後李南帝.",
+  "evidence": "xuất hiện 22x trong data, 22 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 69,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "文武百官",
+  "new_type": "TITLE",
+  "ctx": "差.勑旨公侯伯給制命【文武百官】二品給誥命三品至五品",
+  "evidence": "xuất hiện 12x trong data, 11 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 69,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "占城",
+  "new_type": "LOC",
+  "ctx": "月帝幸平灘徃征盆蛮.【占城】人乘船航海寇擾化州.",
+  "evidence": "xuất hiện 144x trong data, 144 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 69,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "進士出身",
+  "new_type": "TITLE",
+  "ctx": "郭廷寶讀卷.賜范播等【進士出身】有差.勑旨公侯伯給制",
+  "evidence": "xuất hiện 17x trong data, 17 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 70,
+  "action": "RETYPE",
+  "cur": "毅郡公",
+  "cur_type": "ORG",
+  "new": "毅郡公",
+  "new_type": "TITLE",
+  "ctx": "命【毅郡公】阮惟一守金洞.八月令",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 70,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "翰林",
+  "new_type": "ORG",
+  "ctx": "京殿.時莫舊臣東岸人【翰林】𭓇士阮時󰕑自稱為太保",
+  "evidence": "xuất hiện 19x trong data, 18 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 71,
+  "action": "RETYPE",
+  "cur": "周公",
+  "cur_type": "PER",
+  "new": "周公",
+  "new_type": "TITLE",
+  "ctx": "驕吝之實也孔子曰雖有【周公】之才之羙使驕且吝其餘",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 71,
+  "action": "RETYPE",
+  "cur": "睿宗",
+  "cur_type": "TITLE",
+  "new": "睿宗",
+  "new_type": "PER",
+  "ctx": "預享於孔子廟庭者也.【睿宗】皇帝諱曔明宗第十一子",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 71,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "六月",
+  "new_type": "DTM",
+  "ctx": "皇太妃以開祐九年丁丑【六月】二日誕生藝宗避乱時師",
+  "evidence": "xuất hiện 50x trong data, 45 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 72,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "社長",
+  "new_type": "TITLE",
+  "ctx": "官賜恩陞級𭁈勇士生徒【社長】官員子孫等並.",
+  "evidence": "xuất hiện 16x trong data, 15 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 73,
+  "action": "RETYPE",
+  "cur": "聖宗",
+  "cur_type": "TITLE",
+  "new": "聖宗",
+  "new_type": "PER",
+  "ctx": "其後【聖宗】自號為萬乘髙宗使人呼",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 73,
+  "action": "DEL",
+  "cur": "則",
+  "cur_type": "PER",
+  "new": "",
+  "new_type": "",
+  "ctx": "誇大.孔子所謂名不正【則】言不順此也.是月改元",
+  "evidence": "hư từ, rác projection"
+ },
+ {
+  "rid": 73,
+  "action": "BOUNDARY",
+  "cur": "史臣吳士連",
+  "cur_type": "PER",
+  "new": "史臣|TITLE + 吳士連|PER",
+  "new_type": "",
+  "ctx": ".帝以其異改元通瑞.【史臣吳士連】曰佛家之説有謂舍利者",
+  "evidence": "tách chức+tên"
+ },
+ {
+  "rid": 73,
+  "action": "DEL",
+  "cur": "則",
+  "cur_type": "PER",
+  "new": "",
+  "new_type": "",
+  "ctx": "身化為此.盖僧人斷慾【則】其.",
+  "evidence": "hư từ, rác projection"
+ },
+ {
+  "rid": 73,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "是月",
+  "new_type": "DTM",
+  "ctx": "名不正則言不順此也.【是月】改元通瑞元年.時有嚴",
+  "evidence": "xuất hiện 14x trong data, 14 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 74,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "内人",
+  "new_type": "TITLE",
+  "ctx": "上皇見汝諧曰此是何人【内人】以官家捧表人對.上皇",
+  "evidence": "xuất hiện 8x trong data, 8 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 74,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "内人",
+  "new_type": "TITLE",
+  "ctx": "動上皇曰庭中之人在否【内人】對曰尚在.乃命受表覽",
+  "evidence": "xuất hiện 8x trong data, 8 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 76,
+  "action": "BOUNDARY",
+  "cur": "史臣吳士連",
+  "cur_type": "PER",
+  "new": "史臣|TITLE + 吳士連|PER",
+  "new_type": "",
+  "ctx": "【史臣吳士連】曰惠宗之世天下之蠱已",
+  "evidence": "tách chức+tên"
+ },
+ {
+  "rid": 76,
+  "action": "RETYPE",
+  "cur": "太祖",
+  "cur_type": "TITLE",
+  "new": "太祖",
+  "new_type": "PER",
+  "ctx": "詩爲驗.盖自惠宗上至【太祖】八代而惠宗.",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 80,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "皇帝",
+  "new_type": "TITLE",
+  "ctx": "號曰啓天立極至仁彰孝【皇帝】.拜陳守度爲國尙父掌",
+  "evidence": "xuất hiện 69x trong data, 64 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 81,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "太尉",
+  "new_type": "TITLE",
+  "ctx": "為右諫議大夫阮光利為【太尉】譚碎狀為都綂武波斯為",
+  "evidence": "xuất hiện 70x trong data, 62 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 81,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "六月",
+  "new_type": "DTM",
+  "ctx": "禁城之内緫謂之十衛.【六月】以誕日為天聖節.以竹",
+  "evidence": "xuất hiện 50x trong data, 45 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 81,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "大夫",
+  "new_type": "TITLE",
+  "ctx": "中書侍郎何遠為左諫議【大夫】杜讖為右諫議大夫阮光",
+  "evidence": "xuất hiện 19x trong data, 18 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 81,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "大夫",
+  "new_type": "TITLE",
+  "ctx": "諫議大夫杜讖為右諫議【大夫】阮光利為太尉譚碎狀為",
+  "evidence": "xuất hiện 19x trong data, 18 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 83,
+  "action": "DEL",
+  "cur": "天下",
+  "cur_type": "LOC",
+  "new": "",
+  "new_type": "",
+  "ctx": "何異漢髙祖見項羽首.【天下】定矣.羅皚引餘?至瀘",
+  "evidence": "danh từ chung, guideline không tag"
+ },
+ {
+  "rid": 84,
+  "action": "DEL",
+  "cur": "天下",
+  "cur_type": "LOC",
+  "new": "",
+  "new_type": "",
+  "ctx": "月帝乃還京.夏四月令【天下】各處府縣總社係被經兵",
+  "evidence": "danh từ chung, guideline không tag"
+ },
+ {
+  "rid": 84,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三年",
+  "new_type": "DTM",
+  "ctx": "人民漂散許回復業饒役【三年】.然所𬋩多侵擾務行苛",
+  "evidence": "xuất hiện 22x trong data, 22 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 86,
+  "action": "RETYPE",
+  "cur": "南詔",
+  "cur_type": "PER",
+  "new": "南詔",
+  "new_type": "ORG",
+  "ctx": "肯之官勑賜死.冬十月【南詔】羣蛮五萬人來寇襲吿急",
+  "evidence": "tộc danh/chính thể -> ORG"
+ },
+ {
+  "rid": 86,
+  "action": "RETYPE",
+  "cur": "蛮",
+  "cur_type": "PER",
+  "new": "蛮",
+  "new_type": "ORG",
+  "ctx": "勑賜死.冬十月南詔羣【蛮】五萬人來寇襲吿急.唐",
+  "evidence": "tộc danh/chính thể -> ORG"
+ },
+ {
+  "rid": 86,
+  "action": "RETYPE",
+  "cur": "南詔",
+  "cur_type": "PER",
+  "new": "南詔",
+  "new_type": "ORG",
+  "ctx": "道𭛁弩手千人赴之.時【南詔】已圍府救兵不得至.襲",
+  "evidence": "tộc danh/chính thể -> ORG"
+ },
+ {
+  "rid": 86,
+  "action": "RETYPE",
+  "cur": "南詔",
+  "cur_type": "PER",
+  "new": "南詔",
+  "new_type": "ORG",
+  "ctx": "咸通四年.春正月庚午【南詔】𨺻府城蔡襲左右.",
+  "evidence": "tộc danh/chính thể -> ORG"
+ },
+ {
+  "rid": 86,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "正月",
+  "new_type": "DTM",
+  "ctx": "也癸未唐咸通四年.春【正月】庚午南詔𨺻府城蔡襲左",
+  "evidence": "xuất hiện 13x trong data, 13 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 86,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "冬十月",
+  "new_type": "DTM",
+  "ctx": "司戶不肯之官勑賜死.【冬十月】南詔羣蛮五萬人來寇襲",
+  "evidence": "xuất hiện 59x trong data, 55 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 86,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十二月",
+  "new_type": "DTM",
+  "ctx": "州受鄭愚節制求救之.【十二月】襲又求益兵勑山南東道",
+  "evidence": "xuất hiện 51x trong data, 50 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 86,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "山南",
+  "new_type": "LOC",
+  "ctx": ".十二月襲又求益兵勑【山南】東道𭛁弩手千人赴之.",
+  "evidence": "xuất hiện 36x trong data, 36 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 86,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "七月",
+  "new_type": "DTM",
+  "ctx": "相信京言終不之省.秋【七月】蔡京在任為政苛慘闔境",
+  "evidence": "xuất hiện 24x trong data, 23 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 87,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "六月",
+  "new_type": "DTM",
+  "ctx": "前不得任意或平或仄.【六月】十一日申明越奏告令󰱥",
+  "evidence": "xuất hiện 50x trong data, 45 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 87,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "二十六日",
+  "new_type": "DTM",
+  "ctx": "外任官吏娶部内婦女.【二十六日】開廣獄房漆補守獄應差",
+  "evidence": "xuất hiện 18x trong data, 17 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 87,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "文武百官",
+  "new_type": "TITLE",
+  "ctx": "守獄應差.定朝冠󰱥今【文武百官】進朝戴烏紗帽两趐宜一",
+  "evidence": "xuất hiện 12x trong data, 11 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 87,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "二十二日",
+  "new_type": "DTM",
+  "ctx": "【二十二日】禁外任官吏娶部内婦女",
+  "evidence": "xuất hiện 16x trong data, 16 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 87,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "衙門",
+  "new_type": "ORG",
+  "ctx": "事未經州縣府乘憲󰱑等【衙門】及已經告而勘理未完者",
+  "evidence": "xuất hiện 21x trong data, 21 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 87,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十一日",
+  "new_type": "DTM",
+  "ctx": "得任意或平或仄.六月【十一日】申明越奏告令󰱥今凡公",
+  "evidence": "xuất hiện 12x trong data, 12 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 87,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十二日",
+  "new_type": "DTM",
+  "ctx": "完者並不得越奏越告.【十二日】禁過回藩鎮籍令如清華",
+  "evidence": "xuất hiện 11x trong data, 11 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 87,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "安󰘊",
+  "new_type": "LOC",
+  "ctx": "鎮籍令如清華乂安順化【安󰘊】太原宣光諒山等處承宣",
+  "evidence": "xuất hiện 9x trong data, 9 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 91,
+  "action": "BOUNDARY",
+  "cur": "(chưa tag)",
+  "cur_type": "",
+  "new": "吏部尚書",
+  "new_type": "TITLE",
+  "ctx": "部.秋七月十四日帝諭【吏部尚書】阮如堵爾再三乞管領黎",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 92,
+  "action": "RETYPE",
+  "cur": "䧺國公丁公",
+  "cur_type": "PER",
+  "new": "䧺國公丁公",
+  "new_type": "TITLE",
+  "ctx": "之以爲長久之計.是月【䧺國公丁公】卒.厚䘮之.公廣平人",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 92,
+  "action": "RETYPE",
+  "cur": "太保文國公",
+  "cur_type": "ORG",
+  "new": "太保文國公",
+  "new_type": "TITLE",
+  "ctx": "廣平人.十月莫荗洽疑【太保文國公】范瑤陰有異圖.殺之十",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 92,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "七年",
+  "new_type": "DTM",
+  "ctx": ".鄧訓彰德良舍人甲子【七年】莫淳福三年明嘉靖四十",
+  "evidence": "xuất hiện 10x trong data, 10 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 92,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "世子",
+  "new_type": "TITLE",
+  "ctx": "親督大兵畧定山南路使【世子】與俱兵至清池上福地方",
+  "evidence": "xuất hiện 13x trong data, 12 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 92,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三年",
+  "new_type": "DTM",
+  "ctx": "良舍人甲子七年莫淳福【三年】明嘉靖四十三年時莫敬",
+  "evidence": "xuất hiện 22x trong data, 22 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 92,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三年",
+  "new_type": "DTM",
+  "ctx": "莫淳福三年明嘉靖四十【三年】時莫敬典長子端䧺王敬",
+  "evidence": "xuất hiện 22x trong data, 22 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 93,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "属将",
+  "new_type": "TITLE",
+  "ctx": "人來護駕再回本營.綏【属将】阮伯紀入侍.范田恐其",
+  "evidence": "xuất hiện 11x trong data, 11 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 94,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "尙書",
+  "new_type": "TITLE",
+  "ctx": "之作其言正治亦古史之【尙書】其寓褒貶亦魯史之春秋",
+  "evidence": "xuất hiện 9x trong data, 9 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 95,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十六日",
+  "new_type": "DTM",
+  "ctx": "上京特論鄕等知之三月【十六日】大赦凣四十九條.夏四",
+  "evidence": "xuất hiện 16x trong data, 16 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 95,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三月",
+  "new_type": "DTM",
+  "ctx": "根從上京特論鄕等知之【三月】十六日大赦凣四十九條",
+  "evidence": "xuất hiện 78x trong data, 77 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 95,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "夏四月",
+  "new_type": "DTM",
+  "ctx": "六日大赦凣四十九條.【夏四月】旱二十三日祈于昊天上",
+  "evidence": "xuất hiện 41x trong data, 40 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 95,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "陛下",
+  "new_type": "TITLE",
+  "ctx": "體道昊天至尊玉皇上帝【陛下】兹以自冬迄夏嗇雨恒暘",
+  "evidence": "xuất hiện 14x trong data, 14 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 95,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十三日",
+  "new_type": "DTM",
+  "ctx": "四十九條.夏四月旱二【十三日】祈于昊天上帝以自冬迄",
+  "evidence": "xuất hiện 13x trong data, 12 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 95,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "百姓",
+  "new_type": "ORG",
+  "ctx": "失望無以臣之否德遽令【百姓】以受殃茧蠢嗷嗷殆無生",
+  "evidence": "xuất hiện 10x trong data, 9 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 96,
+  "action": "RETYPE",
+  "cur": "北朝",
+  "cur_type": "LOC",
+  "new": "北朝",
+  "new_type": "ORG",
+  "ctx": ".更誣我以籍萬兵将併【北朝】之境宇.繼言我如天二",
+  "evidence": "gazetteer: {'ORG': 7, 'LOC': 1} -> đa số ORG"
+ },
+ {
+  "rid": 98,
+  "action": "RETYPE",
+  "cur": "順宗",
+  "cur_type": "TITLE",
+  "new": "順宗",
+  "new_type": "PER",
+  "ctx": ".是歲上皇子顒生.即【順宗】也.己未三年明洪武十",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 99,
+  "action": "BOUNDARY",
+  "cur": "尚書|TITLE",
+  "cur_type": "",
+  "new": "户部尚書",
+  "new_type": "TITLE",
+  "ctx": "司平狄衛.以黎景徽為【户部尚書】.",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 99,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "副使",
+  "new_type": "TITLE",
+  "ctx": "明差正使刑部郎中沈奉【副使】行人司行人董振來告立",
+  "evidence": "xuất hiện 18x trong data, 17 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 99,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "正使",
+  "new_type": "TITLE",
+  "ctx": ".十二月二十四日明差【正使】刑部郎中沈奉副使行人",
+  "evidence": "xuất hiện 13x trong data, 13 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 101,
+  "action": "RETYPE",
+  "cur": "仁宗",
+  "cur_type": "TITLE",
+  "new": "仁宗",
+  "new_type": "PER",
+  "ctx": "意乃解.史臣吳士連曰【仁宗】上奉慈宫有光孝道下任",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 101,
+  "action": "RETYPE",
+  "cur": "武宗",
+  "cur_type": "TITLE",
+  "new": "武宗",
+  "new_type": "PER",
+  "ctx": ".元使尚書安魯威來吿【武宗】即位.帝遣莫挺之如元",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 101,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "尚書",
+  "new_type": "TITLE",
+  "ctx": "之道賢者過之也.元使【尚書】安魯威來吿武宗即位.",
+  "evidence": "xuất hiện 63x trong data, 60 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 102,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "夏四月",
+  "new_type": "DTM",
+  "ctx": "准照便即並饒免充軍.【夏四月】初六日清華等處憲察使",
+  "evidence": "xuất hiện 41x trong data, 40 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 102,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三日",
+  "new_type": "DTM",
+  "ctx": "堤路木捍不得陞級.拾【三日】勅㫖各衛勢家奴婢開姓",
+  "evidence": "xuất hiện 11x trong data, 11 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 102,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "百姓",
+  "new_type": "ORG",
+  "ctx": "九品二子如八品子餘如【百姓】子.七品以下孫󰱇充軍",
+  "evidence": "xuất hiện 10x trong data, 9 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 102,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "百姓",
+  "new_type": "ORG",
+  "ctx": ".七品以下孫󰱇充軍如【百姓】例.一親父子兄弟三丁",
+  "evidence": "xuất hiện 10x trong data, 9 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 102,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "秀林局",
+  "new_type": "ORG",
+  "ctx": "羽林衛軍䏻讀書考中充【秀林局】儒生有吏才考中充内外",
+  "evidence": "xuất hiện 12x trong data, 11 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 103,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "皇帝",
+  "new_type": "TITLE",
+  "ctx": "綬以爲南越王.孝惠【皇帝】即位義不忍絶所賜老夫",
+  "evidence": "xuất hiện 69x trong data, 64 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 103,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "皇后",
+  "new_type": "TITLE",
+  "ctx": "國非敢有害於天下.髙【皇后】聞之大怒削去南越之籍",
+  "evidence": "xuất hiện 62x trong data, 60 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 103,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "御史",
+  "new_type": "ORG",
+  "ctx": "有死罪遣内史潘中尉髙【御史】平凣三董上書謝過皆不",
+  "evidence": "xuất hiện 32x trong data, 27 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 106,
+  "action": "BOUNDARY",
+  "cur": "都給事中|TITLE",
+  "cur_type": "",
+  "new": "吏科都給事中",
+  "new_type": "TITLE",
+  "ctx": "不取者銓除如前例.從【吏科都給事中】黄卲之言也.十四日申",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 106,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十一月",
+  "new_type": "DTM",
+  "ctx": "可昧󰒂而長傷化之風.【十一月】除税使鋪正等職.令勑",
+  "evidence": "xuất hiện 37x trong data, 35 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 106,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "衙門",
+  "new_type": "ORG",
+  "ctx": "使見鈌吏部首有出身各【衙門】吏經󰱇不守者銓除以便",
+  "evidence": "xuất hiện 21x trong data, 21 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 106,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十四日",
+  "new_type": "DTM",
+  "ctx": "都給事中黄卲之言也.【十四日】申明豪横.令中軍都督",
+  "evidence": "xuất hiện 9x trong data, 9 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 107,
+  "action": "BOUNDARY",
+  "cur": "春正",
+  "cur_type": "LOC",
+  "new": "春正月",
+  "new_type": "DTM",
+  "ctx": "宋咸淳九年元至元十年【春正】月朔改元〇.三月十九",
+  "evidence": "guideline: 春正月 DTM lấy trọn"
+ },
+ {
+  "rid": 108,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "天子",
+  "new_type": "TITLE",
+  "ctx": "㱕塟于御天之華陽陵從【天子】皇後禮今御天縣羙舍社",
+  "evidence": "xuất hiện 17x trong data, 17 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 109,
+  "action": "RETYPE",
+  "cur": "扶寕王",
+  "cur_type": "PER",
+  "new": "扶寕王",
+  "new_type": "TITLE",
+  "ctx": "敷莫敬慎莫敬簡莫敬遵【扶寕王】缺名以下宏禮公䧺亮公",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 109,
+  "action": "RETYPE",
+  "cur": "宏禮公",
+  "cur_type": "PER",
+  "new": "宏禮公",
+  "new_type": "TITLE",
+  "ctx": "莫敬遵扶寕王缺名以下【宏禮公】䧺亮公并武安莫.",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 109,
+  "action": "RETYPE",
+  "cur": "䧺亮公",
+  "cur_type": "PER",
+  "new": "䧺亮公",
+  "new_type": "TITLE",
+  "ctx": "扶寕王缺名以下宏禮公【䧺亮公】并武安莫.",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 110,
+  "action": "RETYPE",
+  "cur": "武郡公",
+  "cur_type": "PER",
+  "new": "武郡公",
+  "new_type": "TITLE",
+  "ctx": "中󰱐莫茂洽将就駐營.【武郡公】令人以象載之及二妓女",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 110,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "京師",
+  "new_type": "LOC",
+  "ctx": "以象載之及二妓女還至【京師】献俘生梟三日斬于菩提",
+  "evidence": "xuất hiện 56x trong data, 55 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 110,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "官軍",
+  "new_type": "ORG",
+  "ctx": "眼縣寺隱居凣十一日.【官軍】至鳳眼有村人向導引官",
+  "evidence": "xuất hiện 29x trong data, 28 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 110,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "官軍",
+  "new_type": "ORG",
+  "ctx": "軍至鳳眼有村人向導引【官軍】入寺中󰱐莫茂洽将就駐",
+  "evidence": "xuất hiện 29x trong data, 28 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 111,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "是月",
+  "new_type": "DTM",
+  "ctx": "入壘者擒獲斬以徇眾.【是月】武師鑠密使人潜入壘内",
+  "evidence": "xuất hiện 14x trong data, 14 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 111,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十月",
+  "new_type": "DTM",
+  "ctx": "【十月】莫将率兵與官兵交戰相",
+  "evidence": "xuất hiện 33x trong data, 32 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 112,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "御史",
+  "new_type": "ORG",
+  "ctx": "幾貟吏部具本内則六部【御史】󰱑堂上官六寺卿外則承",
+  "evidence": "xuất hiện 32x trong data, 27 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 112,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "衙門",
+  "new_type": "ORG",
+  "ctx": "各考如例具奏施行.某【衙門】詐妄𢫔著公䏻隐匿罪犯",
+  "evidence": "xuất hiện 21x trong data, 21 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 113,
+  "action": "RETYPE",
+  "cur": "三月",
+  "cur_type": "LOC",
+  "new": "三月",
+  "new_type": "DTM",
+  "ctx": "汰免󰱇.【三月】十五日止揮官貟任瘴地",
+  "evidence": "gazetteer: {'DTM': 77, 'LOC': 1} -> đa số DTM"
+ },
+ {
+  "rid": 113,
+  "action": "BOUNDARY",
+  "cur": "户部|ORG",
+  "cur_type": "",
+  "new": "户部尚書",
+  "new_type": "TITLE",
+  "ctx": "時有星隕自中天㱕東.【户部尚書】黎端之奉𬢱一各府縣官",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 116,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "京邑",
+  "new_type": "LOC",
+  "ctx": "黨連結聚集奸惡人欲乱【京邑】.夜常起火燒毀庯坊.",
+  "evidence": "xuất hiện 8x trong data, 8 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 116,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "官軍",
+  "new_type": "ORG",
+  "ctx": "常起火燒毀庯坊.事𮗓【官軍】捕得克寬父子三人及徒",
+  "evidence": "xuất hiện 29x trong data, 28 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 117,
+  "action": "BOUNDARY",
+  "cur": "(chưa tag)",
+  "cur_type": "",
+  "new": "吏科都給事中",
+  "new_type": "TITLE",
+  "ctx": "討草賊不及而還.命權【吏科都給事中】汧仁壽東道監察韶惟精",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 117,
+  "action": "BOUNDARY",
+  "cur": "兵部|ORG+尚書|TITLE",
+  "cur_type": "",
+  "new": "兵部尚書",
+  "new_type": "TITLE",
+  "ctx": "人銀子事𭛁故罷之.賜【兵部尚書】阮永錫閑住以永錫前年",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 117,
+  "action": "BOUNDARY",
+  "cur": "兵部|ORG+尚書|TITLE",
+  "cur_type": "",
+  "new": "兵部尚書",
+  "new_type": "TITLE",
+  "ctx": "政事得失.以黎伯籌為【兵部尚書】.流北平鎮.",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 117,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "六科",
+  "new_type": "ORG",
+  "ctx": "與之閑住.命六部六寺【六科】󰱇本吏識字有行檢各二",
+  "evidence": "xuất hiện 13x trong data, 13 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 117,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "安󰘊",
+  "new_type": "LOC",
+  "ctx": "仁壽東道監察韶惟精徃【安󰘊】鎮可勒堡按問將帥之逗",
+  "evidence": "xuất hiện 9x trong data, 9 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 118,
+  "action": "BOUNDARY",
+  "cur": "史臣吳士連",
+  "cur_type": "PER",
+  "new": "史臣|TITLE + 吳士連|PER",
+  "new_type": "",
+  "ctx": "【史臣吳士連】曰天地之間陰陽二氣爾",
+  "evidence": "tách chức+tên"
+ },
+ {
+  "rid": 118,
+  "action": "RETYPE",
+  "cur": "越",
+  "cur_type": "LOC",
+  "new": "越",
+  "new_type": "ORG",
+  "ctx": ".宋既天变不可回而我【越】尋有胡虜之侵幸而君臣",
+  "evidence": "gazetteer: {'ORG': 61, 'LOC': 1} -> đa số ORG"
+ },
+ {
+  "rid": 119,
+  "action": "RETYPE",
+  "cur": "仁國公",
+  "cur_type": "ORG",
+  "new": "仁國公",
+  "new_type": "TITLE",
+  "ctx": ".冬十二月十八日太傅【仁國公】莫登庸令沛溪伯范金榜",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 119,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "賛理",
+  "new_type": "TITLE",
+  "ctx": "史󰱑都御史阮荗等奏一【賛理】記録将臣吏有軍功已具",
+  "evidence": "xuất hiện 9x trong data, 9 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 119,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "御史",
+  "new_type": "ORG",
+  "ctx": "九月二十一日【御史】󰱑都御史阮荗等奏一賛",
+  "evidence": "xuất hiện 32x trong data, 27 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 119,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "御史",
+  "new_type": "ORG",
+  "ctx": "九月二十一日御史󰱑都【御史】阮荗等奏一賛理記録将",
+  "evidence": "xuất hiện 32x trong data, 27 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 121,
+  "action": "BOUNDARY",
+  "cur": "(chưa tag)",
+  "cur_type": "",
+  "new": "吏部左侍郎",
+  "new_type": "TITLE",
+  "ctx": "左侍郎鄧明謙朝列大夫【吏部左侍郎】黎挺之為户部左侍郎.",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 121,
+  "action": "BOUNDARY",
+  "cur": "(chưa tag)",
+  "cur_type": "",
+  "new": "户部左侍郎",
+  "new_type": "TITLE",
+  "ctx": "夫吏部左侍郎黎挺之為【户部左侍郎】.辛未三年[明正德六",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 121,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "正月",
+  "new_type": "DTM",
+  "ctx": "年[明正德六年].春【正月】朔日有食之.二月帝謁",
+  "evidence": "xuất hiện 13x trong data, 13 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 121,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "二月",
+  "new_type": "DTM",
+  "ctx": ".春正月朔日有食之.【二月】帝謁籃京.時申惟岳吳",
+  "evidence": "xuất hiện 61x trong data, 61 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 121,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "京北",
+  "new_type": "LOC",
+  "ctx": "時申惟岳吳文綜起兵于【京北】安富東岸加林等縣地方",
+  "evidence": "xuất hiện 27x trong data, 27 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 121,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "六年",
+  "new_type": "DTM",
+  "ctx": "郎.辛未三年[明正德【六年】].春正月朔日有食之",
+  "evidence": "xuất hiện 15x trong data, 15 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 121,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "大夫",
+  "new_type": "TITLE",
+  "ctx": "左侍郎鄧明謙朝列【大夫】吏部左侍郎黎挺之為户",
+  "evidence": "xuất hiện 19x trong data, 18 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 121,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "京師",
+  "new_type": "LOC",
+  "ctx": "破之擒維岳文綜等檻送【京師】傳指行在.初維岳於端",
+  "evidence": "xuất hiện 56x trong data, 55 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 121,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "進士出身",
+  "new_type": "TITLE",
+  "ctx": ".初維岳於端慶年聞舉【進士出身】官至錦衣衛斷事直金光",
+  "evidence": "xuất hiện 17x trong data, 17 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 121,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三年",
+  "new_type": "DTM",
+  "ctx": "之為户部左侍郎.辛未【三年】[明正德六年].春正",
+  "evidence": "xuất hiện 22x trong data, 22 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 121,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "東岸",
+  "new_type": "LOC",
+  "ctx": "吳文綜起兵于京北安富【東岸】加林等縣地方有安富儒",
+  "evidence": "xuất hiện 11x trong data, 11 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 121,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "左侍郎",
+  "new_type": "TITLE",
+  "ctx": "【左侍郎】鄧明謙朝列大夫吏部左",
+  "evidence": "xuất hiện 12x trong data, 11 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 122,
+  "action": "BOUNDARY",
+  "cur": "春正",
+  "cur_type": "LOC",
+  "new": "春正月",
+  "new_type": "DTM",
+  "ctx": ".壬寅十年元大德六年【春正】月以太尉德曄為統政太",
+  "evidence": "guideline: 春正月 DTM lấy trọn"
+ },
+ {
+  "rid": 122,
+  "action": "BOUNDARY",
+  "cur": "春正",
+  "cur_type": "LOC",
+  "new": "春正月",
+  "new_type": "DTM",
+  "ctx": "癸卯十一年元大德十年【春正】月十五日上皇居天長.",
+  "evidence": "guideline: 春正月 DTM lấy trọn"
+ },
+ {
+  "rid": 122,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "六年",
+  "new_type": "DTM",
+  "ctx": "大饑.壬寅十年元大德【六年】春正月以太尉德曄為統",
+  "evidence": "xuất hiện 15x trong data, 15 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 122,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十五日",
+  "new_type": "DTM",
+  "ctx": "一年元大德十年春正月【十五日】上皇居天長.",
+  "evidence": "xuất hiện 16x trong data, 15 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 124,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "時帝",
+  "new_type": "PER",
+  "ctx": "叔父㨿󱖮󰀋與帝拒戰.【時帝】年幼兵勢未振因奔比.",
+  "evidence": "xuất hiện 9x trong data, 8 lần là PER, chỗ này chưa tag"
+ },
+ {
+  "rid": 124,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "天子",
+  "new_type": "TITLE",
+  "ctx": "之及以蘆花左右引之象【天子】儀仗.暇日往擊別村兒",
+  "evidence": "xuất hiện 17x trong data, 17 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 126,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "登庸",
+  "new_type": "PER",
+  "ctx": "嘉靖七年.春正月是時【登庸】欲更立新政乃令鑄𦾔年",
+  "evidence": "xuất hiện 15x trong data, 14 lần là PER, chỗ này chưa tag"
+ },
+ {
+  "rid": 127,
+  "action": "RETYPE",
+  "cur": "五月",
+  "cur_type": "LOC",
+  "new": "五月",
+  "new_type": "DTM",
+  "ctx": "罪.上從之故有是令.【五月】二十六日勑旨内外管軍",
+  "evidence": "gazetteer: {'DTM': 39, 'ORG': 1, 'LOC': 3} -> đa số DTM"
+ },
+ {
+  "rid": 127,
+  "action": "RETYPE",
+  "cur": "二十六日",
+  "cur_type": "LOC",
+  "new": "二十六日",
+  "new_type": "DTM",
+  "ctx": "上從之故有是令.五月【二十六日】勑旨内外管軍民等中間",
+  "evidence": "gazetteer: {'DTM': 17, 'LOC': 1} -> đa số DTM"
+ },
+ {
+  "rid": 127,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "吏部",
+  "new_type": "ORG",
+  "ctx": "舒軍民之力.二十七日【吏部】上書阮伯驥奏官貟縁事",
+  "evidence": "xuất hiện 90x trong data, 87 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 128,
+  "action": "RETYPE",
+  "cur": "聖宗",
+  "cur_type": "TITLE",
+  "new": "聖宗",
+  "new_type": "PER",
+  "ctx": "【聖宗】盖欲以察下民愛戴之誠",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 128,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "官軍",
+  "new_type": "ORG",
+  "ctx": "州内旁鉄略支棱等関.【官軍】與戰不利退屯萬刼津.",
+  "evidence": "xuất hiện 29x trong data, 28 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 129,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "員外郎",
+  "new_type": "TITLE",
+  "ctx": "人.時欽刑院郎中武有【員外郎】䏓廷科五人並辞疾不入",
+  "evidence": "xuất hiện 15x trong data, 15 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 131,
+  "action": "RETYPE",
+  "cur": "宋景公",
+  "cur_type": "PER",
+  "new": "宋景公",
+  "new_type": "TITLE",
+  "ctx": "帝克承天心而變異消弭【宋景公】一發善言而灾星退舍.",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 131,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "九月",
+  "new_type": "DTM",
+  "ctx": "意者既示之警或未省悟【九月】下旬越本月旬異星見于",
+  "evidence": "xuất hiện 58x trong data, 55 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 134,
+  "action": "RETYPE",
+  "cur": "雄王",
+  "cur_type": "PER",
+  "new": "雄王",
+  "new_type": "TITLE",
+  "ctx": "百粤文身之俗盖始此.【雄王】六世武寧部扶董鄕有富",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 134,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "官軍",
+  "new_type": "ORG",
+  "ctx": "馬小兒即躍馬揮劍而前【官軍】從後破賊于武寧山.脚",
+  "evidence": "xuất hiện 29x trong data, 28 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 135,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "官兵",
+  "new_type": "ORG",
+  "ctx": "莫将使人登山頂望之見【官兵】回笑曰彼見我兵來自知",
+  "evidence": "xuất hiện 13x trong data, 12 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 136,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "八月",
+  "new_type": "DTM",
+  "ctx": "本人以徒軍丁罪辠之.【八月】初三日定百官朝儀.其",
+  "evidence": "xuất hiện 55x trong data, 53 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 136,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三日",
+  "new_type": "DTM",
+  "ctx": "徒軍丁罪辠之.八月初【三日】定百官朝儀.其宜󰱥今",
+  "evidence": "xuất hiện 11x trong data, 11 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 138,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "演州",
+  "new_type": "LOC",
+  "ctx": "海去今辟水犀也.世傳【演州】高舍社夜山是其處.仲",
+  "evidence": "xuất hiện 21x trong data, 21 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 139,
+  "action": "RETYPE",
+  "cur": "太祖",
+  "cur_type": "TITLE",
+  "new": "太祖",
+  "new_type": "PER",
+  "ctx": "〇.元朱德裕稱帝即明【太祖】後更名元章〇.以阮中",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 139,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "六月",
+  "new_type": "DTM",
+  "ctx": "〇.地震〇.三月至夏【六月】旱〇.秋七月大雨水〇",
+  "evidence": "xuất hiện 50x trong data, 45 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 139,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "春二月",
+  "new_type": "DTM",
+  "ctx": "未十五年元至正十五年【春二月】茶鄕聖主山崩〇.地震",
+  "evidence": "xuất hiện 24x trong data, 24 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 139,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三月",
+  "new_type": "DTM",
+  "ctx": "聖主山崩〇.地震〇.【三月】至夏六月旱〇.秋七月",
+  "evidence": "xuất hiện 78x trong data, 77 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 139,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "尚書",
+  "new_type": "TITLE",
+  "ctx": "江鎮經畧使入内大行遣【尚書】有弼兼知樞𡧸院事侍經",
+  "evidence": "xuất hiện 63x trong data, 60 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 139,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "九月",
+  "new_type": "DTM",
+  "ctx": "〇.秋七月大雨水〇.【九月】雷震朝元門及左右掖門",
+  "evidence": "xuất hiện 58x trong data, 55 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 139,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "七月",
+  "new_type": "DTM",
+  "ctx": "三月至夏六月旱〇.秋【七月】大雨水〇.九月雷震朝",
+  "evidence": "xuất hiện 24x trong data, 23 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 140,
+  "action": "RETYPE",
+  "cur": "順宗",
+  "cur_type": "TITLE",
+  "new": "順宗",
+  "new_type": "PER",
+  "ctx": "符門惟鄔等由景陽門.【順宗】皇帝諱顒藝宗季子也在",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 140,
+  "action": "BOUNDARY",
+  "cur": "春正",
+  "cur_type": "DTM",
+  "new": "春正月",
+  "new_type": "DTM",
+  "ctx": "太二年明洪武二十二年【春正】月立季犛長女聖偶為皇",
+  "evidence": "guideline: 春正月 DTM lấy trọn"
+ },
+ {
+  "rid": 140,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "二月",
+  "new_type": "DTM",
+  "ctx": "后號所居曰皇元殿〇.【二月】塟靈德大王于安排山命",
+  "evidence": "xuất hiện 61x trong data, 61 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 140,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十二年",
+  "new_type": "DTM",
+  "ctx": "己巳光太二年明洪武二【十二年】春正月立季犛長女聖偶",
+  "evidence": "xuất hiện 8x trong data, 8 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 140,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三月",
+  "new_type": "DTM",
+  "ctx": "排山命季貔掌其事〇.【三月】以杜子澄為御史大夫〇",
+  "evidence": "xuất hiện 78x trong data, 77 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 140,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "夏四月",
+  "new_type": "DTM",
+  "ctx": "杜子澄為御史大夫〇.【夏四月】以范巨論為僉書樞𡧸.",
+  "evidence": "xuất hiện 41x trong data, 40 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 140,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "御史",
+  "new_type": "ORG",
+  "ctx": "事〇.三月以杜子澄為【御史】大夫〇.夏四月以范巨",
+  "evidence": "xuất hiện 32x trong data, 27 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 141,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "皇帝",
+  "new_type": "TITLE",
+  "ctx": "緒保安皇家.當神宗淵【皇帝】在御則協恭同寅懋勉政",
+  "evidence": "xuất hiện 69x trong data, 64 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 141,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "國王",
+  "new_type": "TITLE",
+  "ctx": "拓封疆尊安國勢好通北【國王】爵普封.兹我承祖宗功",
+  "evidence": "xuất hiện 11x trong data, 10 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 141,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "太平",
+  "new_type": "LOC",
+  "ctx": "懋勉政事夙夜謀慮興致【太平】.",
+  "evidence": "xuất hiện 26x trong data, 26 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 141,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "社稷",
+  "new_type": "ORG",
+  "ctx": "兹我承祖宗功德之傳任【社稷】生民之寄篤忠貞大節照",
+  "evidence": "xuất hiện 12x trong data, 12 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 142,
+  "action": "RETYPE",
+  "cur": "𥳑脩公",
+  "cur_type": "PER",
+  "new": "𥳑脩公",
+  "new_type": "TITLE",
+  "ctx": "以叔父迯遁不知所之獨【𥳑脩公】以叔伯之子繋獄得脱.",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 142,
+  "action": "DEL",
+  "cur": "本國",
+  "cur_type": "LOC",
+  "new": "",
+  "new_type": "",
+  "ctx": "征占城得茶遂妻子㱕于【本國】置居寶慶門外幾三十年",
+  "evidence": "danh từ chung, guideline không tag"
+ },
+ {
+  "rid": 142,
+  "action": "DEL",
+  "cur": "功臣",
+  "cur_type": "TITLE",
+  "new": "",
+  "new_type": "",
+  "ctx": "]時始亡.至是諸勢家【功臣】占奴居田庄亦迯回國.",
+  "evidence": "danh từ chung, guideline không tag"
+ },
+ {
+  "rid": 143,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "春二月",
+  "new_type": "DTM",
+  "ctx": "丙申三年宋至道二年.【春二月】帝親征麻皇大發丹波四",
+  "evidence": "xuất hiện 24x trong data, 24 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 144,
+  "action": "RETYPE",
+  "cur": "仁宗",
+  "cur_type": "TITLE",
+  "new": "仁宗",
+  "new_type": "PER",
+  "ctx": "尼.冬祔塟宣慈太后于【仁宗】陵傍𥘉仁宗嘗嘱英宗他",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 144,
+  "action": "RETYPE",
+  "cur": "仁宗",
+  "cur_type": "TITLE",
+  "new": "仁宗",
+  "new_type": "PER",
+  "ctx": "宣慈太后于仁宗陵傍𥘉【仁宗】嘗嘱英宗他日當以姨即",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 145,
+  "action": "BOUNDARY",
+  "cur": "春正",
+  "cur_type": "LOC",
+  "new": "春正月",
+  "new_type": "DTM",
+  "ctx": "巳十三年元至正十三年【春正】月詔王侯造戰船噐械練",
+  "evidence": "guideline: 春正月 DTM lấy trọn"
+ },
+ {
+  "rid": 145,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "六月",
+  "new_type": "DTM",
+  "ctx": "定王暊為右相國〇.夏【六月】大擧伐占城.步軍至古",
+  "evidence": "xuất hiện 50x trong data, 45 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 145,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三年",
+  "new_type": "DTM",
+  "ctx": "癸巳十【三年】元至正十三年春正月詔",
+  "evidence": "xuất hiện 22x trong data, 22 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 145,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三年",
+  "new_type": "DTM",
+  "ctx": "癸巳十三年元至正十【三年】春正月詔王侯造戰船噐",
+  "evidence": "xuất hiện 22x trong data, 22 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 145,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三年",
+  "new_type": "DTM",
+  "ctx": "人曰每月用藥所費百金【三年】方效.王從嗞.盖謂國",
+  "evidence": "xuất hiện 22x trong data, 22 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 145,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三年",
+  "new_type": "DTM",
+  "ctx": "嗞.盖謂國王與己及󰍆【三年】嗞間必有一亡者但竊王",
+  "evidence": "xuất hiện 22x trong data, 22 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 145,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "水軍",
+  "new_type": "ORG",
+  "ctx": "擧伐占城.步軍至古壘【水軍】運糧見阻乃還.初興孝",
+  "evidence": "xuất hiện 9x trong data, 9 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 146,
+  "action": "RETYPE",
+  "cur": "僉都御史",
+  "cur_type": "ORG",
+  "new": "僉都御史",
+  "new_type": "TITLE",
+  "ctx": "惟虎嘉林縣人為御使台【僉都御史】武麟定為順化參正改命",
+  "evidence": "gazetteer: {'TITLE': 12, 'ORG': 1} -> đa số TITLE"
+ },
+ {
+  "rid": 147,
+  "action": "RETYPE",
+  "cur": "大臣",
+  "cur_type": "LOC",
+  "new": "大臣",
+  "new_type": "TITLE",
+  "ctx": "恐惧脩省之日.宜宣召【大臣】𭁈諸王子諭以王業󰠡难",
+  "evidence": "gazetteer: {'TITLE': 14, 'ORG': 3, 'LOC': 1} -> đa số TITLE"
+ },
+ {
+  "rid": 147,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "六月",
+  "new_type": "DTM",
+  "ctx": "王留思之.己未二十年【六月】以後神宗永明萬曆四十",
+  "evidence": "xuất hiện 50x trong data, 45 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 147,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "正月",
+  "new_type": "DTM",
+  "ctx": "曆四十七年.祚元年春【正月】十六.",
+  "evidence": "xuất hiện 13x trong data, 13 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 147,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "七年",
+  "new_type": "DTM",
+  "ctx": "以後神宗永明萬曆四十【七年】.祚元年春正月十六.",
+  "evidence": "xuất hiện 10x trong data, 10 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 147,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "衙門",
+  "new_type": "ORG",
+  "ctx": "水路陸路私置巡司巡察【衙門】.乞令諭諸将一切停罷",
+  "evidence": "xuất hiện 21x trong data, 21 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 147,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "太平",
+  "new_type": "LOC",
+  "ctx": "轉爲景星世治陶爲至治【太平】做十分祚胤傳億載國家",
+  "evidence": "xuất hiện 26x trong data, 26 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 149,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "右侍郎",
+  "new_type": "TITLE",
+  "ctx": "同值止齋戒而不救.以【右侍郎】.",
+  "evidence": "xuất hiện 9x trong data, 9 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 150,
+  "action": "RETYPE",
+  "cur": "高宗",
+  "cur_type": "TITLE",
+  "new": "高宗",
+  "new_type": "PER",
+  "ctx": "來吊祭.惠宗皇帝諱旵【高宗】長子其母譚氏皇后於甲",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 150,
+  "action": "RETYPE",
+  "cur": "高宗",
+  "cur_type": "TITLE",
+  "new": "高宗",
+  "new_type": "PER",
+  "ctx": "戊辰正月󰀋立爲皇太子【高宗】崩遂登太寳在位十四年",
+  "evidence": "miếu hiệu -> PER (guideline)"
+ },
+ {
+  "rid": 151,
+  "action": "RETYPE",
+  "cur": "禮郡公",
+  "cur_type": "PER",
+  "new": "禮郡公",
+  "new_type": "TITLE",
+  "ctx": ".後文奎再将兵拽尋󰱐【禮郡公】首回京觧納令梟三日.",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 151,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "是月",
+  "new_type": "DTM",
+  "ctx": "賞文奎金十斤陞少保.【是月】令天下各處建鄕試塲取",
+  "evidence": "xuất hiện 14x trong data, 14 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 151,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十二月",
+  "new_type": "DTM",
+  "ctx": "下各處建鄕試塲取士.【十二月】偽陳德澤等㨿兵大慈使",
+  "evidence": "xuất hiện 51x trong data, 50 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 151,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "少保",
+  "new_type": "TITLE",
+  "ctx": "鄭松議賞文奎金十斤陞【少保】.是月令天下各處建鄕",
+  "evidence": "xuất hiện 53x trong data, 49 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 151,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三日",
+  "new_type": "DTM",
+  "ctx": "禮郡公首回京觧納令梟【三日】.節制鄭松議賞文奎金",
+  "evidence": "xuất hiện 11x trong data, 11 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 151,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "文奎",
+  "new_type": "PER",
+  "ctx": "至賊󰕛棄船登岸走散.【文奎】收󰱐阮沔首級而還.後",
+  "evidence": "xuất hiện 9x trong data, 9 lần là PER, chỗ này chưa tag"
+ },
+ {
+  "rid": 151,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "文奎",
+  "new_type": "PER",
+  "ctx": "收󰱐阮沔首級而還.後【文奎】再将兵拽尋󰱐禮郡公首",
+  "evidence": "xuất hiện 9x trong data, 9 lần là PER, chỗ này chưa tag"
+ },
+ {
+  "rid": 151,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "文奎",
+  "new_type": "PER",
+  "ctx": "梟三日.節制鄭松議賞【文奎】金十斤陞少保.是月令",
+  "evidence": "xuất hiện 9x trong data, 9 lần là PER, chỗ này chưa tag"
+ },
+ {
+  "rid": 153,
+  "action": "BOUNDARY",
+  "cur": "左侍郎|TITLE",
+  "cur_type": "",
+  "new": "户部左侍郎",
+  "new_type": "TITLE",
+  "ctx": "可一日同作以舒人力.【户部左侍郎】阮.",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 154,
+  "action": "RETYPE",
+  "cur": "愍厲公",
+  "cur_type": "PER",
+  "new": "愍厲公",
+  "new_type": "TITLE",
+  "ctx": "日衰兆於此矣.詔追尊【愍厲公】為威穆帝.二十八日殺",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 154,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "皇帝",
+  "new_type": "TITLE",
+  "ctx": ".稽諸往古厥有明徵.【皇帝】府時必謹幽明之.",
+  "evidence": "xuất hiện 69x trong data, 64 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 154,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十八日",
+  "new_type": "DTM",
+  "ctx": "尊愍厲公為威穆帝.二【十八日】殺假天蓬陳公務公務嘉",
+  "evidence": "xuất hiện 14x trong data, 14 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 155,
+  "action": "RETYPE",
+  "cur": "朝郡公",
+  "cur_type": "ORG",
+  "new": "朝郡公",
+  "new_type": "TITLE",
+  "ctx": "爲總鎮清華道鎮守兵民【朝郡公】武師鑠安郡公頼世卿等",
+  "evidence": "tước phong -> TITLE (form-based)"
+ },
+ {
+  "rid": 155,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "海門",
+  "new_type": "LOC",
+  "ctx": "頼世卿等同領精兵鎮守【海門】以防遏賊寇.太師督大",
+  "evidence": "xuất hiện 17x trong data, 15 lần là LOC, chỗ này chưa tag"
+ },
+ {
+  "rid": 155,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "鎮守",
+  "new_type": "TITLE",
+  "ctx": "郡公黎種爲總鎮清華道【鎮守】兵民朝郡公武師鑠安郡",
+  "evidence": "xuất hiện 11x trong data, 11 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 155,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "鎮守",
+  "new_type": "TITLE",
+  "ctx": "郡公頼世卿等同領精兵【鎮守】海門以防遏賊寇.太師",
+  "evidence": "xuất hiện 11x trong data, 11 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 155,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "莫兵",
+  "new_type": "ORG",
+  "ctx": "時【莫兵】數敗福原惶惧棄昇龍城",
+  "evidence": "xuất hiện 30x trong data, 29 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 155,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "户部",
+  "new_type": "ORG",
+  "ctx": "南門外三月太師鄭檢使【户部】度支文全子黎仲原勘度",
+  "evidence": "xuất hiện 11x trong data, 9 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 156,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "三年",
+  "new_type": "DTM",
+  "ctx": "貢庚午德隆二年[明崇【三年】]禎夏五月帝納王女鄭",
+  "evidence": "xuất hiện 22x trong data, 22 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 157,
+  "action": "RETYPE",
+  "cur": "太學",
+  "cur_type": "ORG",
+  "new": "太學",
+  "new_type": "LOC",
+  "ctx": "嘉靖十六年春正月莫視【太學】.",
+  "evidence": "gazetteer: {'LOC': 18, 'ORG': 2, 'PER': 2} -> đa số LOC"
+ },
+ {
+  "rid": 157,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "正月",
+  "new_type": "DTM",
+  "ctx": "年〇.明嘉靖十六年春【正月】莫視太學.",
+  "evidence": "xuất hiện 13x trong data, 13 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 157,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "七年",
+  "new_type": "DTM",
+  "ctx": "出身.丙申四年莫大正【七年】〇.明嘉靖十五年帝遣",
+  "evidence": "xuất hiện 10x trong data, 10 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 157,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "八年",
+  "new_type": "DTM",
+  "ctx": "子監.丁酉五年莫大正【八年】〇.明嘉靖十六年春正",
+  "evidence": "xuất hiện 8x trong data, 8 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 157,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "六年",
+  "new_type": "DTM",
+  "ctx": "討之.乙未三年莫大正【六年】〇.明嘉靖十四年莫開",
+  "evidence": "xuất hiện 15x trong data, 15 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 157,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "左都督",
+  "new_type": "TITLE",
+  "ctx": "事由.莫使東軍都督府【左都督】謙郡公莫廷科重脩國子",
+  "evidence": "xuất hiện 27x trong data, 25 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 157,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "同進士出身",
+  "new_type": "TITLE",
+  "ctx": "出身阮重光等二十二人【同進士出身】.丙申四年莫大正七年",
+  "evidence": "xuất hiện 19x trong data, 19 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 157,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "進士出身",
+  "new_type": "TITLE",
+  "ctx": "進士及第阮寅亮等七人【進士出身】阮重光等二十二人同進",
+  "evidence": "xuất hiện 17x trong data, 17 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 157,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "進士及第",
+  "new_type": "TITLE",
+  "ctx": "阮秉謙裴克篤阮承休等【進士及第】阮寅亮等七人進士出身",
+  "evidence": "xuất hiện 10x trong data, 10 lần là TITLE, chỗ này chưa tag"
+ },
+ {
+  "rid": 158,
+  "action": "BOUNDARY",
+  "cur": "禮部|ORG",
+  "cur_type": "",
+  "new": "禮部尚書",
+  "new_type": "TITLE",
+  "ctx": "律治罪.十二月初四日【禮部尚書】掌部事駙馬都尉興郡公",
+  "evidence": "guideline: bộ+chức lấy trọn cụm TITLE"
+ },
+ {
+  "rid": 158,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "刑部",
+  "new_type": "ORG",
+  "ctx": "得銓除如吏部銓除〇人【刑部】依律治罪.十二月初四",
+  "evidence": "xuất hiện 44x trong data, 43 lần là ORG, chỗ này chưa tag"
+ },
+ {
+  "rid": 158,
+  "action": "ADD",
+  "cur": "",
+  "cur_type": "",
+  "new": "十二月",
+  "new_type": "DTM",
+  "ctx": "除〇人刑部依律治罪.【十二月】初四日禮部尚書掌部事",
+  "evidence": "xuất hiện 51x trong data, 50 lần là DTM, chỗ này chưa tag"
+ },
+ {
+  "rid": 159,
+  "action": "RETYPE",
+  "cur": "皇后",
+  "cur_type": "PER",
+  "new": "皇后",
+  "new_type": "TITLE",
+  "ctx": "定封贈例皇太后封三代【皇后】三妃封二代九嬪六職及",
+  "evidence": "gazetteer: {'TITLE': 60, 'ORG': 1, 'PER': 1} -> đa số TITLE"
+ },
+ {
+  "rid": 159,
+  "action": "RETYPE",
+  "cur": "吏部",
+  "cur_type": "PER",
+  "new": "吏部",
+  "new_type": "ORG",
+  "ctx": "贈凡文武得旨賜封命婦【吏部】具奏得旨僃将爵號職品",
+  "evidence": "gazetteer: {'ORG': 87, 'LOC': 1, 'PER': 2} -> đa số ORG"
+ }
+]
