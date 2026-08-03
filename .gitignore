@@ -28,3 +28,6 @@ models/*
 
 # Logs
 *.log
+
+# Excel lock files
+~$*
