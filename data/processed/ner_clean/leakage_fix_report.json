@@ -1,0 +1,172 @@
+{
+  "dropped_train_idx": [
+    285,
+    601,
+    640,
+    642,
+    729,
+    1062,
+    1144
+  ],
+  "n_dropped": 7,
+  "train_after": 1277,
+  "entities_after": 18287,
+  "cross_split_unique_sentences": [
+    {
+      "han": "大越史記外紀全書卷之一",
+      "section": "1-Ky-Hong-Bang-thi",
+      "position": "1a*1*1",
+      "hits": {
+        "train": [
+          1144
+        ],
+        "dev": [
+          69
+        ]
+      }
+    },
+    {
+      "han": "大越史記本紀全書卷之六",
+      "section": "41-Anh-Tong-Hoang-De",
+      "position": "1a*1*1",
+      "hits": {
+        "train": [
+          640
+        ],
+        "test": [
+          64
+        ]
+      }
+    },
+    {
+      "han": "壬辰十二年元至正十二年春三月占城制某來奔獻白象白馬各一大蟻一長一尺九寸及諸貢物請伐茶和布底立為國王",
+      "section": "44-Du-Tong-Hoang-De",
+      "position": "16a*1*1",
+      "hits": {
+        "train": [
+          642
+        ],
+        "dev": [
+          29
+        ]
+      }
+    },
+    {
+      "han": "𥘉占主制阿難在𠱾其子制某為布田言大王也女壻茶和布底為布提言宰相也言聽計從因與制某樹黨",
+      "section": "44-Du-Tong-Hoang-De",
+      "position": "16a*3*7",
+      "hits": {
+        "train": [
+          642
+        ],
+        "dev": [
+          29
+        ]
+      }
+    },
+    {
+      "han": "制某或見責布底每救解之",
+      "section": "44-Du-Tong-Hoang-De",
+      "position": "16a*5*7",
+      "hits": {
+        "train": [
+          642
+        ],
+        "dev": [
+          29
+        ]
+      }
+    },
+    {
+      "han": "國人以是異心不專屬於制某",
+      "section": "44-Du-Tong-Hoang-De",
+      "position": "16a*5*18",
+      "hits": {
+        "train": [
+          642
+        ],
+        "dev": [
+          29
+        ]
+      }
+    },
+    {
+      "han": "迨阿難卒布底遂逐制某而自立是知人臣樹黨必有異圖而制某初不知其墮於術中也〇",
+      "section": "44-Du-Tong-Hoang-De",
+      "position": "16a*6*11",
+      "hits": {
+        "train": [
+          642
+        ],
+        "dev": [
+          29
+        ]
+      }
+    },
+    {
+      "han": "秋七月大水泛溢決鉢塊堤禾榖渰浸",
+      "section": "44-Du-Tong-Hoang-De",
+      "position": "16a*8*9",
+      "hits": {
+        "train": [
+          642
+        ],
+        "dev": [
+          29
+        ]
+      }
+    },
+    {
+      "han": "大越史記本紀實録卷之十三",
+      "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
+      "position": "1a*1*1",
+      "hits": {
+        "train": [
+          601
+        ],
+        "dev": [
+          99
+        ]
+      }
+    },
+    {
+      "han": "定追徵女丁夏綿布税例",
+      "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
+      "position": "85b*3*3",
+      "hits": {
+        "train": [
+          729
+        ],
+        "dev": [
+          30
+        ]
+      }
+    },
+    {
+      "han": "加禮部尚書兼翰林院侍讀掌翰林院事",
+      "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
+      "position": "34a*3*3",
+      "hits": {
+        "train": [
+          1062
+        ],
+        "dev": [
+          83
+        ]
+      }
+    },
+    {
+      "han": "冬十一月會試天下貢士",
+      "section": "86-Gia-Tong-My-Hoang-De",
+      "position": "36a*1*15",
+      "hits": {
+        "train": [
+          285
+        ],
+        "dev": [
+          117
+        ]
+      }
+    }
+  ]
+}

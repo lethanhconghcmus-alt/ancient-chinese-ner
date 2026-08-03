@@ -2852,16 +2852,6 @@
   {
     "split": "train",
     "idx": 285,
-    "section": "85-Huyen-Tong-Muc-Hoang-De",
-    "sec_num": 85,
-    "pos_from": "27*a*1*1",
-    "pos_to": "36*a*1*15",
-    "n_source_sent": 8,
-    "n_chars": 172
-  },
-  {
-    "split": "train",
-    "idx": 286,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "38*a*1*1",
@@ -2871,7 +2861,7 @@
   },
   {
     "split": "train",
-    "idx": 287,
+    "idx": 286,
     "section": "46-Nghe-Tong-Hoang-De",
     "sec_num": 46,
     "pos_from": "35*a*1*1",
@@ -2881,7 +2871,7 @@
   },
   {
     "split": "train",
-    "idx": 288,
+    "idx": 287,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "28*a*1*1",
@@ -2891,7 +2881,7 @@
   },
   {
     "split": "train",
-    "idx": 289,
+    "idx": 288,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "3*b*1*1",
@@ -2901,7 +2891,7 @@
   },
   {
     "split": "train",
-    "idx": 290,
+    "idx": 289,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "5*a*1*9",
@@ -2911,7 +2901,7 @@
   },
   {
     "split": "train",
-    "idx": 291,
+    "idx": 290,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "21*a*1*8",
@@ -2921,7 +2911,7 @@
   },
   {
     "split": "train",
-    "idx": 292,
+    "idx": 291,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "53*b*1*4",
@@ -2931,7 +2921,7 @@
   },
   {
     "split": "train",
-    "idx": 293,
+    "idx": 292,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "69*b*1*7",
@@ -2941,7 +2931,7 @@
   },
   {
     "split": "train",
-    "idx": 294,
+    "idx": 293,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "74*b*1*1",
@@ -2951,7 +2941,7 @@
   },
   {
     "split": "train",
-    "idx": 295,
+    "idx": 294,
     "section": "8-Ky-thuoc-Ngo-Tan-Tong-Te",
     "sec_num": 8,
     "pos_from": "6*b*1*1",
@@ -2961,7 +2951,7 @@
   },
   {
     "split": "train",
-    "idx": 296,
+    "idx": 295,
     "section": "43-Hien-Tong-Hoang-De",
     "sec_num": 43,
     "pos_from": "5*a*1*2",
@@ -2971,7 +2961,7 @@
   },
   {
     "split": "train",
-    "idx": 297,
+    "idx": 296,
     "section": "101-Tuc-bien-thu",
     "sec_num": 101,
     "pos_from": "2*a*4*17",
@@ -2981,7 +2971,7 @@
   },
   {
     "split": "train",
-    "idx": 298,
+    "idx": 297,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "19*b*1*1",
@@ -2991,7 +2981,7 @@
   },
   {
     "split": "train",
-    "idx": 299,
+    "idx": 298,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "15*a*1*1",
@@ -3001,7 +2991,7 @@
   },
   {
     "split": "train",
-    "idx": 300,
+    "idx": 299,
     "section": "70-Trang-Tong-Du-Hoang-De",
     "sec_num": 70,
     "pos_from": "6*a*1*1",
@@ -3011,7 +3001,7 @@
   },
   {
     "split": "train",
-    "idx": 301,
+    "idx": 300,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "2*a*2*1",
@@ -3021,7 +3011,7 @@
   },
   {
     "split": "train",
-    "idx": 302,
+    "idx": 301,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "3*a*1*1",
@@ -3031,7 +3021,7 @@
   },
   {
     "split": "train",
-    "idx": 303,
+    "idx": 302,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "23*a*1*2",
@@ -3041,7 +3031,7 @@
   },
   {
     "split": "train",
-    "idx": 304,
+    "idx": 303,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "50*a*1*1",
@@ -3051,7 +3041,7 @@
   },
   {
     "split": "train",
-    "idx": 305,
+    "idx": 304,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "27*a*1*1",
@@ -3061,7 +3051,7 @@
   },
   {
     "split": "train",
-    "idx": 306,
+    "idx": 305,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "25*b*1*1",
@@ -3071,7 +3061,7 @@
   },
   {
     "split": "train",
-    "idx": 307,
+    "idx": 306,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "68*a*1*1",
@@ -3081,7 +3071,7 @@
   },
   {
     "split": "train",
-    "idx": 308,
+    "idx": 307,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "29*a*1*1",
@@ -3091,7 +3081,7 @@
   },
   {
     "split": "train",
-    "idx": 309,
+    "idx": 308,
     "section": "105-Ky-nien-muc-luc",
     "sec_num": 105,
     "pos_from": "9*a*3*1",
@@ -3101,7 +3091,7 @@
   },
   {
     "split": "train",
-    "idx": 310,
+    "idx": 309,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "24*b*1*1",
@@ -3111,7 +3101,7 @@
   },
   {
     "split": "train",
-    "idx": 311,
+    "idx": 310,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "27*a*1*1",
@@ -3121,7 +3111,7 @@
   },
   {
     "split": "train",
-    "idx": 312,
+    "idx": 311,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "56*b*1*4",
@@ -3131,7 +3121,7 @@
   },
   {
     "split": "train",
-    "idx": 313,
+    "idx": 312,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "12*a*1*2",
@@ -3141,7 +3131,7 @@
   },
   {
     "split": "train",
-    "idx": 314,
+    "idx": 313,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "35*b*1*6",
@@ -3151,7 +3141,7 @@
   },
   {
     "split": "train",
-    "idx": 315,
+    "idx": 314,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "76*b*1*1",
@@ -3161,7 +3151,7 @@
   },
   {
     "split": "train",
-    "idx": 316,
+    "idx": 315,
     "section": "31-Thanh-Tong-Hoang-De",
     "sec_num": 31,
     "pos_from": "2*b*1*1",
@@ -3171,7 +3161,7 @@
   },
   {
     "split": "train",
-    "idx": 317,
+    "idx": 316,
     "section": "35-Cao-Tong-Hoang-De",
     "sec_num": 35,
     "pos_from": "19*b*1*2",
@@ -3181,7 +3171,7 @@
   },
   {
     "split": "train",
-    "idx": 318,
+    "idx": 317,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "30*b*1*1",
@@ -3191,7 +3181,7 @@
   },
   {
     "split": "train",
-    "idx": 319,
+    "idx": 318,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "62*a*1*1",
@@ -3201,7 +3191,7 @@
   },
   {
     "split": "train",
-    "idx": 320,
+    "idx": 319,
     "section": "86-Gia-Tong-My-Hoang-De",
     "sec_num": 86,
     "pos_from": "32*a*1*1",
@@ -3211,7 +3201,7 @@
   },
   {
     "split": "train",
-    "idx": 321,
+    "idx": 320,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "15*b*1*1",
@@ -3221,7 +3211,7 @@
   },
   {
     "split": "train",
-    "idx": 322,
+    "idx": 321,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "14*a*1*1",
@@ -3231,7 +3221,7 @@
   },
   {
     "split": "train",
-    "idx": 323,
+    "idx": 322,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "81*a*1*7",
@@ -3241,7 +3231,7 @@
   },
   {
     "split": "train",
-    "idx": 324,
+    "idx": 323,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "69*b*1*1",
@@ -3251,7 +3241,7 @@
   },
   {
     "split": "train",
-    "idx": 325,
+    "idx": 324,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "8*a*2*18",
@@ -3261,7 +3251,7 @@
   },
   {
     "split": "train",
-    "idx": 326,
+    "idx": 325,
     "section": "12-Ky-thuoc-Tuy-Duong",
     "sec_num": 12,
     "pos_from": "6*a*1*1",
@@ -3271,7 +3261,7 @@
   },
   {
     "split": "train",
-    "idx": 327,
+    "idx": 326,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "19*a*1*1",
@@ -3281,7 +3271,7 @@
   },
   {
     "split": "train",
-    "idx": 328,
+    "idx": 327,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "80*a*1*7",
@@ -3291,7 +3281,7 @@
   },
   {
     "split": "train",
-    "idx": 329,
+    "idx": 328,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "50*a*1*11",
@@ -3301,7 +3291,7 @@
   },
   {
     "split": "train",
-    "idx": 330,
+    "idx": 329,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "20*b*1*4",
@@ -3311,7 +3301,7 @@
   },
   {
     "split": "train",
-    "idx": 331,
+    "idx": 330,
     "section": "101-Tuc-bien-thu",
     "sec_num": 101,
     "pos_from": "1*a*1*1",
@@ -3321,7 +3311,7 @@
   },
   {
     "split": "train",
-    "idx": 332,
+    "idx": 331,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "67*b*2*1",
@@ -3331,7 +3321,7 @@
   },
   {
     "split": "train",
-    "idx": 333,
+    "idx": 332,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "13*b*1*1",
@@ -3341,7 +3331,7 @@
   },
   {
     "split": "train",
-    "idx": 334,
+    "idx": 333,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "2*a*1*1",
@@ -3351,7 +3341,7 @@
   },
   {
     "split": "train",
-    "idx": 335,
+    "idx": 334,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "34*b*1*8",
@@ -3361,7 +3351,7 @@
   },
   {
     "split": "train",
-    "idx": 336,
+    "idx": 335,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "42*a*1*1",
@@ -3371,7 +3361,7 @@
   },
   {
     "split": "train",
-    "idx": 337,
+    "idx": 336,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "71*b*1*1",
@@ -3381,7 +3371,7 @@
   },
   {
     "split": "train",
-    "idx": 338,
+    "idx": 337,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "46*a*1*1",
@@ -3391,7 +3381,7 @@
   },
   {
     "split": "train",
-    "idx": 339,
+    "idx": 338,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "48*b*3*16",
@@ -3401,7 +3391,7 @@
   },
   {
     "split": "train",
-    "idx": 340,
+    "idx": 339,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "10*a*1*2",
@@ -3411,7 +3401,7 @@
   },
   {
     "split": "train",
-    "idx": 341,
+    "idx": 340,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "40*a*1*1",
@@ -3421,7 +3411,7 @@
   },
   {
     "split": "train",
-    "idx": 342,
+    "idx": 341,
     "section": "14-Ky-nha-Ngo",
     "sec_num": 14,
     "pos_from": "26*a*1*4",
@@ -3431,7 +3421,7 @@
   },
   {
     "split": "train",
-    "idx": 343,
+    "idx": 342,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "52*b*1*4",
@@ -3441,7 +3431,7 @@
   },
   {
     "split": "train",
-    "idx": 344,
+    "idx": 343,
     "section": "8-Ky-thuoc-Ngo-Tan-Tong-Te",
     "sec_num": 8,
     "pos_from": "2*b*1*1",
@@ -3451,7 +3441,7 @@
   },
   {
     "split": "train",
-    "idx": 345,
+    "idx": 344,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "6*b*5*11",
@@ -3461,7 +3451,7 @@
   },
   {
     "split": "train",
-    "idx": 346,
+    "idx": 345,
     "section": "34-Anh-Tong-Hoang-De",
     "sec_num": 34,
     "pos_from": "14*b*2*1",
@@ -3471,7 +3461,7 @@
   },
   {
     "split": "train",
-    "idx": 347,
+    "idx": 346,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "10*a*1*1",
@@ -3481,7 +3471,7 @@
   },
   {
     "split": "train",
-    "idx": 348,
+    "idx": 347,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "55*b*1*1",
@@ -3491,7 +3481,7 @@
   },
   {
     "split": "train",
-    "idx": 349,
+    "idx": 348,
     "section": "50-Thuan-Tong-Hoang-De",
     "sec_num": 50,
     "pos_from": "16*a*2*1",
@@ -3501,7 +3491,7 @@
   },
   {
     "split": "train",
-    "idx": 350,
+    "idx": 349,
     "section": "12-Ky-thuoc-Tuy-Duong",
     "sec_num": 12,
     "pos_from": "3*b*1*1",
@@ -3511,7 +3501,7 @@
   },
   {
     "split": "train",
-    "idx": 351,
+    "idx": 350,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "54*b*1*1",
@@ -3521,7 +3511,7 @@
   },
   {
     "split": "train",
-    "idx": 352,
+    "idx": 351,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "28*a*1*4",
@@ -3531,7 +3521,7 @@
   },
   {
     "split": "train",
-    "idx": 353,
+    "idx": 352,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "19*b*1*18",
@@ -3541,7 +3531,7 @@
   },
   {
     "split": "train",
-    "idx": 354,
+    "idx": 353,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "64*b*1*1",
@@ -3551,7 +3541,7 @@
   },
   {
     "split": "train",
-    "idx": 355,
+    "idx": 354,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "24*a*1*1",
@@ -3561,7 +3551,7 @@
   },
   {
     "split": "train",
-    "idx": 356,
+    "idx": 355,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "26*b*3*8",
@@ -3571,7 +3561,7 @@
   },
   {
     "split": "train",
-    "idx": 357,
+    "idx": 356,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "58*a*1*1",
@@ -3581,7 +3571,7 @@
   },
   {
     "split": "train",
-    "idx": 358,
+    "idx": 357,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "20*a*1*1",
@@ -3591,7 +3581,7 @@
   },
   {
     "split": "train",
-    "idx": 359,
+    "idx": 358,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "31*a*1*1",
@@ -3601,7 +3591,7 @@
   },
   {
     "split": "train",
-    "idx": 360,
+    "idx": 359,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "77*a*1*1",
@@ -3611,7 +3601,7 @@
   },
   {
     "split": "train",
-    "idx": 361,
+    "idx": 360,
     "section": "14-Ky-nha-Ngo",
     "sec_num": 14,
     "pos_from": "25*b*1*1",
@@ -3621,7 +3611,7 @@
   },
   {
     "split": "train",
-    "idx": 362,
+    "idx": 361,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "63*b*1*1",
@@ -3631,7 +3621,7 @@
   },
   {
     "split": "train",
-    "idx": 363,
+    "idx": 362,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "45*b*1*2",
@@ -3641,7 +3631,7 @@
   },
   {
     "split": "train",
-    "idx": 364,
+    "idx": 363,
     "section": "74-Trung-Tong-Vu-Hoang-De",
     "sec_num": 74,
     "pos_from": "13*a*2*1",
@@ -3651,7 +3641,7 @@
   },
   {
     "split": "train",
-    "idx": 365,
+    "idx": 364,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "3*a*1*1",
@@ -3661,7 +3651,7 @@
   },
   {
     "split": "train",
-    "idx": 366,
+    "idx": 365,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "20*a*1*1",
@@ -3671,7 +3661,7 @@
   },
   {
     "split": "train",
-    "idx": 367,
+    "idx": 366,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "2*b*1*8",
@@ -3681,7 +3671,7 @@
   },
   {
     "split": "train",
-    "idx": 368,
+    "idx": 367,
     "section": "10-Ky-Trieu-Viet-Vuong",
     "sec_num": 10,
     "pos_from": "18*a*1*10",
@@ -3691,7 +3681,7 @@
   },
   {
     "split": "train",
-    "idx": 369,
+    "idx": 368,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "27*b*1*1",
@@ -3701,7 +3691,7 @@
   },
   {
     "split": "train",
-    "idx": 370,
+    "idx": 369,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "51*b*2*17",
@@ -3711,7 +3701,7 @@
   },
   {
     "split": "train",
-    "idx": 371,
+    "idx": 370,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "35*b*1*1",
@@ -3721,7 +3711,7 @@
   },
   {
     "split": "train",
-    "idx": 372,
+    "idx": 371,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "37*a*1*1",
@@ -3731,7 +3721,7 @@
   },
   {
     "split": "train",
-    "idx": 373,
+    "idx": 372,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "13*a*1*1",
@@ -3741,7 +3731,7 @@
   },
   {
     "split": "train",
-    "idx": 374,
+    "idx": 373,
     "section": "43-Hien-Tong-Hoang-De",
     "sec_num": 43,
     "pos_from": "10*a*2*4",
@@ -3751,7 +3741,7 @@
   },
   {
     "split": "train",
-    "idx": 375,
+    "idx": 374,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "58*b*1*1",
@@ -3761,7 +3751,7 @@
   },
   {
     "split": "train",
-    "idx": 376,
+    "idx": 375,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "71*a*1*1",
@@ -3771,7 +3761,7 @@
   },
   {
     "split": "train",
-    "idx": 377,
+    "idx": 376,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "15*a*2*21",
@@ -3781,7 +3771,7 @@
   },
   {
     "split": "train",
-    "idx": 378,
+    "idx": 377,
     "section": "70-Trang-Tong-Du-Hoang-De",
     "sec_num": 70,
     "pos_from": "5*a*1*1",
@@ -3791,7 +3781,7 @@
   },
   {
     "split": "train",
-    "idx": 379,
+    "idx": 378,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "66*b*1*1",
@@ -3801,7 +3791,7 @@
   },
   {
     "split": "train",
-    "idx": 380,
+    "idx": 379,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "14*b*1*8",
@@ -3811,7 +3801,7 @@
   },
   {
     "split": "train",
-    "idx": 381,
+    "idx": 380,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "2*a*2*1",
@@ -3821,7 +3811,7 @@
   },
   {
     "split": "train",
-    "idx": 382,
+    "idx": 381,
     "section": "101-Tuc-bien-thu",
     "sec_num": 101,
     "pos_from": "5*a*4*1",
@@ -3831,7 +3821,7 @@
   },
   {
     "split": "train",
-    "idx": 383,
+    "idx": 382,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "59*b*1*10",
@@ -3841,7 +3831,7 @@
   },
   {
     "split": "train",
-    "idx": 384,
+    "idx": 383,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "55*a*1*1",
@@ -3851,7 +3841,7 @@
   },
   {
     "split": "train",
-    "idx": 385,
+    "idx": 384,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "49*b*1*15",
@@ -3861,7 +3851,7 @@
   },
   {
     "split": "train",
-    "idx": 386,
+    "idx": 385,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "61*a*2*2",
@@ -3871,7 +3861,7 @@
   },
   {
     "split": "train",
-    "idx": 387,
+    "idx": 386,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "19*a*1*1",
@@ -3881,7 +3871,7 @@
   },
   {
     "split": "train",
-    "idx": 388,
+    "idx": 387,
     "section": "3-Ky-nha-Trieu",
     "sec_num": 3,
     "pos_from": "16*a*1*4",
@@ -3891,7 +3881,7 @@
   },
   {
     "split": "train",
-    "idx": 389,
+    "idx": 388,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "22*a*1*1",
@@ -3901,7 +3891,7 @@
   },
   {
     "split": "train",
-    "idx": 390,
+    "idx": 389,
     "section": "12-Ky-thuoc-Tuy-Duong",
     "sec_num": 12,
     "pos_from": "15*b*1*1",
@@ -3911,7 +3901,7 @@
   },
   {
     "split": "train",
-    "idx": 391,
+    "idx": 390,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "46*a*1*4",
@@ -3921,7 +3911,7 @@
   },
   {
     "split": "train",
-    "idx": 392,
+    "idx": 391,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "12*a*2*1",
@@ -3931,7 +3921,7 @@
   },
   {
     "split": "train",
-    "idx": 393,
+    "idx": 392,
     "section": "83-Chan-Tong-Thuan-Hoang-De",
     "sec_num": 83,
     "pos_from": "34*b*2*20",
@@ -3941,7 +3931,7 @@
   },
   {
     "split": "train",
-    "idx": 394,
+    "idx": 393,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "13*b*2*1",
@@ -3951,7 +3941,7 @@
   },
   {
     "split": "train",
-    "idx": 395,
+    "idx": 394,
     "section": "64-Uy-Muc-De",
     "sec_num": 64,
     "pos_from": "55*a*1*1",
@@ -3961,7 +3951,7 @@
   },
   {
     "split": "train",
-    "idx": 396,
+    "idx": 395,
     "section": "35-Cao-Tong-Hoang-De",
     "sec_num": 35,
     "pos_from": "24*a*1*13",
@@ -3971,7 +3961,7 @@
   },
   {
     "split": "train",
-    "idx": 397,
+    "idx": 396,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "21*b*2*12",
@@ -3981,7 +3971,7 @@
   },
   {
     "split": "train",
-    "idx": 398,
+    "idx": 397,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "32*a*1*7",
@@ -3991,7 +3981,7 @@
   },
   {
     "split": "train",
-    "idx": 399,
+    "idx": 398,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "61*a*1*1",
@@ -4001,7 +3991,7 @@
   },
   {
     "split": "train",
-    "idx": 400,
+    "idx": 399,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "56*b*1*1",
@@ -4011,7 +4001,7 @@
   },
   {
     "split": "train",
-    "idx": 401,
+    "idx": 400,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "16*a*1*1",
@@ -4021,7 +4011,7 @@
   },
   {
     "split": "train",
-    "idx": 402,
+    "idx": 401,
     "section": "86-Gia-Tong-My-Hoang-De",
     "sec_num": 86,
     "pos_from": "41*b*1*1",
@@ -4031,7 +4021,7 @@
   },
   {
     "split": "train",
-    "idx": 403,
+    "idx": 402,
     "section": "105-Ky-nien-muc-luc",
     "sec_num": 105,
     "pos_from": "6*a*1*1",
@@ -4041,7 +4031,7 @@
   },
   {
     "split": "train",
-    "idx": 404,
+    "idx": 403,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "60*b*1*1",
@@ -4051,7 +4041,7 @@
   },
   {
     "split": "train",
-    "idx": 405,
+    "idx": 404,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "26*b*1*1",
@@ -4061,7 +4051,7 @@
   },
   {
     "split": "train",
-    "idx": 406,
+    "idx": 405,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "52*b*1*1",
@@ -4071,7 +4061,7 @@
   },
   {
     "split": "train",
-    "idx": 407,
+    "idx": 406,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "57*b*1*2",
@@ -4081,7 +4071,7 @@
   },
   {
     "split": "train",
-    "idx": 408,
+    "idx": 407,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "77*b*1*1",
@@ -4091,7 +4081,7 @@
   },
   {
     "split": "train",
-    "idx": 409,
+    "idx": 408,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "25*b*1*1",
@@ -4101,7 +4091,7 @@
   },
   {
     "split": "train",
-    "idx": 410,
+    "idx": 409,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "48*a*1*14",
@@ -4111,7 +4101,7 @@
   },
   {
     "split": "train",
-    "idx": 411,
+    "idx": 410,
     "section": "8-Ky-thuoc-Ngo-Tan-Tong-Te",
     "sec_num": 8,
     "pos_from": "4*a*1*1",
@@ -4121,7 +4111,7 @@
   },
   {
     "split": "train",
-    "idx": 412,
+    "idx": 411,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "21*a*1*1",
@@ -4131,7 +4121,7 @@
   },
   {
     "split": "train",
-    "idx": 413,
+    "idx": 412,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "29*a*1*4",
@@ -4141,7 +4131,7 @@
   },
   {
     "split": "train",
-    "idx": 414,
+    "idx": 413,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "32*a*1*1",
@@ -4151,7 +4141,7 @@
   },
   {
     "split": "train",
-    "idx": 415,
+    "idx": 414,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "65*a*1*4",
@@ -4161,7 +4151,7 @@
   },
   {
     "split": "train",
-    "idx": 416,
+    "idx": 415,
     "section": "3-Ky-nha-Trieu",
     "sec_num": 3,
     "pos_from": "13*a*1*1",
@@ -4171,7 +4161,7 @@
   },
   {
     "split": "train",
-    "idx": 417,
+    "idx": 416,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "63*a*1*1",
@@ -4181,7 +4171,7 @@
   },
   {
     "split": "train",
-    "idx": 418,
+    "idx": 417,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "12*a*1*1",
@@ -4191,7 +4181,7 @@
   },
   {
     "split": "train",
-    "idx": 419,
+    "idx": 418,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "59*a*1*1",
@@ -4201,7 +4191,7 @@
   },
   {
     "split": "train",
-    "idx": 420,
+    "idx": 419,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "61*b*4*3",
@@ -4211,7 +4201,7 @@
   },
   {
     "split": "train",
-    "idx": 421,
+    "idx": 420,
     "section": "64-Uy-Muc-De",
     "sec_num": 64,
     "pos_from": "43*a*1*1",
@@ -4221,7 +4211,7 @@
   },
   {
     "split": "train",
-    "idx": 422,
+    "idx": 421,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "12*b*1*7",
@@ -4231,7 +4221,7 @@
   },
   {
     "split": "train",
-    "idx": 423,
+    "idx": 422,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "20*b*1*6",
@@ -4241,7 +4231,7 @@
   },
   {
     "split": "train",
-    "idx": 424,
+    "idx": 423,
     "section": "35-Cao-Tong-Hoang-De",
     "sec_num": 35,
     "pos_from": "21*a*1*1",
@@ -4251,7 +4241,7 @@
   },
   {
     "split": "train",
-    "idx": 425,
+    "idx": 424,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "59*b*1*1",
@@ -4261,7 +4251,7 @@
   },
   {
     "split": "train",
-    "idx": 426,
+    "idx": 425,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "21*a*1*1",
@@ -4271,7 +4261,7 @@
   },
   {
     "split": "train",
-    "idx": 427,
+    "idx": 426,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "14*b*1*1",
@@ -4281,7 +4271,7 @@
   },
   {
     "split": "train",
-    "idx": 428,
+    "idx": 427,
     "section": "3-Ky-nha-Trieu",
     "sec_num": 3,
     "pos_from": "11*a*1*5",
@@ -4291,7 +4281,7 @@
   },
   {
     "split": "train",
-    "idx": 429,
+    "idx": 428,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "25*b*1*1",
@@ -4301,7 +4291,7 @@
   },
   {
     "split": "train",
-    "idx": 430,
+    "idx": 429,
     "section": "86-Gia-Tong-My-Hoang-De",
     "sec_num": 86,
     "pos_from": "32*b*1*1",
@@ -4311,7 +4301,7 @@
   },
   {
     "split": "train",
-    "idx": 431,
+    "idx": 430,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "14*b*1*1",
@@ -4321,7 +4311,7 @@
   },
   {
     "split": "train",
-    "idx": 432,
+    "idx": 431,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "32*a*1*1",
@@ -4331,7 +4321,7 @@
   },
   {
     "split": "train",
-    "idx": 433,
+    "idx": 432,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "17*b*1*3",
@@ -4341,7 +4331,7 @@
   },
   {
     "split": "train",
-    "idx": 434,
+    "idx": 433,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "18*a*2*9",
@@ -4351,7 +4341,7 @@
   },
   {
     "split": "train",
-    "idx": 435,
+    "idx": 434,
     "section": "10-Ky-Trieu-Viet-Vuong",
     "sec_num": 10,
     "pos_from": "17*b*1*1",
@@ -4361,7 +4351,7 @@
   },
   {
     "split": "train",
-    "idx": 436,
+    "idx": 435,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "10*b*1*1",
@@ -4371,7 +4361,7 @@
   },
   {
     "split": "train",
-    "idx": 437,
+    "idx": 436,
     "section": "43-Hien-Tong-Hoang-De",
     "sec_num": 43,
     "pos_from": "9*b*1*4",
@@ -4381,7 +4371,7 @@
   },
   {
     "split": "train",
-    "idx": 438,
+    "idx": 437,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "48*a*1*1",
@@ -4391,7 +4381,7 @@
   },
   {
     "split": "train",
-    "idx": 439,
+    "idx": 438,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "8*b*1*1",
@@ -4401,7 +4391,7 @@
   },
   {
     "split": "train",
-    "idx": 440,
+    "idx": 439,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "35*b*1*1",
@@ -4411,7 +4401,7 @@
   },
   {
     "split": "train",
-    "idx": 441,
+    "idx": 440,
     "section": "86-Gia-Tong-My-Hoang-De",
     "sec_num": 86,
     "pos_from": "39*b*1*7",
@@ -4421,7 +4411,7 @@
   },
   {
     "split": "train",
-    "idx": 442,
+    "idx": 441,
     "section": "26-Ky-nha-Le",
     "sec_num": 26,
     "pos_from": "18*b*1*1",
@@ -4431,7 +4421,7 @@
   },
   {
     "split": "train",
-    "idx": 443,
+    "idx": 442,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "61*a*1*1",
@@ -4441,7 +4431,7 @@
   },
   {
     "split": "train",
-    "idx": 444,
+    "idx": 443,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "29*b*1*1",
@@ -4451,7 +4441,7 @@
   },
   {
     "split": "train",
-    "idx": 445,
+    "idx": 444,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "26*a*1*1",
@@ -4461,7 +4451,7 @@
   },
   {
     "split": "train",
-    "idx": 446,
+    "idx": 445,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "57*b*1*7",
@@ -4471,7 +4461,7 @@
   },
   {
     "split": "train",
-    "idx": 447,
+    "idx": 446,
     "section": "64-Uy-Muc-De",
     "sec_num": 64,
     "pos_from": "44*a*1*4",
@@ -4481,7 +4471,7 @@
   },
   {
     "split": "train",
-    "idx": 448,
+    "idx": 447,
     "section": "105-Ky-nien-muc-luc",
     "sec_num": 105,
     "pos_from": "10*a*2*1",
@@ -4491,7 +4481,7 @@
   },
   {
     "split": "train",
-    "idx": 449,
+    "idx": 448,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "74*b*1*1",
@@ -4501,7 +4491,7 @@
   },
   {
     "split": "train",
-    "idx": 450,
+    "idx": 449,
     "section": "12-Ky-thuoc-Tuy-Duong",
     "sec_num": 12,
     "pos_from": "1*b*1*1",
@@ -4511,7 +4501,7 @@
   },
   {
     "split": "train",
-    "idx": 451,
+    "idx": 450,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "7*a*1*1",
@@ -4521,7 +4511,7 @@
   },
   {
     "split": "train",
-    "idx": 452,
+    "idx": 451,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "42*a*1*4",
@@ -4531,7 +4521,7 @@
   },
   {
     "split": "train",
-    "idx": 453,
+    "idx": 452,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "29*a*4*12",
@@ -4541,7 +4531,7 @@
   },
   {
     "split": "train",
-    "idx": 454,
+    "idx": 453,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "14*b*1*17",
@@ -4551,7 +4541,7 @@
   },
   {
     "split": "train",
-    "idx": 455,
+    "idx": 454,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "3*a*1*1",
@@ -4561,7 +4551,7 @@
   },
   {
     "split": "train",
-    "idx": 456,
+    "idx": 455,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "17*b*1*1",
@@ -4571,7 +4561,7 @@
   },
   {
     "split": "train",
-    "idx": 457,
+    "idx": 456,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "55*a*1*4",
@@ -4581,7 +4571,7 @@
   },
   {
     "split": "train",
-    "idx": 458,
+    "idx": 457,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "24*a*2*9",
@@ -4591,7 +4581,7 @@
   },
   {
     "split": "train",
-    "idx": 459,
+    "idx": 458,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "84*b*1*1",
@@ -4601,7 +4591,7 @@
   },
   {
     "split": "train",
-    "idx": 460,
+    "idx": 459,
     "section": "14-Ky-nha-Ngo",
     "sec_num": 14,
     "pos_from": "21*b*1*1",
@@ -4611,7 +4601,7 @@
   },
   {
     "split": "train",
-    "idx": 461,
+    "idx": 460,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "47*b*3*17",
@@ -4621,7 +4611,7 @@
   },
   {
     "split": "train",
-    "idx": 462,
+    "idx": 461,
     "section": "35-Cao-Tong-Hoang-De",
     "sec_num": 35,
     "pos_from": "22*b*2*1",
@@ -4631,7 +4621,7 @@
   },
   {
     "split": "train",
-    "idx": 463,
+    "idx": 462,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "1*a*1*1",
@@ -4641,7 +4631,7 @@
   },
   {
     "split": "train",
-    "idx": 464,
+    "idx": 463,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "18*a*1*1",
@@ -4651,7 +4641,7 @@
   },
   {
     "split": "train",
-    "idx": 465,
+    "idx": 464,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "4*a*2*1",
@@ -4661,7 +4651,7 @@
   },
   {
     "split": "train",
-    "idx": 466,
+    "idx": 465,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "3*a*1*1",
@@ -4671,7 +4661,7 @@
   },
   {
     "split": "train",
-    "idx": 467,
+    "idx": 466,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "58*b*1*1",
@@ -4681,7 +4671,7 @@
   },
   {
     "split": "train",
-    "idx": 468,
+    "idx": 467,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "28*a*1*1",
@@ -4691,7 +4681,7 @@
   },
   {
     "split": "train",
-    "idx": 469,
+    "idx": 468,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "38*b*1*1",
@@ -4701,7 +4691,7 @@
   },
   {
     "split": "train",
-    "idx": 470,
+    "idx": 469,
     "section": "46-Nghe-Tong-Hoang-De",
     "sec_num": 46,
     "pos_from": "31*a*1*2",
@@ -4711,7 +4701,7 @@
   },
   {
     "split": "train",
-    "idx": 471,
+    "idx": 470,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "17*b*1*4",
@@ -4721,7 +4711,7 @@
   },
   {
     "split": "train",
-    "idx": 472,
+    "idx": 471,
     "section": "64-Uy-Muc-De",
     "sec_num": 64,
     "pos_from": "51*b*1*1",
@@ -4731,7 +4721,7 @@
   },
   {
     "split": "train",
-    "idx": 473,
+    "idx": 472,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "68*b*4*1",
@@ -4741,7 +4731,7 @@
   },
   {
     "split": "train",
-    "idx": 474,
+    "idx": 473,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "19*b*1*9",
@@ -4751,7 +4741,7 @@
   },
   {
     "split": "train",
-    "idx": 475,
+    "idx": 474,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "46*a*1*1",
@@ -4761,7 +4751,7 @@
   },
   {
     "split": "train",
-    "idx": 476,
+    "idx": 475,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "7*b*1*1",
@@ -4771,7 +4761,7 @@
   },
   {
     "split": "train",
-    "idx": 477,
+    "idx": 476,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "53*b*1*1",
@@ -4781,7 +4771,7 @@
   },
   {
     "split": "train",
-    "idx": 478,
+    "idx": 477,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "30*a*1*7",
@@ -4791,7 +4781,7 @@
   },
   {
     "split": "train",
-    "idx": 479,
+    "idx": 478,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "28*a*2*10",
@@ -4801,7 +4791,7 @@
   },
   {
     "split": "train",
-    "idx": 480,
+    "idx": 479,
     "section": "43-Hien-Tong-Hoang-De",
     "sec_num": 43,
     "pos_from": "7*a*1*7",
@@ -4811,7 +4801,7 @@
   },
   {
     "split": "train",
-    "idx": 481,
+    "idx": 480,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "17*a*1*1",
@@ -4821,7 +4811,7 @@
   },
   {
     "split": "train",
-    "idx": 482,
+    "idx": 481,
     "section": "35-Cao-Tong-Hoang-De",
     "sec_num": 35,
     "pos_from": "26*b*1*1",
@@ -4831,7 +4821,7 @@
   },
   {
     "split": "train",
-    "idx": 483,
+    "idx": 482,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "2*b*1*1",
@@ -4841,7 +4831,7 @@
   },
   {
     "split": "train",
-    "idx": 484,
+    "idx": 483,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "18*b*1*1",
@@ -4851,7 +4841,7 @@
   },
   {
     "split": "train",
-    "idx": 485,
+    "idx": 484,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "23*a*1*8",
@@ -4861,7 +4851,7 @@
   },
   {
     "split": "train",
-    "idx": 486,
+    "idx": 485,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "1*a*2*1",
@@ -4871,7 +4861,7 @@
   },
   {
     "split": "train",
-    "idx": 487,
+    "idx": 486,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "75*b*1*5",
@@ -4881,7 +4871,7 @@
   },
   {
     "split": "train",
-    "idx": 488,
+    "idx": 487,
     "section": "35-Cao-Tong-Hoang-De",
     "sec_num": 35,
     "pos_from": "21*b*1*1",
@@ -4891,7 +4881,7 @@
   },
   {
     "split": "train",
-    "idx": 489,
+    "idx": 488,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "37*b*1*1",
@@ -4901,7 +4891,7 @@
   },
   {
     "split": "train",
-    "idx": 490,
+    "idx": 489,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "36*a*1*1",
@@ -4911,7 +4901,7 @@
   },
   {
     "split": "train",
-    "idx": 491,
+    "idx": 490,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "86*a*1*1",
@@ -4921,7 +4911,7 @@
   },
   {
     "split": "train",
-    "idx": 492,
+    "idx": 491,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "30*b*1*1",
@@ -4931,7 +4921,7 @@
   },
   {
     "split": "train",
-    "idx": 493,
+    "idx": 492,
     "section": "43-Hien-Tong-Hoang-De",
     "sec_num": 43,
     "pos_from": "5*b*1*1",
@@ -4941,7 +4931,7 @@
   },
   {
     "split": "train",
-    "idx": 494,
+    "idx": 493,
     "section": "48-Due-Tong-Hoang-De",
     "sec_num": 48,
     "pos_from": "43*b*1*2",
@@ -4951,7 +4941,7 @@
   },
   {
     "split": "train",
-    "idx": 495,
+    "idx": 494,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "1*a*6*17",
@@ -4961,7 +4951,7 @@
   },
   {
     "split": "train",
-    "idx": 496,
+    "idx": 495,
     "section": "43-Hien-Tong-Hoang-De",
     "sec_num": 43,
     "pos_from": "2*b*1*5",
@@ -4971,7 +4961,7 @@
   },
   {
     "split": "train",
-    "idx": 497,
+    "idx": 496,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "13*a*1*3",
@@ -4981,7 +4971,7 @@
   },
   {
     "split": "train",
-    "idx": 498,
+    "idx": 497,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "11*b*1*1",
@@ -4991,7 +4981,7 @@
   },
   {
     "split": "train",
-    "idx": 499,
+    "idx": 498,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "26*a*1*1",
@@ -5001,7 +4991,7 @@
   },
   {
     "split": "train",
-    "idx": 500,
+    "idx": 499,
     "section": "12-Ky-thuoc-Tuy-Duong",
     "sec_num": 12,
     "pos_from": "10*a*1*15",
@@ -5011,7 +5001,7 @@
   },
   {
     "split": "train",
-    "idx": 501,
+    "idx": 500,
     "section": "26-Ky-nha-Le",
     "sec_num": 26,
     "pos_from": "13*a*1*5",
@@ -5021,7 +5011,7 @@
   },
   {
     "split": "train",
-    "idx": 502,
+    "idx": 501,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "11*a*1*1",
@@ -5031,7 +5021,7 @@
   },
   {
     "split": "train",
-    "idx": 503,
+    "idx": 502,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "48*b*1*4",
@@ -5041,7 +5031,7 @@
   },
   {
     "split": "train",
-    "idx": 504,
+    "idx": 503,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "13*b*2*8",
@@ -5051,7 +5041,7 @@
   },
   {
     "split": "train",
-    "idx": 505,
+    "idx": 504,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "2*a*1*4",
@@ -5061,7 +5051,7 @@
   },
   {
     "split": "train",
-    "idx": 506,
+    "idx": 505,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "14*a*1*1",
@@ -5071,7 +5061,7 @@
   },
   {
     "split": "train",
-    "idx": 507,
+    "idx": 506,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "20*a*1*9",
@@ -5081,7 +5071,7 @@
   },
   {
     "split": "train",
-    "idx": 508,
+    "idx": 507,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "7*b*1*4",
@@ -5091,7 +5081,7 @@
   },
   {
     "split": "train",
-    "idx": 509,
+    "idx": 508,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "27*b*1*3",
@@ -5101,7 +5091,7 @@
   },
   {
     "split": "train",
-    "idx": 510,
+    "idx": 509,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "51*a*1*1",
@@ -5111,7 +5101,7 @@
   },
   {
     "split": "train",
-    "idx": 511,
+    "idx": 510,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "21*a*1*1",
@@ -5121,7 +5111,7 @@
   },
   {
     "split": "train",
-    "idx": 512,
+    "idx": 511,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "23*a*1*7",
@@ -5131,7 +5121,7 @@
   },
   {
     "split": "train",
-    "idx": 513,
+    "idx": 512,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "19*b*1*6",
@@ -5141,7 +5131,7 @@
   },
   {
     "split": "train",
-    "idx": 514,
+    "idx": 513,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "35*a*1*1",
@@ -5151,7 +5141,7 @@
   },
   {
     "split": "train",
-    "idx": 515,
+    "idx": 514,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "12*a*1*1",
@@ -5161,7 +5151,7 @@
   },
   {
     "split": "train",
-    "idx": 516,
+    "idx": 515,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "58*a*1*1",
@@ -5171,7 +5161,7 @@
   },
   {
     "split": "train",
-    "idx": 517,
+    "idx": 516,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "21*b*1*1",
@@ -5181,7 +5171,7 @@
   },
   {
     "split": "train",
-    "idx": 518,
+    "idx": 517,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "13*b*2*1",
@@ -5191,7 +5181,7 @@
   },
   {
     "split": "train",
-    "idx": 519,
+    "idx": 518,
     "section": "11-Ky-hau-Ly",
     "sec_num": 11,
     "pos_from": "21*b*1*1",
@@ -5201,7 +5191,7 @@
   },
   {
     "split": "train",
-    "idx": 520,
+    "idx": 519,
     "section": "2-Ky-nha-Thuc",
     "sec_num": 2,
     "pos_from": "8*b*1*1",
@@ -5211,7 +5201,7 @@
   },
   {
     "split": "train",
-    "idx": 521,
+    "idx": 520,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "39*b*1*4",
@@ -5221,7 +5211,7 @@
   },
   {
     "split": "train",
-    "idx": 522,
+    "idx": 521,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "46*b*1*7",
@@ -5231,7 +5221,7 @@
   },
   {
     "split": "train",
-    "idx": 523,
+    "idx": 522,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "22*a*1*2",
@@ -5241,7 +5231,7 @@
   },
   {
     "split": "train",
-    "idx": 524,
+    "idx": 523,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "22*b*2*1",
@@ -5251,7 +5241,7 @@
   },
   {
     "split": "train",
-    "idx": 525,
+    "idx": 524,
     "section": "100-Tuc-bien-tu",
     "sec_num": 100,
     "pos_from": "5*b*1*1",
@@ -5261,7 +5251,7 @@
   },
   {
     "split": "train",
-    "idx": 526,
+    "idx": 525,
     "section": "67-Cung-Hoang-De",
     "sec_num": 67,
     "pos_from": "62*b*1*1",
@@ -5271,7 +5261,7 @@
   },
   {
     "split": "train",
-    "idx": 527,
+    "idx": 526,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "28*b*1*11",
@@ -5281,7 +5271,7 @@
   },
   {
     "split": "train",
-    "idx": 528,
+    "idx": 527,
     "section": "104-Toan-thu-pham-le",
     "sec_num": 104,
     "pos_from": "5*a*2*1",
@@ -5291,7 +5281,7 @@
   },
   {
     "split": "train",
-    "idx": 529,
+    "idx": 528,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "36*a*1*3",
@@ -5301,7 +5291,7 @@
   },
   {
     "split": "train",
-    "idx": 530,
+    "idx": 529,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "49*b*1*7",
@@ -5311,7 +5301,7 @@
   },
   {
     "split": "train",
-    "idx": 531,
+    "idx": 530,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "54*b*1*1",
@@ -5321,7 +5311,7 @@
   },
   {
     "split": "train",
-    "idx": 532,
+    "idx": 531,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "52*b*1*1",
@@ -5331,7 +5321,7 @@
   },
   {
     "split": "train",
-    "idx": 533,
+    "idx": 532,
     "section": null,
     "sec_num": null,
     "pos_from": null,
@@ -5341,7 +5331,7 @@
   },
   {
     "split": "train",
-    "idx": 534,
+    "idx": 533,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "59*b*1*1",
@@ -5351,7 +5341,7 @@
   },
   {
     "split": "train",
-    "idx": 535,
+    "idx": 534,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "21*a*1*6",
@@ -5361,7 +5351,7 @@
   },
   {
     "split": "train",
-    "idx": 536,
+    "idx": 535,
     "section": "24-Ky-nha-Dinh",
     "sec_num": 24,
     "pos_from": "5*b*1*1",
@@ -5371,7 +5361,7 @@
   },
   {
     "split": "train",
-    "idx": 537,
+    "idx": 536,
     "section": "37-Chieu-Hoang",
     "sec_num": 37,
     "pos_from": "34*a*1*1",
@@ -5381,7 +5371,7 @@
   },
   {
     "split": "train",
-    "idx": 538,
+    "idx": 537,
     "section": "64-Uy-Muc-De",
     "sec_num": 64,
     "pos_from": "40*a*1*2",
@@ -5391,7 +5381,7 @@
   },
   {
     "split": "train",
-    "idx": 539,
+    "idx": 538,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "26*a*1*6",
@@ -5401,7 +5391,7 @@
   },
   {
     "split": "train",
-    "idx": 540,
+    "idx": 539,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "47*b*1*3",
@@ -5411,7 +5401,7 @@
   },
   {
     "split": "train",
-    "idx": 541,
+    "idx": 540,
     "section": "64-Uy-Muc-De",
     "sec_num": 64,
     "pos_from": "46*b*1*1",
@@ -5421,7 +5411,7 @@
   },
   {
     "split": "train",
-    "idx": 542,
+    "idx": 541,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "8*a*1*1",
@@ -5431,7 +5421,7 @@
   },
   {
     "split": "train",
-    "idx": 543,
+    "idx": 542,
     "section": "8-Ky-thuoc-Ngo-Tan-Tong-Te",
     "sec_num": 8,
     "pos_from": "3*a*1*7",
@@ -5441,7 +5431,7 @@
   },
   {
     "split": "train",
-    "idx": 544,
+    "idx": 543,
     "section": "24-Ky-nha-Dinh",
     "sec_num": 24,
     "pos_from": "2*a*1*1",
@@ -5451,7 +5441,7 @@
   },
   {
     "split": "train",
-    "idx": 545,
+    "idx": 544,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "15*a*1*6",
@@ -5461,7 +5451,7 @@
   },
   {
     "split": "train",
-    "idx": 546,
+    "idx": 545,
     "section": "39-Thanh-Tong-Hoang-De",
     "sec_num": 39,
     "pos_from": "34*b*1*1",
@@ -5471,7 +5461,7 @@
   },
   {
     "split": "train",
-    "idx": 547,
+    "idx": 546,
     "section": "105-Ky-nien-muc-luc",
     "sec_num": 105,
     "pos_from": "3*b*1*1",
@@ -5481,7 +5471,7 @@
   },
   {
     "split": "train",
-    "idx": 548,
+    "idx": 547,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "72*a*1*1",
@@ -5491,7 +5481,7 @@
   },
   {
     "split": "train",
-    "idx": 549,
+    "idx": 548,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "62*b*1*1",
@@ -5501,7 +5491,7 @@
   },
   {
     "split": "train",
-    "idx": 550,
+    "idx": 549,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "21*b*1*1",
@@ -5511,7 +5501,7 @@
   },
   {
     "split": "train",
-    "idx": 551,
+    "idx": 550,
     "section": "70-Trang-Tong-Du-Hoang-De",
     "sec_num": 70,
     "pos_from": "3*a*1*1",
@@ -5521,7 +5511,7 @@
   },
   {
     "split": "train",
-    "idx": 552,
+    "idx": 551,
     "section": "67-Cung-Hoang-De",
     "sec_num": 67,
     "pos_from": "65*a*1*1",
@@ -5531,7 +5521,7 @@
   },
   {
     "split": "train",
-    "idx": 553,
+    "idx": 552,
     "section": "63-Tuc-Tong-Kham-Hoang-De",
     "sec_num": 63,
     "pos_from": "36*b*1*1",
@@ -5541,7 +5531,7 @@
   },
   {
     "split": "train",
-    "idx": 554,
+    "idx": 553,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "28*b*1*3",
@@ -5551,7 +5541,7 @@
   },
   {
     "split": "train",
-    "idx": 555,
+    "idx": 554,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "31*b*1*8",
@@ -5561,7 +5551,7 @@
   },
   {
     "split": "train",
-    "idx": 556,
+    "idx": 555,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "46*b*1*1",
@@ -5571,7 +5561,7 @@
   },
   {
     "split": "train",
-    "idx": 557,
+    "idx": 556,
     "section": "46-Nghe-Tong-Hoang-De",
     "sec_num": 46,
     "pos_from": "33*b*1*4",
@@ -5581,7 +5571,7 @@
   },
   {
     "split": "train",
-    "idx": 558,
+    "idx": 557,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "45*a*1*1",
@@ -5591,7 +5581,7 @@
   },
   {
     "split": "train",
-    "idx": 559,
+    "idx": 558,
     "section": "31-Thanh-Tong-Hoang-De",
     "sec_num": 31,
     "pos_from": "3*a*2*1",
@@ -5601,7 +5591,7 @@
   },
   {
     "split": "train",
-    "idx": 560,
+    "idx": 559,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "6*b*1*2",
@@ -5611,7 +5601,7 @@
   },
   {
     "split": "train",
-    "idx": 561,
+    "idx": 560,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "6*a*1*5",
@@ -5621,7 +5611,7 @@
   },
   {
     "split": "train",
-    "idx": 562,
+    "idx": 561,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "50*a*1*1",
@@ -5631,7 +5621,7 @@
   },
   {
     "split": "train",
-    "idx": 563,
+    "idx": 562,
     "section": "86-Gia-Tong-My-Hoang-De",
     "sec_num": 86,
     "pos_from": "38*a*1*1",
@@ -5641,7 +5631,7 @@
   },
   {
     "split": "train",
-    "idx": 564,
+    "idx": 563,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "6*a*1*1",
@@ -5651,7 +5641,7 @@
   },
   {
     "split": "train",
-    "idx": 565,
+    "idx": 564,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "9*b*1*1",
@@ -5661,7 +5651,7 @@
   },
   {
     "split": "train",
-    "idx": 566,
+    "idx": 565,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "74*a*1*1",
@@ -5671,7 +5661,7 @@
   },
   {
     "split": "train",
-    "idx": 567,
+    "idx": 566,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "73*b*1*10",
@@ -5681,7 +5671,7 @@
   },
   {
     "split": "train",
-    "idx": 568,
+    "idx": 567,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "45*b*1*1",
@@ -5691,7 +5681,7 @@
   },
   {
     "split": "train",
-    "idx": 569,
+    "idx": 568,
     "section": "67-Cung-Hoang-De",
     "sec_num": 67,
     "pos_from": "61*b*1*7",
@@ -5701,7 +5691,7 @@
   },
   {
     "split": "train",
-    "idx": 570,
+    "idx": 569,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "44*b*1*1",
@@ -5711,7 +5701,7 @@
   },
   {
     "split": "train",
-    "idx": 571,
+    "idx": 570,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "14*a*1*6",
@@ -5721,7 +5711,7 @@
   },
   {
     "split": "train",
-    "idx": 572,
+    "idx": 571,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "8*a*1*1",
@@ -5731,7 +5721,7 @@
   },
   {
     "split": "train",
-    "idx": 573,
+    "idx": 572,
     "section": "46-Nghe-Tong-Hoang-De",
     "sec_num": 46,
     "pos_from": "32*b*1*3",
@@ -5741,7 +5731,7 @@
   },
   {
     "split": "train",
-    "idx": 574,
+    "idx": 573,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "42*a*3*4",
@@ -5751,7 +5741,7 @@
   },
   {
     "split": "train",
-    "idx": 575,
+    "idx": 574,
     "section": "105-Ky-nien-muc-luc",
     "sec_num": 105,
     "pos_from": "3*a*1*1",
@@ -5761,7 +5751,7 @@
   },
   {
     "split": "train",
-    "idx": 576,
+    "idx": 575,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "18*a*1*3",
@@ -5771,7 +5761,7 @@
   },
   {
     "split": "train",
-    "idx": 577,
+    "idx": 576,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "32*b*1*7",
@@ -5781,7 +5771,7 @@
   },
   {
     "split": "train",
-    "idx": 578,
+    "idx": 577,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "13*b*1*1",
@@ -5791,7 +5781,7 @@
   },
   {
     "split": "train",
-    "idx": 579,
+    "idx": 578,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "24*a*1*1",
@@ -5801,7 +5791,7 @@
   },
   {
     "split": "train",
-    "idx": 580,
+    "idx": 579,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "83*b*1*1",
@@ -5811,7 +5801,7 @@
   },
   {
     "split": "train",
-    "idx": 581,
+    "idx": 580,
     "section": "3-Ky-nha-Trieu",
     "sec_num": 3,
     "pos_from": "9*b*1*5",
@@ -5821,7 +5811,7 @@
   },
   {
     "split": "train",
-    "idx": 582,
+    "idx": 581,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "5*a*1*1",
@@ -5831,7 +5821,7 @@
   },
   {
     "split": "train",
-    "idx": 583,
+    "idx": 582,
     "section": "1-Ky-Hong-Bang-thi",
     "sec_num": 1,
     "pos_from": "2*a*1*1",
@@ -5841,7 +5831,7 @@
   },
   {
     "split": "train",
-    "idx": 584,
+    "idx": 583,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "9*b*1*6",
@@ -5851,7 +5841,7 @@
   },
   {
     "split": "train",
-    "idx": 585,
+    "idx": 584,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "10*b*1*1",
@@ -5861,7 +5851,7 @@
   },
   {
     "split": "train",
-    "idx": 586,
+    "idx": 585,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "2*a*1*1",
@@ -5871,7 +5861,7 @@
   },
   {
     "split": "train",
-    "idx": 587,
+    "idx": 586,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "49*a*4*6",
@@ -5881,7 +5871,7 @@
   },
   {
     "split": "train",
-    "idx": 588,
+    "idx": 587,
     "section": "83-Chan-Tong-Thuan-Hoang-De",
     "sec_num": 83,
     "pos_from": "38*a*1*1",
@@ -5891,7 +5881,7 @@
   },
   {
     "split": "train",
-    "idx": 589,
+    "idx": 588,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "54*a*1*5",
@@ -5901,7 +5891,7 @@
   },
   {
     "split": "train",
-    "idx": 590,
+    "idx": 589,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "20*b*1*1",
@@ -5911,7 +5901,7 @@
   },
   {
     "split": "train",
-    "idx": 591,
+    "idx": 590,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "23*a*1*3",
@@ -5921,7 +5911,7 @@
   },
   {
     "split": "train",
-    "idx": 592,
+    "idx": 591,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "68*b*1*1",
@@ -5931,7 +5921,7 @@
   },
   {
     "split": "train",
-    "idx": 593,
+    "idx": 592,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "19*b*1*3",
@@ -5941,7 +5931,7 @@
   },
   {
     "split": "train",
-    "idx": 594,
+    "idx": 593,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "29*a*1*1",
@@ -5951,7 +5941,7 @@
   },
   {
     "split": "train",
-    "idx": 595,
+    "idx": 594,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "51*a*1*1",
@@ -5961,7 +5951,7 @@
   },
   {
     "split": "train",
-    "idx": 596,
+    "idx": 595,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "60*a*1*1",
@@ -5971,7 +5961,7 @@
   },
   {
     "split": "train",
-    "idx": 597,
+    "idx": 596,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "19*a*1*1",
@@ -5981,7 +5971,7 @@
   },
   {
     "split": "train",
-    "idx": 598,
+    "idx": 597,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "35*b*1*1",
@@ -5991,7 +5981,7 @@
   },
   {
     "split": "train",
-    "idx": 599,
+    "idx": 598,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "29*b*2*1",
@@ -6001,7 +5991,7 @@
   },
   {
     "split": "train",
-    "idx": 600,
+    "idx": 599,
     "section": "12-Ky-thuoc-Tuy-Duong",
     "sec_num": 12,
     "pos_from": "4*a*1*1",
@@ -6011,17 +6001,7 @@
   },
   {
     "split": "train",
-    "idx": 601,
-    "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
-    "sec_num": 61,
-    "pos_from": "1*a*1*1",
-    "pos_to": "1*a*8*11",
-    "n_source_sent": 6,
-    "n_chars": 145
-  },
-  {
-    "split": "train",
-    "idx": 602,
+    "idx": 600,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "17*a*1*1",
@@ -6031,7 +6011,7 @@
   },
   {
     "split": "train",
-    "idx": 603,
+    "idx": 601,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "4*b*1*1",
@@ -6041,7 +6021,7 @@
   },
   {
     "split": "train",
-    "idx": 604,
+    "idx": 602,
     "section": "31-Thanh-Tong-Hoang-De",
     "sec_num": 31,
     "pos_from": "1*b*4*4",
@@ -6051,7 +6031,7 @@
   },
   {
     "split": "train",
-    "idx": 605,
+    "idx": 603,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "15*b*1*6",
@@ -6061,7 +6041,7 @@
   },
   {
     "split": "train",
-    "idx": 606,
+    "idx": 604,
     "section": "83-Chan-Tong-Thuan-Hoang-De",
     "sec_num": 83,
     "pos_from": "37*a*1*1",
@@ -6071,7 +6051,7 @@
   },
   {
     "split": "train",
-    "idx": 607,
+    "idx": 605,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "18*b*1*1",
@@ -6081,7 +6061,7 @@
   },
   {
     "split": "train",
-    "idx": 608,
+    "idx": 606,
     "section": "37-Chieu-Hoang",
     "sec_num": 37,
     "pos_from": "33*b*1*1",
@@ -6091,7 +6071,7 @@
   },
   {
     "split": "train",
-    "idx": 609,
+    "idx": 607,
     "section": "3-Ky-nha-Trieu",
     "sec_num": 3,
     "pos_from": "18*a*1*1",
@@ -6101,7 +6081,7 @@
   },
   {
     "split": "train",
-    "idx": 610,
+    "idx": 608,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "41*b*1*1",
@@ -6111,7 +6091,7 @@
   },
   {
     "split": "train",
-    "idx": 611,
+    "idx": 609,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "44*b*1*1",
@@ -6121,7 +6101,7 @@
   },
   {
     "split": "train",
-    "idx": 612,
+    "idx": 610,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "20*b*1*8",
@@ -6131,7 +6111,7 @@
   },
   {
     "split": "train",
-    "idx": 613,
+    "idx": 611,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "32*b*1*6",
@@ -6141,7 +6121,7 @@
   },
   {
     "split": "train",
-    "idx": 614,
+    "idx": 612,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "69*a*1*13",
@@ -6151,7 +6131,7 @@
   },
   {
     "split": "train",
-    "idx": 615,
+    "idx": 613,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "39*b*1*1",
@@ -6161,7 +6141,7 @@
   },
   {
     "split": "train",
-    "idx": 616,
+    "idx": 614,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "59*b*1*3",
@@ -6171,7 +6151,7 @@
   },
   {
     "split": "train",
-    "idx": 617,
+    "idx": 615,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "8*b*1*1",
@@ -6181,7 +6161,7 @@
   },
   {
     "split": "train",
-    "idx": 618,
+    "idx": 616,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "12*b*1*1",
@@ -6191,7 +6171,7 @@
   },
   {
     "split": "train",
-    "idx": 619,
+    "idx": 617,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "48*a*1*1",
@@ -6201,7 +6181,7 @@
   },
   {
     "split": "train",
-    "idx": 620,
+    "idx": 618,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "36*a*1*1",
@@ -6211,7 +6191,7 @@
   },
   {
     "split": "train",
-    "idx": 621,
+    "idx": 619,
     "section": "86-Gia-Tong-My-Hoang-De",
     "sec_num": 86,
     "pos_from": "33*b*1*1",
@@ -6221,7 +6201,7 @@
   },
   {
     "split": "train",
-    "idx": 622,
+    "idx": 620,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "58*a*1*6",
@@ -6231,7 +6211,7 @@
   },
   {
     "split": "train",
-    "idx": 623,
+    "idx": 621,
     "section": "46-Nghe-Tong-Hoang-De",
     "sec_num": 46,
     "pos_from": "34*b*1*1",
@@ -6241,7 +6221,7 @@
   },
   {
     "split": "train",
-    "idx": 624,
+    "idx": 622,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "16*a*1*5",
@@ -6251,7 +6231,7 @@
   },
   {
     "split": "train",
-    "idx": 625,
+    "idx": 623,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "23*b*1*1",
@@ -6261,7 +6241,7 @@
   },
   {
     "split": "train",
-    "idx": 626,
+    "idx": 624,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "15*b*1*1",
@@ -6271,7 +6251,7 @@
   },
   {
     "split": "train",
-    "idx": 627,
+    "idx": 625,
     "section": "26-Ky-nha-Le",
     "sec_num": 26,
     "pos_from": "25*a*1*1",
@@ -6281,7 +6261,7 @@
   },
   {
     "split": "train",
-    "idx": 628,
+    "idx": 626,
     "section": "31-Thanh-Tong-Hoang-De",
     "sec_num": 31,
     "pos_from": "2*a*1*1",
@@ -6291,7 +6271,7 @@
   },
   {
     "split": "train",
-    "idx": 629,
+    "idx": 627,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "66*b*1*1",
@@ -6301,7 +6281,7 @@
   },
   {
     "split": "train",
-    "idx": 630,
+    "idx": 628,
     "section": "24-Ky-nha-Dinh",
     "sec_num": 24,
     "pos_from": "5*a*1*1",
@@ -6311,7 +6291,7 @@
   },
   {
     "split": "train",
-    "idx": 631,
+    "idx": 629,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "30*b*1*4",
@@ -6321,7 +6301,7 @@
   },
   {
     "split": "train",
-    "idx": 632,
+    "idx": 630,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "47*a*1*1",
@@ -6331,7 +6311,7 @@
   },
   {
     "split": "train",
-    "idx": 633,
+    "idx": 631,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "13*a*1*2",
@@ -6341,7 +6321,7 @@
   },
   {
     "split": "train",
-    "idx": 634,
+    "idx": 632,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "5*b*1*1",
@@ -6351,7 +6331,7 @@
   },
   {
     "split": "train",
-    "idx": 635,
+    "idx": 633,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "43*b*1*3",
@@ -6361,7 +6341,7 @@
   },
   {
     "split": "train",
-    "idx": 636,
+    "idx": 634,
     "section": "104-Toan-thu-pham-le",
     "sec_num": 104,
     "pos_from": "4*a*2*1",
@@ -6371,7 +6351,7 @@
   },
   {
     "split": "train",
-    "idx": 637,
+    "idx": 635,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "2*b*1*5",
@@ -6381,7 +6361,7 @@
   },
   {
     "split": "train",
-    "idx": 638,
+    "idx": 636,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "20*a*1*3",
@@ -6391,7 +6371,7 @@
   },
   {
     "split": "train",
-    "idx": 639,
+    "idx": 637,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "44*b*4*13",
@@ -6401,17 +6381,7 @@
   },
   {
     "split": "train",
-    "idx": 640,
-    "section": "41-Anh-Tong-Hoang-De",
-    "sec_num": 41,
-    "pos_from": "1*a*1*1",
-    "pos_to": "50*b*9*1",
-    "n_source_sent": 2,
-    "n_chars": 13
-  },
-  {
-    "split": "train",
-    "idx": 641,
+    "idx": 638,
     "section": "70-Trang-Tong-Du-Hoang-De",
     "sec_num": 70,
     "pos_from": "7*a*1*1",
@@ -6421,17 +6391,7 @@
   },
   {
     "split": "train",
-    "idx": 642,
-    "section": "44-Du-Tong-Hoang-De",
-    "sec_num": 44,
-    "pos_from": "16*a*1*1",
-    "pos_to": "16*a*8*9",
-    "n_source_sent": 6,
-    "n_chars": 178
-  },
-  {
-    "split": "train",
-    "idx": 643,
+    "idx": 639,
     "section": "63-Tuc-Tong-Kham-Hoang-De",
     "sec_num": 63,
     "pos_from": "37*b*1*6",
@@ -6441,7 +6401,7 @@
   },
   {
     "split": "train",
-    "idx": 644,
+    "idx": 640,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "32*a*1*1",
@@ -6451,7 +6411,7 @@
   },
   {
     "split": "train",
-    "idx": 645,
+    "idx": 641,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "44*a*1*4",
@@ -6461,7 +6421,7 @@
   },
   {
     "split": "train",
-    "idx": 646,
+    "idx": 642,
     "section": "2-Ky-nha-Thuc",
     "sec_num": 2,
     "pos_from": "7*a*1*3",
@@ -6471,7 +6431,7 @@
   },
   {
     "split": "train",
-    "idx": 647,
+    "idx": 643,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "48*a*1*1",
@@ -6481,7 +6441,7 @@
   },
   {
     "split": "train",
-    "idx": 648,
+    "idx": 644,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "50*b*1*7",
@@ -6491,7 +6451,7 @@
   },
   {
     "split": "train",
-    "idx": 649,
+    "idx": 645,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "23*a*1*1",
@@ -6501,7 +6461,7 @@
   },
   {
     "split": "train",
-    "idx": 650,
+    "idx": 646,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "15*b*2*1",
@@ -6511,7 +6471,7 @@
   },
   {
     "split": "train",
-    "idx": 651,
+    "idx": 647,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "47*a*1*1",
@@ -6521,7 +6481,7 @@
   },
   {
     "split": "train",
-    "idx": 652,
+    "idx": 648,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "5*a*1*5",
@@ -6531,7 +6491,7 @@
   },
   {
     "split": "train",
-    "idx": 653,
+    "idx": 649,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "74*a*1*8",
@@ -6541,7 +6501,7 @@
   },
   {
     "split": "train",
-    "idx": 654,
+    "idx": 650,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "8*b*1*1",
@@ -6551,7 +6511,7 @@
   },
   {
     "split": "train",
-    "idx": 655,
+    "idx": 651,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "72*a*1*1",
@@ -6561,7 +6521,7 @@
   },
   {
     "split": "train",
-    "idx": 656,
+    "idx": 652,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "61*b*1*1",
@@ -6571,7 +6531,7 @@
   },
   {
     "split": "train",
-    "idx": 657,
+    "idx": 653,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "43*a*1*1",
@@ -6581,7 +6541,7 @@
   },
   {
     "split": "train",
-    "idx": 658,
+    "idx": 654,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "28*a*1*1",
@@ -6591,7 +6551,7 @@
   },
   {
     "split": "train",
-    "idx": 659,
+    "idx": 655,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "25*b*1*1",
@@ -6601,7 +6561,7 @@
   },
   {
     "split": "train",
-    "idx": 660,
+    "idx": 656,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "39*a*1*1",
@@ -6611,7 +6571,7 @@
   },
   {
     "split": "train",
-    "idx": 661,
+    "idx": 657,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "27*b*1*1",
@@ -6621,7 +6581,7 @@
   },
   {
     "split": "train",
-    "idx": 662,
+    "idx": 658,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "17*b*1*1",
@@ -6631,7 +6591,7 @@
   },
   {
     "split": "train",
-    "idx": 663,
+    "idx": 659,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "16*b*1*1",
@@ -6641,7 +6601,7 @@
   },
   {
     "split": "train",
-    "idx": 664,
+    "idx": 660,
     "section": "7-Ky-Si-Vuong",
     "sec_num": 7,
     "pos_from": "9*b*1*1",
@@ -6651,7 +6611,7 @@
   },
   {
     "split": "train",
-    "idx": 665,
+    "idx": 661,
     "section": "7-Ky-Si-Vuong",
     "sec_num": 7,
     "pos_from": "10*b*1*1",
@@ -6661,7 +6621,7 @@
   },
   {
     "split": "train",
-    "idx": 666,
+    "idx": 662,
     "section": "68-Phu-Mac-Dang-Dung-Mac-Dang-Doanh",
     "sec_num": 68,
     "pos_from": "72*b*1*7",
@@ -6671,7 +6631,7 @@
   },
   {
     "split": "train",
-    "idx": 667,
+    "idx": 663,
     "section": "83-Chan-Tong-Thuan-Hoang-De",
     "sec_num": 83,
     "pos_from": "37*b*1*1",
@@ -6681,7 +6641,7 @@
   },
   {
     "split": "train",
-    "idx": 668,
+    "idx": 664,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "27*b*1*1",
@@ -6691,7 +6651,7 @@
   },
   {
     "split": "train",
-    "idx": 669,
+    "idx": 665,
     "section": "8-Ky-thuoc-Ngo-Tan-Tong-Te",
     "sec_num": 8,
     "pos_from": "6*a*1*5",
@@ -6701,7 +6661,7 @@
   },
   {
     "split": "train",
-    "idx": 670,
+    "idx": 666,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "1*b*1*1",
@@ -6711,7 +6671,7 @@
   },
   {
     "split": "train",
-    "idx": 671,
+    "idx": 667,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "32*b*1*1",
@@ -6721,7 +6681,7 @@
   },
   {
     "split": "train",
-    "idx": 672,
+    "idx": 668,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "1*a*1*1",
@@ -6731,7 +6691,7 @@
   },
   {
     "split": "train",
-    "idx": 673,
+    "idx": 669,
     "section": "26-Ky-nha-Le",
     "sec_num": 26,
     "pos_from": "14*b*1*1",
@@ -6741,7 +6701,7 @@
   },
   {
     "split": "train",
-    "idx": 674,
+    "idx": 670,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "58*a*1*1",
@@ -6751,7 +6711,7 @@
   },
   {
     "split": "train",
-    "idx": 675,
+    "idx": 671,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "4*b*1*1",
@@ -6761,7 +6721,7 @@
   },
   {
     "split": "train",
-    "idx": 676,
+    "idx": 672,
     "section": "86-Gia-Tong-My-Hoang-De",
     "sec_num": 86,
     "pos_from": "43*b*1*1",
@@ -6771,7 +6731,7 @@
   },
   {
     "split": "train",
-    "idx": 677,
+    "idx": 673,
     "section": "43-Hien-Tong-Hoang-De",
     "sec_num": 43,
     "pos_from": "2*a*1*1",
@@ -6781,7 +6741,7 @@
   },
   {
     "split": "train",
-    "idx": 678,
+    "idx": 674,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "43*b*1*1",
@@ -6791,7 +6751,7 @@
   },
   {
     "split": "train",
-    "idx": 679,
+    "idx": 675,
     "section": "64-Uy-Muc-De",
     "sec_num": 64,
     "pos_from": "46*a*1*1",
@@ -6801,7 +6761,7 @@
   },
   {
     "split": "train",
-    "idx": 680,
+    "idx": 676,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "50*a*1*3",
@@ -6811,7 +6771,7 @@
   },
   {
     "split": "train",
-    "idx": 681,
+    "idx": 677,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "62*b*1*1",
@@ -6821,7 +6781,7 @@
   },
   {
     "split": "train",
-    "idx": 682,
+    "idx": 678,
     "section": "26-Ky-nha-Le",
     "sec_num": 26,
     "pos_from": "15*a*1*2",
@@ -6831,7 +6791,7 @@
   },
   {
     "split": "train",
-    "idx": 683,
+    "idx": 679,
     "section": "102-Ngoai-ky-toan-thu",
     "sec_num": 102,
     "pos_from": "2*a*2*1",
@@ -6841,7 +6801,7 @@
   },
   {
     "split": "train",
-    "idx": 684,
+    "idx": 680,
     "section": "10-Ky-Trieu-Viet-Vuong",
     "sec_num": 10,
     "pos_from": "18*b*1*1",
@@ -6851,7 +6811,7 @@
   },
   {
     "split": "train",
-    "idx": 685,
+    "idx": 681,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "15*a*2*17",
@@ -6861,7 +6821,7 @@
   },
   {
     "split": "train",
-    "idx": 686,
+    "idx": 682,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "12*a*6*8",
@@ -6871,7 +6831,7 @@
   },
   {
     "split": "train",
-    "idx": 687,
+    "idx": 683,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "66*b*2*7",
@@ -6881,7 +6841,7 @@
   },
   {
     "split": "train",
-    "idx": 688,
+    "idx": 684,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "65*a*1*8",
@@ -6891,7 +6851,7 @@
   },
   {
     "split": "train",
-    "idx": 689,
+    "idx": 685,
     "section": "74-Trung-Tong-Vu-Hoang-De",
     "sec_num": 74,
     "pos_from": "12*b*1*1",
@@ -6901,7 +6861,7 @@
   },
   {
     "split": "train",
-    "idx": 690,
+    "idx": 686,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "1*b*1*1",
@@ -6911,7 +6871,7 @@
   },
   {
     "split": "train",
-    "idx": 691,
+    "idx": 687,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "41*a*1*1",
@@ -6921,7 +6881,7 @@
   },
   {
     "split": "train",
-    "idx": 692,
+    "idx": 688,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "12*a*1*1",
@@ -6931,7 +6891,7 @@
   },
   {
     "split": "train",
-    "idx": 693,
+    "idx": 689,
     "section": "70-Trang-Tong-Du-Hoang-De",
     "sec_num": 70,
     "pos_from": "8*b*1*1",
@@ -6941,7 +6901,7 @@
   },
   {
     "split": "train",
-    "idx": 694,
+    "idx": 690,
     "section": "74-Trung-Tong-Vu-Hoang-De",
     "sec_num": 74,
     "pos_from": "12*a*1*1",
@@ -6951,7 +6911,7 @@
   },
   {
     "split": "train",
-    "idx": 695,
+    "idx": 691,
     "section": "48-Due-Tong-Hoang-De",
     "sec_num": 48,
     "pos_from": "43*a*1*1",
@@ -6961,7 +6921,7 @@
   },
   {
     "split": "train",
-    "idx": 696,
+    "idx": 692,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "12*a*1*6",
@@ -6971,7 +6931,7 @@
   },
   {
     "split": "train",
-    "idx": 697,
+    "idx": 693,
     "section": "64-Uy-Muc-De",
     "sec_num": 64,
     "pos_from": "55*b*2*1",
@@ -6981,7 +6941,7 @@
   },
   {
     "split": "train",
-    "idx": 698,
+    "idx": 694,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "38*a*1*6",
@@ -6991,7 +6951,7 @@
   },
   {
     "split": "train",
-    "idx": 699,
+    "idx": 695,
     "section": "64-Uy-Muc-De",
     "sec_num": 64,
     "pos_from": "45*a*1*1",
@@ -7001,7 +6961,7 @@
   },
   {
     "split": "train",
-    "idx": 700,
+    "idx": 696,
     "section": "46-Nghe-Tong-Hoang-De",
     "sec_num": 46,
     "pos_from": "36*a*1*1",
@@ -7011,7 +6971,7 @@
   },
   {
     "split": "train",
-    "idx": 701,
+    "idx": 697,
     "section": "26-Ky-nha-Le",
     "sec_num": 26,
     "pos_from": "15*b*1*1",
@@ -7021,7 +6981,7 @@
   },
   {
     "split": "train",
-    "idx": 702,
+    "idx": 698,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "28*b*2*1",
@@ -7031,7 +6991,7 @@
   },
   {
     "split": "train",
-    "idx": 703,
+    "idx": 699,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "11*b*2*3",
@@ -7041,7 +7001,7 @@
   },
   {
     "split": "train",
-    "idx": 704,
+    "idx": 700,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "42*b*1*6",
@@ -7051,7 +7011,7 @@
   },
   {
     "split": "train",
-    "idx": 705,
+    "idx": 701,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "14*a*1*2",
@@ -7061,7 +7021,7 @@
   },
   {
     "split": "train",
-    "idx": 706,
+    "idx": 702,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "33*b*1*1",
@@ -7071,7 +7031,7 @@
   },
   {
     "split": "train",
-    "idx": 707,
+    "idx": 703,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "41*b*1*1",
@@ -7081,7 +7041,7 @@
   },
   {
     "split": "train",
-    "idx": 708,
+    "idx": 704,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "3*b*1*1",
@@ -7091,7 +7051,7 @@
   },
   {
     "split": "train",
-    "idx": 709,
+    "idx": 705,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "56*a*1*1",
@@ -7101,7 +7061,7 @@
   },
   {
     "split": "train",
-    "idx": 710,
+    "idx": 706,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "39*a*1*1",
@@ -7111,7 +7071,7 @@
   },
   {
     "split": "train",
-    "idx": 711,
+    "idx": 707,
     "section": "86-Gia-Tong-My-Hoang-De",
     "sec_num": 86,
     "pos_from": "42*a*1*1",
@@ -7121,7 +7081,7 @@
   },
   {
     "split": "train",
-    "idx": 712,
+    "idx": 708,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "44*b*1*3",
@@ -7131,7 +7091,7 @@
   },
   {
     "split": "train",
-    "idx": 713,
+    "idx": 709,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "8*a*2*18",
@@ -7141,7 +7101,7 @@
   },
   {
     "split": "train",
-    "idx": 714,
+    "idx": 710,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "19*b*1*1",
@@ -7151,7 +7111,7 @@
   },
   {
     "split": "train",
-    "idx": 715,
+    "idx": 711,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "47*a*1*1",
@@ -7161,7 +7121,7 @@
   },
   {
     "split": "train",
-    "idx": 716,
+    "idx": 712,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "16*b*1*1",
@@ -7171,7 +7131,7 @@
   },
   {
     "split": "train",
-    "idx": 717,
+    "idx": 713,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "28*b*1*1",
@@ -7181,7 +7141,7 @@
   },
   {
     "split": "train",
-    "idx": 718,
+    "idx": 714,
     "section": "101-Tuc-bien-thu",
     "sec_num": 101,
     "pos_from": "4*a*1*1",
@@ -7191,7 +7151,7 @@
   },
   {
     "split": "train",
-    "idx": 719,
+    "idx": 715,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "5*a*1*1",
@@ -7201,7 +7161,7 @@
   },
   {
     "split": "train",
-    "idx": 720,
+    "idx": 716,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "34*b*1*1",
@@ -7211,7 +7171,7 @@
   },
   {
     "split": "train",
-    "idx": 721,
+    "idx": 717,
     "section": "100-Tuc-bien-tu",
     "sec_num": 100,
     "pos_from": "6*a*1*1",
@@ -7221,7 +7181,7 @@
   },
   {
     "split": "train",
-    "idx": 722,
+    "idx": 718,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "26*b*1*1",
@@ -7231,7 +7191,7 @@
   },
   {
     "split": "train",
-    "idx": 723,
+    "idx": 719,
     "section": "6-Ky-thuoc-Dong-Han",
     "sec_num": 6,
     "pos_from": "4*a*1*1",
@@ -7241,7 +7201,7 @@
   },
   {
     "split": "train",
-    "idx": 724,
+    "idx": 720,
     "section": "100-Tuc-bien-tu",
     "sec_num": 100,
     "pos_from": "2*a*1*1",
@@ -7251,7 +7211,7 @@
   },
   {
     "split": "train",
-    "idx": 725,
+    "idx": 721,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "11*b*1*1",
@@ -7261,7 +7221,7 @@
   },
   {
     "split": "train",
-    "idx": 726,
+    "idx": 722,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "55*b*1*1",
@@ -7271,7 +7231,7 @@
   },
   {
     "split": "train",
-    "idx": 727,
+    "idx": 723,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "12*b*1*1",
@@ -7281,7 +7241,7 @@
   },
   {
     "split": "train",
-    "idx": 728,
+    "idx": 724,
     "section": "102-Ngoai-ky-toan-thu",
     "sec_num": 102,
     "pos_from": "3*a*3*1",
@@ -7291,17 +7251,7 @@
   },
   {
     "split": "train",
-    "idx": 729,
-    "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
-    "sec_num": 61,
-    "pos_from": "85*b*1*1",
-    "pos_to": "85*b*9*1",
-    "n_source_sent": 7,
-    "n_chars": 132
-  },
-  {
-    "split": "train",
-    "idx": 730,
+    "idx": 725,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "18*b*1*14",
@@ -7311,7 +7261,7 @@
   },
   {
     "split": "train",
-    "idx": 731,
+    "idx": 726,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "17*b*1*8",
@@ -7321,7 +7271,7 @@
   },
   {
     "split": "train",
-    "idx": 732,
+    "idx": 727,
     "section": "105-Ky-nien-muc-luc",
     "sec_num": 105,
     "pos_from": "5*a*2*1",
@@ -7331,7 +7281,7 @@
   },
   {
     "split": "train",
-    "idx": 733,
+    "idx": 728,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "52*a*1*16",
@@ -7341,7 +7291,7 @@
   },
   {
     "split": "train",
-    "idx": 734,
+    "idx": 729,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "24*a*2*12",
@@ -7351,7 +7301,7 @@
   },
   {
     "split": "train",
-    "idx": 735,
+    "idx": 730,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "25*a*1*1",
@@ -7361,7 +7311,7 @@
   },
   {
     "split": "train",
-    "idx": 736,
+    "idx": 731,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "70*b*2*1",
@@ -7371,7 +7321,7 @@
   },
   {
     "split": "train",
-    "idx": 737,
+    "idx": 732,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "39*a*1*1",
@@ -7381,7 +7331,7 @@
   },
   {
     "split": "train",
-    "idx": 738,
+    "idx": 733,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "23*a*1*1",
@@ -7391,7 +7341,7 @@
   },
   {
     "split": "train",
-    "idx": 739,
+    "idx": 734,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "13*a*1*1",
@@ -7401,7 +7351,7 @@
   },
   {
     "split": "train",
-    "idx": 740,
+    "idx": 735,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "23*b*1*4",
@@ -7411,7 +7361,7 @@
   },
   {
     "split": "train",
-    "idx": 741,
+    "idx": 736,
     "section": "3-Ky-nha-Trieu",
     "sec_num": 3,
     "pos_from": "2*a*1*1",
@@ -7421,7 +7371,7 @@
   },
   {
     "split": "train",
-    "idx": 742,
+    "idx": 737,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "45*a*1*1",
@@ -7431,7 +7381,7 @@
   },
   {
     "split": "train",
-    "idx": 743,
+    "idx": 738,
     "section": "68-Phu-Mac-Dang-Dung-Mac-Dang-Doanh",
     "sec_num": 68,
     "pos_from": "72*a*1*1",
@@ -7441,7 +7391,7 @@
   },
   {
     "split": "train",
-    "idx": 744,
+    "idx": 739,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "14*a*1*1",
@@ -7451,7 +7401,7 @@
   },
   {
     "split": "train",
-    "idx": 745,
+    "idx": 740,
     "section": "103-Toan-thu-bieu",
     "sec_num": 103,
     "pos_from": "2*b*1*8",
@@ -7461,7 +7411,7 @@
   },
   {
     "split": "train",
-    "idx": 746,
+    "idx": 741,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "34*a*1*1",
@@ -7471,7 +7421,7 @@
   },
   {
     "split": "train",
-    "idx": 747,
+    "idx": 742,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "37*b*1*1",
@@ -7481,7 +7431,7 @@
   },
   {
     "split": "train",
-    "idx": 748,
+    "idx": 743,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "21*a*1*1",
@@ -7491,7 +7441,7 @@
   },
   {
     "split": "train",
-    "idx": 749,
+    "idx": 744,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "6*b*1*1",
@@ -7501,7 +7451,7 @@
   },
   {
     "split": "train",
-    "idx": 750,
+    "idx": 745,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "15*b*1*6",
@@ -7511,7 +7461,7 @@
   },
   {
     "split": "train",
-    "idx": 751,
+    "idx": 746,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "22*b*4*1",
@@ -7521,7 +7471,7 @@
   },
   {
     "split": "train",
-    "idx": 752,
+    "idx": 747,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "26*b*1*1",
@@ -7531,7 +7481,7 @@
   },
   {
     "split": "train",
-    "idx": 753,
+    "idx": 748,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "2*b*1*5",
@@ -7541,7 +7491,7 @@
   },
   {
     "split": "train",
-    "idx": 754,
+    "idx": 749,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "4*b*1*21",
@@ -7551,7 +7501,7 @@
   },
   {
     "split": "train",
-    "idx": 755,
+    "idx": 750,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "11*a*1*1",
@@ -7561,7 +7511,7 @@
   },
   {
     "split": "train",
-    "idx": 756,
+    "idx": 751,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "36*a*1*2",
@@ -7571,7 +7521,7 @@
   },
   {
     "split": "train",
-    "idx": 757,
+    "idx": 752,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "33*a*1*8",
@@ -7581,7 +7531,7 @@
   },
   {
     "split": "train",
-    "idx": 758,
+    "idx": 753,
     "section": "8-Ky-thuoc-Ngo-Tan-Tong-Te",
     "sec_num": 8,
     "pos_from": "10*a*1*4",
@@ -7591,7 +7541,7 @@
   },
   {
     "split": "train",
-    "idx": 759,
+    "idx": 754,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "54*a*4*6",
@@ -7601,7 +7551,7 @@
   },
   {
     "split": "train",
-    "idx": 760,
+    "idx": 755,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "46*b*1*1",
@@ -7611,7 +7561,7 @@
   },
   {
     "split": "train",
-    "idx": 761,
+    "idx": 756,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "45*b*1*1",
@@ -7621,7 +7571,7 @@
   },
   {
     "split": "train",
-    "idx": 762,
+    "idx": 757,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "3*b*3*17",
@@ -7631,7 +7581,7 @@
   },
   {
     "split": "train",
-    "idx": 763,
+    "idx": 758,
     "section": "8-Ky-thuoc-Ngo-Tan-Tong-Te",
     "sec_num": 8,
     "pos_from": "1*b*1*1",
@@ -7641,7 +7591,7 @@
   },
   {
     "split": "train",
-    "idx": 764,
+    "idx": 759,
     "section": "39-Thanh-Tong-Hoang-De",
     "sec_num": 39,
     "pos_from": "29*a*1*2",
@@ -7651,7 +7601,7 @@
   },
   {
     "split": "train",
-    "idx": 765,
+    "idx": 760,
     "section": "100-Tuc-bien-tu",
     "sec_num": 100,
     "pos_from": "1*b*1*1",
@@ -7661,7 +7611,7 @@
   },
   {
     "split": "train",
-    "idx": 766,
+    "idx": 761,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "17*a*1*1",
@@ -7671,7 +7621,7 @@
   },
   {
     "split": "train",
-    "idx": 767,
+    "idx": 762,
     "section": "105-Ky-nien-muc-luc",
     "sec_num": 105,
     "pos_from": "5*b*2*1",
@@ -7681,7 +7631,7 @@
   },
   {
     "split": "train",
-    "idx": 768,
+    "idx": 763,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "16*b*1*1",
@@ -7691,7 +7641,7 @@
   },
   {
     "split": "train",
-    "idx": 769,
+    "idx": 764,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "5*a*6*9",
@@ -7701,7 +7651,7 @@
   },
   {
     "split": "train",
-    "idx": 770,
+    "idx": 765,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "1*b*6*10",
@@ -7711,7 +7661,7 @@
   },
   {
     "split": "train",
-    "idx": 771,
+    "idx": 766,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "57*a*1*1",
@@ -7721,7 +7671,7 @@
   },
   {
     "split": "train",
-    "idx": 772,
+    "idx": 767,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "41*b*1*12",
@@ -7731,7 +7681,7 @@
   },
   {
     "split": "train",
-    "idx": 773,
+    "idx": 768,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "33*b*1*1",
@@ -7741,7 +7691,7 @@
   },
   {
     "split": "train",
-    "idx": 774,
+    "idx": 769,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "67*b*1*1",
@@ -7751,7 +7701,7 @@
   },
   {
     "split": "train",
-    "idx": 775,
+    "idx": 770,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "71*b*1*1",
@@ -7761,7 +7711,7 @@
   },
   {
     "split": "train",
-    "idx": 776,
+    "idx": 771,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "50*a*3*13",
@@ -7771,7 +7721,7 @@
   },
   {
     "split": "train",
-    "idx": 777,
+    "idx": 772,
     "section": "39-Thanh-Tong-Hoang-De",
     "sec_num": 39,
     "pos_from": "27*a*1*1",
@@ -7781,7 +7731,7 @@
   },
   {
     "split": "train",
-    "idx": 778,
+    "idx": 773,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "20*b*1*1",
@@ -7791,7 +7741,7 @@
   },
   {
     "split": "train",
-    "idx": 779,
+    "idx": 774,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "41*a*1*2",
@@ -7801,7 +7751,7 @@
   },
   {
     "split": "train",
-    "idx": 780,
+    "idx": 775,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "5*b*1*1",
@@ -7811,7 +7761,7 @@
   },
   {
     "split": "train",
-    "idx": 781,
+    "idx": 776,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "66*a*1*8",
@@ -7821,7 +7771,7 @@
   },
   {
     "split": "train",
-    "idx": 782,
+    "idx": 777,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "43*a*1*1",
@@ -7831,7 +7781,7 @@
   },
   {
     "split": "train",
-    "idx": 783,
+    "idx": 778,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "24*a*1*4",
@@ -7841,7 +7791,7 @@
   },
   {
     "split": "train",
-    "idx": 784,
+    "idx": 779,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "5*a*1*1",
@@ -7851,7 +7801,7 @@
   },
   {
     "split": "train",
-    "idx": 785,
+    "idx": 780,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "3*b*1*1",
@@ -7861,7 +7811,7 @@
   },
   {
     "split": "train",
-    "idx": 786,
+    "idx": 781,
     "section": "7-Ky-Si-Vuong",
     "sec_num": 7,
     "pos_from": "7*b*2*1",
@@ -7871,7 +7821,7 @@
   },
   {
     "split": "train",
-    "idx": 787,
+    "idx": 782,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "71*a*1*14",
@@ -7881,7 +7831,7 @@
   },
   {
     "split": "train",
-    "idx": 788,
+    "idx": 783,
     "section": "48-Due-Tong-Hoang-De",
     "sec_num": 48,
     "pos_from": "41*a*1*9",
@@ -7891,7 +7841,7 @@
   },
   {
     "split": "train",
-    "idx": 789,
+    "idx": 784,
     "section": "26-Ky-nha-Le",
     "sec_num": 26,
     "pos_from": "17*a*1*1",
@@ -7901,7 +7851,7 @@
   },
   {
     "split": "train",
-    "idx": 790,
+    "idx": 785,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "57*a*1*1",
@@ -7911,7 +7861,7 @@
   },
   {
     "split": "train",
-    "idx": 791,
+    "idx": 786,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "31*a*1*1",
@@ -7921,7 +7871,7 @@
   },
   {
     "split": "train",
-    "idx": 792,
+    "idx": 787,
     "section": "86-Gia-Tong-My-Hoang-De",
     "sec_num": 86,
     "pos_from": "31*b*1*1",
@@ -7931,7 +7881,7 @@
   },
   {
     "split": "train",
-    "idx": 793,
+    "idx": 788,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "24*b*1*7",
@@ -7941,7 +7891,7 @@
   },
   {
     "split": "train",
-    "idx": 794,
+    "idx": 789,
     "section": "70-Trang-Tong-Du-Hoang-De",
     "sec_num": 70,
     "pos_from": "1*b*1*1",
@@ -7951,7 +7901,7 @@
   },
   {
     "split": "train",
-    "idx": 795,
+    "idx": 790,
     "section": "14-Ky-nha-Ngo",
     "sec_num": 14,
     "pos_from": "24*a*1*1",
@@ -7961,7 +7911,7 @@
   },
   {
     "split": "train",
-    "idx": 796,
+    "idx": 791,
     "section": "10-Ky-Trieu-Viet-Vuong",
     "sec_num": 10,
     "pos_from": "19*b*1*1",
@@ -7971,7 +7921,7 @@
   },
   {
     "split": "train",
-    "idx": 797,
+    "idx": 792,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "35*a*1*5",
@@ -7981,7 +7931,7 @@
   },
   {
     "split": "train",
-    "idx": 798,
+    "idx": 793,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "12*b*1*1",
@@ -7991,7 +7941,7 @@
   },
   {
     "split": "train",
-    "idx": 799,
+    "idx": 794,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "35*a*1*1",
@@ -8001,7 +7951,7 @@
   },
   {
     "split": "train",
-    "idx": 800,
+    "idx": 795,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "24*a*1*1",
@@ -8011,7 +7961,7 @@
   },
   {
     "split": "train",
-    "idx": 801,
+    "idx": 796,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "40*b*1*1",
@@ -8021,7 +7971,7 @@
   },
   {
     "split": "train",
-    "idx": 802,
+    "idx": 797,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "42*b*1*1",
@@ -8031,7 +7981,7 @@
   },
   {
     "split": "train",
-    "idx": 803,
+    "idx": 798,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "62*b*1*1",
@@ -8041,7 +7991,7 @@
   },
   {
     "split": "train",
-    "idx": 804,
+    "idx": 799,
     "section": "8-Ky-thuoc-Ngo-Tan-Tong-Te",
     "sec_num": 8,
     "pos_from": "2*a*1*1",
@@ -8051,7 +8001,7 @@
   },
   {
     "split": "train",
-    "idx": 805,
+    "idx": 800,
     "section": "86-Gia-Tong-My-Hoang-De",
     "sec_num": 86,
     "pos_from": "36*b*1*1",
@@ -8061,7 +8011,7 @@
   },
   {
     "split": "train",
-    "idx": 806,
+    "idx": 801,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "46*a*1*1",
@@ -8071,7 +8021,7 @@
   },
   {
     "split": "train",
-    "idx": 807,
+    "idx": 802,
     "section": "64-Uy-Muc-De",
     "sec_num": 64,
     "pos_from": "43*b*1*1",
@@ -8081,7 +8031,7 @@
   },
   {
     "split": "train",
-    "idx": 808,
+    "idx": 803,
     "section": "86-Gia-Tong-My-Hoang-De",
     "sec_num": 86,
     "pos_from": "34*b*1*1",
@@ -8091,7 +8041,7 @@
   },
   {
     "split": "train",
-    "idx": 809,
+    "idx": 804,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "72*b*2*1",
@@ -8101,7 +8051,7 @@
   },
   {
     "split": "train",
-    "idx": 810,
+    "idx": 805,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "72*b*1*1",
@@ -8111,7 +8061,7 @@
   },
   {
     "split": "train",
-    "idx": 811,
+    "idx": 806,
     "section": "35-Cao-Tong-Hoang-De",
     "sec_num": 35,
     "pos_from": "26*a*2*5",
@@ -8121,7 +8071,7 @@
   },
   {
     "split": "train",
-    "idx": 812,
+    "idx": 807,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "31*a*1*1",
@@ -8131,7 +8081,7 @@
   },
   {
     "split": "train",
-    "idx": 813,
+    "idx": 808,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "2*b*1*4",
@@ -8141,7 +8091,7 @@
   },
   {
     "split": "train",
-    "idx": 814,
+    "idx": 809,
     "section": "34-Anh-Tong-Hoang-De",
     "sec_num": 34,
     "pos_from": "12*b*1*1",
@@ -8151,7 +8101,7 @@
   },
   {
     "split": "train",
-    "idx": 815,
+    "idx": 810,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "61*b*1*1",
@@ -8161,7 +8111,7 @@
   },
   {
     "split": "train",
-    "idx": 816,
+    "idx": 811,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "29*a*1*1",
@@ -8171,7 +8121,7 @@
   },
   {
     "split": "train",
-    "idx": 817,
+    "idx": 812,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "25*a*1*1",
@@ -8181,7 +8131,7 @@
   },
   {
     "split": "train",
-    "idx": 818,
+    "idx": 813,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "61*a*1*1",
@@ -8191,7 +8141,7 @@
   },
   {
     "split": "train",
-    "idx": 819,
+    "idx": 814,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "49*a*1*1",
@@ -8201,7 +8151,7 @@
   },
   {
     "split": "train",
-    "idx": 820,
+    "idx": 815,
     "section": "64-Uy-Muc-De",
     "sec_num": 64,
     "pos_from": "52*b*1*1",
@@ -8211,7 +8161,7 @@
   },
   {
     "split": "train",
-    "idx": 821,
+    "idx": 816,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "49*a*1*1",
@@ -8221,7 +8171,7 @@
   },
   {
     "split": "train",
-    "idx": 822,
+    "idx": 817,
     "section": "46-Nghe-Tong-Hoang-De",
     "sec_num": 46,
     "pos_from": "35*b*1*1",
@@ -8231,7 +8181,7 @@
   },
   {
     "split": "train",
-    "idx": 823,
+    "idx": 818,
     "section": "39-Thanh-Tong-Hoang-De",
     "sec_num": 39,
     "pos_from": "37*a*1*1",
@@ -8241,7 +8191,7 @@
   },
   {
     "split": "train",
-    "idx": 824,
+    "idx": 819,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "26*a*1*1",
@@ -8251,7 +8201,7 @@
   },
   {
     "split": "train",
-    "idx": 825,
+    "idx": 820,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "60*a*1*1",
@@ -8261,7 +8211,7 @@
   },
   {
     "split": "train",
-    "idx": 826,
+    "idx": 821,
     "section": "68-Phu-Mac-Dang-Dung-Mac-Dang-Doanh",
     "sec_num": 68,
     "pos_from": "70*b*1*1",
@@ -8271,7 +8221,7 @@
   },
   {
     "split": "train",
-    "idx": 827,
+    "idx": 822,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "57*b*1*5",
@@ -8281,7 +8231,7 @@
   },
   {
     "split": "train",
-    "idx": 828,
+    "idx": 823,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "28*a*1*1",
@@ -8291,7 +8241,7 @@
   },
   {
     "split": "train",
-    "idx": 829,
+    "idx": 824,
     "section": "46-Nghe-Tong-Hoang-De",
     "sec_num": 46,
     "pos_from": "34*a*1*2",
@@ -8301,7 +8251,7 @@
   },
   {
     "split": "train",
-    "idx": 830,
+    "idx": 825,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "76*a*2*4",
@@ -8311,7 +8261,7 @@
   },
   {
     "split": "train",
-    "idx": 831,
+    "idx": 826,
     "section": "64-Uy-Muc-De",
     "sec_num": 64,
     "pos_from": "48*a*1*3",
@@ -8321,7 +8271,7 @@
   },
   {
     "split": "train",
-    "idx": 832,
+    "idx": 827,
     "section": "104-Toan-thu-pham-le",
     "sec_num": 104,
     "pos_from": "4*b*1*1",
@@ -8331,7 +8281,7 @@
   },
   {
     "split": "train",
-    "idx": 833,
+    "idx": 828,
     "section": "70-Trang-Tong-Du-Hoang-De",
     "sec_num": 70,
     "pos_from": "4*a*1*1",
@@ -8341,7 +8291,7 @@
   },
   {
     "split": "train",
-    "idx": 834,
+    "idx": 829,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "27*b*1*1",
@@ -8351,7 +8301,7 @@
   },
   {
     "split": "train",
-    "idx": 835,
+    "idx": 830,
     "section": "105-Ky-nien-muc-luc",
     "sec_num": 105,
     "pos_from": "11*a*1*1",
@@ -8361,7 +8311,7 @@
   },
   {
     "split": "train",
-    "idx": 836,
+    "idx": 831,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "73*a*1*1",
@@ -8371,7 +8321,7 @@
   },
   {
     "split": "train",
-    "idx": 837,
+    "idx": 832,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "43*b*1*1",
@@ -8381,7 +8331,7 @@
   },
   {
     "split": "train",
-    "idx": 838,
+    "idx": 833,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "72*a*1*12",
@@ -8391,7 +8341,7 @@
   },
   {
     "split": "train",
-    "idx": 839,
+    "idx": 834,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "5*b*1*1",
@@ -8401,7 +8351,7 @@
   },
   {
     "split": "train",
-    "idx": 840,
+    "idx": 835,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "36*b*1*1",
@@ -8411,7 +8361,7 @@
   },
   {
     "split": "train",
-    "idx": 841,
+    "idx": 836,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "17*b*1*1",
@@ -8421,7 +8371,7 @@
   },
   {
     "split": "train",
-    "idx": 842,
+    "idx": 837,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "8*b*1*1",
@@ -8431,7 +8381,7 @@
   },
   {
     "split": "train",
-    "idx": 843,
+    "idx": 838,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "30*a*1*1",
@@ -8441,7 +8391,7 @@
   },
   {
     "split": "train",
-    "idx": 844,
+    "idx": 839,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "56*b*1*1",
@@ -8451,7 +8401,7 @@
   },
   {
     "split": "train",
-    "idx": 845,
+    "idx": 840,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "58*b*1*1",
@@ -8461,7 +8411,7 @@
   },
   {
     "split": "train",
-    "idx": 846,
+    "idx": 841,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "11*a*1*1",
@@ -8471,7 +8421,7 @@
   },
   {
     "split": "train",
-    "idx": 847,
+    "idx": 842,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "53*a*1*6",
@@ -8481,7 +8431,7 @@
   },
   {
     "split": "train",
-    "idx": 848,
+    "idx": 843,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "38*a*1*1",
@@ -8491,7 +8441,7 @@
   },
   {
     "split": "train",
-    "idx": 849,
+    "idx": 844,
     "section": "39-Thanh-Tong-Hoang-De",
     "sec_num": 39,
     "pos_from": "31*b*1*1",
@@ -8501,7 +8451,7 @@
   },
   {
     "split": "train",
-    "idx": 850,
+    "idx": 845,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "30*a*1*1",
@@ -8511,7 +8461,7 @@
   },
   {
     "split": "train",
-    "idx": 851,
+    "idx": 846,
     "section": "50-Thuan-Tong-Hoang-De",
     "sec_num": 50,
     "pos_from": "26*b*1*1",
@@ -8521,7 +8471,7 @@
   },
   {
     "split": "train",
-    "idx": 852,
+    "idx": 847,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "5*b*1*3",
@@ -8531,7 +8481,7 @@
   },
   {
     "split": "train",
-    "idx": 853,
+    "idx": 848,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "1*a*1*1",
@@ -8541,7 +8491,7 @@
   },
   {
     "split": "train",
-    "idx": 854,
+    "idx": 849,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "66*a*1*1",
@@ -8551,7 +8501,7 @@
   },
   {
     "split": "train",
-    "idx": 855,
+    "idx": 850,
     "section": "39-Thanh-Tong-Hoang-De",
     "sec_num": 39,
     "pos_from": "36*a*3*5",
@@ -8561,7 +8511,7 @@
   },
   {
     "split": "train",
-    "idx": 856,
+    "idx": 851,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "15*a*1*1",
@@ -8571,7 +8521,7 @@
   },
   {
     "split": "train",
-    "idx": 857,
+    "idx": 852,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "7*b*1*1",
@@ -8581,7 +8531,7 @@
   },
   {
     "split": "train",
-    "idx": 858,
+    "idx": 853,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "7*a*1*5",
@@ -8591,7 +8541,7 @@
   },
   {
     "split": "train",
-    "idx": 859,
+    "idx": 854,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "25*a*1*1",
@@ -8601,7 +8551,7 @@
   },
   {
     "split": "train",
-    "idx": 860,
+    "idx": 855,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "2*b*1*7",
@@ -8611,7 +8561,7 @@
   },
   {
     "split": "train",
-    "idx": 861,
+    "idx": 856,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "2*a*1*1",
@@ -8621,7 +8571,7 @@
   },
   {
     "split": "train",
-    "idx": 862,
+    "idx": 857,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "6*a*1*1",
@@ -8631,7 +8581,7 @@
   },
   {
     "split": "train",
-    "idx": 863,
+    "idx": 858,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "30*a*1*1",
@@ -8641,7 +8591,7 @@
   },
   {
     "split": "train",
-    "idx": 864,
+    "idx": 859,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "23*b*1*1",
@@ -8651,7 +8601,7 @@
   },
   {
     "split": "train",
-    "idx": 865,
+    "idx": 860,
     "section": "26-Ky-nha-Le",
     "sec_num": 26,
     "pos_from": "21*b*1*8",
@@ -8661,7 +8611,7 @@
   },
   {
     "split": "train",
-    "idx": 866,
+    "idx": 861,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "13*b*2*1",
@@ -8671,7 +8621,7 @@
   },
   {
     "split": "train",
-    "idx": 867,
+    "idx": 862,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "70*a*1*1",
@@ -8681,7 +8631,7 @@
   },
   {
     "split": "train",
-    "idx": 868,
+    "idx": 863,
     "section": "24-Ky-nha-Dinh",
     "sec_num": 24,
     "pos_from": "6*b*1*1",
@@ -8691,7 +8641,7 @@
   },
   {
     "split": "train",
-    "idx": 869,
+    "idx": 864,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "24*b*1*11",
@@ -8701,7 +8651,7 @@
   },
   {
     "split": "train",
-    "idx": 870,
+    "idx": 865,
     "section": "39-Thanh-Tong-Hoang-De",
     "sec_num": 39,
     "pos_from": "35*b*1*1",
@@ -8711,7 +8661,7 @@
   },
   {
     "split": "train",
-    "idx": 871,
+    "idx": 866,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "20*b*1*2",
@@ -8721,7 +8671,7 @@
   },
   {
     "split": "train",
-    "idx": 872,
+    "idx": 867,
     "section": "36-Hue-Tong-Hoang-De",
     "sec_num": 36,
     "pos_from": "32*a*2*1",
@@ -8731,7 +8681,7 @@
   },
   {
     "split": "train",
-    "idx": 873,
+    "idx": 868,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "6*b*1*1",
@@ -8741,7 +8691,7 @@
   },
   {
     "split": "train",
-    "idx": 874,
+    "idx": 869,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "27*b*1*1",
@@ -8751,7 +8701,7 @@
   },
   {
     "split": "train",
-    "idx": 875,
+    "idx": 870,
     "section": "26-Ky-nha-Le",
     "sec_num": 26,
     "pos_from": "20*a*2*1",
@@ -8761,7 +8711,7 @@
   },
   {
     "split": "train",
-    "idx": 876,
+    "idx": 871,
     "section": "100-Tuc-bien-tu",
     "sec_num": 100,
     "pos_from": "1*a*2*7",
@@ -8771,7 +8721,7 @@
   },
   {
     "split": "train",
-    "idx": 877,
+    "idx": 872,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "25*a*1*4",
@@ -8781,7 +8731,7 @@
   },
   {
     "split": "train",
-    "idx": 878,
+    "idx": 873,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "31*b*1*1",
@@ -8791,7 +8741,7 @@
   },
   {
     "split": "train",
-    "idx": 879,
+    "idx": 874,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "9*a*1*1",
@@ -8801,7 +8751,7 @@
   },
   {
     "split": "train",
-    "idx": 880,
+    "idx": 875,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "31*b*1*8",
@@ -8811,7 +8761,7 @@
   },
   {
     "split": "train",
-    "idx": 881,
+    "idx": 876,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "37*a*1*1",
@@ -8821,7 +8771,7 @@
   },
   {
     "split": "train",
-    "idx": 882,
+    "idx": 877,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "4*b*2*1",
@@ -8831,7 +8781,7 @@
   },
   {
     "split": "train",
-    "idx": 883,
+    "idx": 878,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "46*b*1*1",
@@ -8841,7 +8791,7 @@
   },
   {
     "split": "train",
-    "idx": 884,
+    "idx": 879,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "46*b*1*1",
@@ -8851,7 +8801,7 @@
   },
   {
     "split": "train",
-    "idx": 885,
+    "idx": 880,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "1*a*1*1",
@@ -8861,7 +8811,7 @@
   },
   {
     "split": "train",
-    "idx": 886,
+    "idx": 881,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "11*b*1*1",
@@ -8871,7 +8821,7 @@
   },
   {
     "split": "train",
-    "idx": 887,
+    "idx": 882,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "40*a*1*8",
@@ -8881,7 +8831,7 @@
   },
   {
     "split": "train",
-    "idx": 888,
+    "idx": 883,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "21*b*1*1",
@@ -8891,7 +8841,7 @@
   },
   {
     "split": "train",
-    "idx": 889,
+    "idx": 884,
     "section": "6-Ky-thuoc-Dong-Han",
     "sec_num": 6,
     "pos_from": "5*b*1*1",
@@ -8901,7 +8851,7 @@
   },
   {
     "split": "train",
-    "idx": 890,
+    "idx": 885,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "33*b*1*1",
@@ -8911,7 +8861,7 @@
   },
   {
     "split": "train",
-    "idx": 891,
+    "idx": 886,
     "section": "70-Trang-Tong-Du-Hoang-De",
     "sec_num": 70,
     "pos_from": "8*a*1*1",
@@ -8921,7 +8871,7 @@
   },
   {
     "split": "train",
-    "idx": 892,
+    "idx": 887,
     "section": "64-Uy-Muc-De",
     "sec_num": 64,
     "pos_from": "41*a*3*9",
@@ -8931,7 +8881,7 @@
   },
   {
     "split": "train",
-    "idx": 893,
+    "idx": 888,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "15*b*1*8",
@@ -8941,7 +8891,7 @@
   },
   {
     "split": "train",
-    "idx": 894,
+    "idx": 889,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "52*a*1*1",
@@ -8951,7 +8901,7 @@
   },
   {
     "split": "train",
-    "idx": 895,
+    "idx": 890,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "42*a*1*17",
@@ -8961,7 +8911,7 @@
   },
   {
     "split": "train",
-    "idx": 896,
+    "idx": 891,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "3*a*1*8",
@@ -8971,7 +8921,7 @@
   },
   {
     "split": "train",
-    "idx": 897,
+    "idx": 892,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "39*b*1*7",
@@ -8981,7 +8931,7 @@
   },
   {
     "split": "train",
-    "idx": 898,
+    "idx": 893,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "44*a*8*1",
@@ -8991,7 +8941,7 @@
   },
   {
     "split": "train",
-    "idx": 899,
+    "idx": 894,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "79*b*3*17",
@@ -9001,7 +8951,7 @@
   },
   {
     "split": "train",
-    "idx": 900,
+    "idx": 895,
     "section": "48-Due-Tong-Hoang-De",
     "sec_num": 48,
     "pos_from": "44*a*2*12",
@@ -9011,7 +8961,7 @@
   },
   {
     "split": "train",
-    "idx": 901,
+    "idx": 896,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "13*b*1*1",
@@ -9021,7 +8971,7 @@
   },
   {
     "split": "train",
-    "idx": 902,
+    "idx": 897,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "67*a*1*1",
@@ -9031,7 +8981,7 @@
   },
   {
     "split": "train",
-    "idx": 903,
+    "idx": 898,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "70*a*1*1",
@@ -9041,7 +8991,7 @@
   },
   {
     "split": "train",
-    "idx": 904,
+    "idx": 899,
     "section": "26-Ky-nha-Le",
     "sec_num": 26,
     "pos_from": "24*b*1*4",
@@ -9051,7 +9001,7 @@
   },
   {
     "split": "train",
-    "idx": 905,
+    "idx": 900,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "41*b*1*1",
@@ -9061,7 +9011,7 @@
   },
   {
     "split": "train",
-    "idx": 906,
+    "idx": 901,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "40*b*2*1",
@@ -9071,7 +9021,7 @@
   },
   {
     "split": "train",
-    "idx": 907,
+    "idx": 902,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "73*a*2*9",
@@ -9081,7 +9031,7 @@
   },
   {
     "split": "train",
-    "idx": 908,
+    "idx": 903,
     "section": "24-Ky-nha-Dinh",
     "sec_num": 24,
     "pos_from": "4*a*1*1",
@@ -9091,7 +9041,7 @@
   },
   {
     "split": "train",
-    "idx": 909,
+    "idx": 904,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "5*b*1*3",
@@ -9101,7 +9051,7 @@
   },
   {
     "split": "train",
-    "idx": 910,
+    "idx": 905,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "33*b*1*1",
@@ -9111,7 +9061,7 @@
   },
   {
     "split": "train",
-    "idx": 911,
+    "idx": 906,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "55*a*1*7",
@@ -9121,7 +9071,7 @@
   },
   {
     "split": "train",
-    "idx": 912,
+    "idx": 907,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "30*a*1*1",
@@ -9131,7 +9081,7 @@
   },
   {
     "split": "train",
-    "idx": 913,
+    "idx": 908,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "13*b*3*1",
@@ -9141,7 +9091,7 @@
   },
   {
     "split": "train",
-    "idx": 914,
+    "idx": 909,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "12*b*1*6",
@@ -9151,7 +9101,7 @@
   },
   {
     "split": "train",
-    "idx": 915,
+    "idx": 910,
     "section": "64-Uy-Muc-De",
     "sec_num": 64,
     "pos_from": "47*a*1*1",
@@ -9161,7 +9111,7 @@
   },
   {
     "split": "train",
-    "idx": 916,
+    "idx": 911,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "11*b*1*1",
@@ -9171,7 +9121,7 @@
   },
   {
     "split": "train",
-    "idx": 917,
+    "idx": 912,
     "section": "37-Chieu-Hoang",
     "sec_num": 37,
     "pos_from": "1*a*1*1",
@@ -9181,7 +9131,7 @@
   },
   {
     "split": "train",
-    "idx": 918,
+    "idx": 913,
     "section": "6-Ky-thuoc-Dong-Han",
     "sec_num": 6,
     "pos_from": "6*b*1*1",
@@ -9191,7 +9141,7 @@
   },
   {
     "split": "train",
-    "idx": 919,
+    "idx": 914,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "18*a*1*1",
@@ -9201,7 +9151,7 @@
   },
   {
     "split": "train",
-    "idx": 920,
+    "idx": 915,
     "section": "14-Ky-nha-Ngo",
     "sec_num": 14,
     "pos_from": "23*b*1*1",
@@ -9211,7 +9161,7 @@
   },
   {
     "split": "train",
-    "idx": 921,
+    "idx": 916,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "34*b*1*1",
@@ -9221,7 +9171,7 @@
   },
   {
     "split": "train",
-    "idx": 922,
+    "idx": 917,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "63*a*1*1",
@@ -9231,7 +9181,7 @@
   },
   {
     "split": "train",
-    "idx": 923,
+    "idx": 918,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "9*a*1*5",
@@ -9241,7 +9191,7 @@
   },
   {
     "split": "train",
-    "idx": 924,
+    "idx": 919,
     "section": "104-Toan-thu-pham-le",
     "sec_num": 104,
     "pos_from": "2*b*1*1",
@@ -9251,7 +9201,7 @@
   },
   {
     "split": "train",
-    "idx": 925,
+    "idx": 920,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "43*a*1*1",
@@ -9261,7 +9211,7 @@
   },
   {
     "split": "train",
-    "idx": 926,
+    "idx": 921,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "33*b*1*1",
@@ -9271,7 +9221,7 @@
   },
   {
     "split": "train",
-    "idx": 927,
+    "idx": 922,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "3*a*1*16",
@@ -9281,7 +9231,7 @@
   },
   {
     "split": "train",
-    "idx": 928,
+    "idx": 923,
     "section": "104-Toan-thu-pham-le",
     "sec_num": 104,
     "pos_from": "1*b*1*4",
@@ -9291,7 +9241,7 @@
   },
   {
     "split": "train",
-    "idx": 929,
+    "idx": 924,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "70*b*1*1",
@@ -9301,7 +9251,7 @@
   },
   {
     "split": "train",
-    "idx": 930,
+    "idx": 925,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "9*b*1*1",
@@ -9311,7 +9261,7 @@
   },
   {
     "split": "train",
-    "idx": 931,
+    "idx": 926,
     "section": "43-Hien-Tong-Hoang-De",
     "sec_num": 43,
     "pos_from": "8*a*1*8",
@@ -9321,7 +9271,7 @@
   },
   {
     "split": "train",
-    "idx": 932,
+    "idx": 927,
     "section": "39-Thanh-Tong-Hoang-De",
     "sec_num": 39,
     "pos_from": "25*b*1*2",
@@ -9331,7 +9281,7 @@
   },
   {
     "split": "train",
-    "idx": 933,
+    "idx": 928,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "7*b*1*1",
@@ -9341,7 +9291,7 @@
   },
   {
     "split": "train",
-    "idx": 934,
+    "idx": 929,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "8*b*1*2",
@@ -9351,7 +9301,7 @@
   },
   {
     "split": "train",
-    "idx": 935,
+    "idx": 930,
     "section": "74-Trung-Tong-Vu-Hoang-De",
     "sec_num": 74,
     "pos_from": "9*a*1*1",
@@ -9361,7 +9311,7 @@
   },
   {
     "split": "train",
-    "idx": 936,
+    "idx": 931,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "30*b*1*1",
@@ -9371,7 +9321,7 @@
   },
   {
     "split": "train",
-    "idx": 937,
+    "idx": 932,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "10*b*1*12",
@@ -9381,7 +9331,7 @@
   },
   {
     "split": "train",
-    "idx": 938,
+    "idx": 933,
     "section": "11-Ky-hau-Ly",
     "sec_num": 11,
     "pos_from": "1*a*1*1",
@@ -9391,7 +9341,7 @@
   },
   {
     "split": "train",
-    "idx": 939,
+    "idx": 934,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "11*b*1*1",
@@ -9401,7 +9351,7 @@
   },
   {
     "split": "train",
-    "idx": 940,
+    "idx": 935,
     "section": "43-Hien-Tong-Hoang-De",
     "sec_num": 43,
     "pos_from": "10*b*1*1",
@@ -9411,7 +9361,7 @@
   },
   {
     "split": "train",
-    "idx": 941,
+    "idx": 936,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "19*a*1*1",
@@ -9421,7 +9371,7 @@
   },
   {
     "split": "train",
-    "idx": 942,
+    "idx": 937,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "43*b*1*1",
@@ -9431,7 +9381,7 @@
   },
   {
     "split": "train",
-    "idx": 943,
+    "idx": 938,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "74*a*1*1",
@@ -9441,7 +9391,7 @@
   },
   {
     "split": "train",
-    "idx": 944,
+    "idx": 939,
     "section": "31-Thanh-Tong-Hoang-De",
     "sec_num": 31,
     "pos_from": "3*b*1*8",
@@ -9451,7 +9401,7 @@
   },
   {
     "split": "train",
-    "idx": 945,
+    "idx": 940,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "6*b*1*1",
@@ -9461,7 +9411,7 @@
   },
   {
     "split": "train",
-    "idx": 946,
+    "idx": 941,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "15*b*1*1",
@@ -9471,7 +9421,7 @@
   },
   {
     "split": "train",
-    "idx": 947,
+    "idx": 942,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "16*a*1*1",
@@ -9481,7 +9431,7 @@
   },
   {
     "split": "train",
-    "idx": 948,
+    "idx": 943,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "84*a*1*1",
@@ -9491,7 +9441,7 @@
   },
   {
     "split": "train",
-    "idx": 949,
+    "idx": 944,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "65*a*1*8",
@@ -9501,7 +9451,7 @@
   },
   {
     "split": "train",
-    "idx": 950,
+    "idx": 945,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "4*a*4*1",
@@ -9511,7 +9461,7 @@
   },
   {
     "split": "train",
-    "idx": 951,
+    "idx": 946,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "29*a*1*1",
@@ -9521,7 +9471,7 @@
   },
   {
     "split": "train",
-    "idx": 952,
+    "idx": 947,
     "section": "31-Thanh-Tong-Hoang-De",
     "sec_num": 31,
     "pos_from": "4*a*1*1",
@@ -9531,7 +9481,7 @@
   },
   {
     "split": "train",
-    "idx": 953,
+    "idx": 948,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "29*b*1*1",
@@ -9541,7 +9491,7 @@
   },
   {
     "split": "train",
-    "idx": 954,
+    "idx": 949,
     "section": "67-Cung-Hoang-De",
     "sec_num": 67,
     "pos_from": "63*a*3*1",
@@ -9551,7 +9501,7 @@
   },
   {
     "split": "train",
-    "idx": 955,
+    "idx": 950,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "42*a*1*1",
@@ -9561,7 +9511,7 @@
   },
   {
     "split": "train",
-    "idx": 956,
+    "idx": 951,
     "section": "7-Ky-Si-Vuong",
     "sec_num": 7,
     "pos_from": "9*a*1*1",
@@ -9571,7 +9521,7 @@
   },
   {
     "split": "train",
-    "idx": 957,
+    "idx": 952,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "17*b*1*1",
@@ -9581,7 +9531,7 @@
   },
   {
     "split": "train",
-    "idx": 958,
+    "idx": 953,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "33*a*1*1",
@@ -9591,7 +9541,7 @@
   },
   {
     "split": "train",
-    "idx": 959,
+    "idx": 954,
     "section": "12-Ky-thuoc-Tuy-Duong",
     "sec_num": 12,
     "pos_from": "13*a*1*8",
@@ -9601,7 +9551,7 @@
   },
   {
     "split": "train",
-    "idx": 960,
+    "idx": 955,
     "section": "3-Ky-nha-Trieu",
     "sec_num": 3,
     "pos_from": "17*a*1*1",
@@ -9611,7 +9561,7 @@
   },
   {
     "split": "train",
-    "idx": 961,
+    "idx": 956,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "7*a*1*1",
@@ -9621,7 +9571,7 @@
   },
   {
     "split": "train",
-    "idx": 962,
+    "idx": 957,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "31*b*1*1",
@@ -9631,7 +9581,7 @@
   },
   {
     "split": "train",
-    "idx": 963,
+    "idx": 958,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "10*b*1*1",
@@ -9641,7 +9591,7 @@
   },
   {
     "split": "train",
-    "idx": 964,
+    "idx": 959,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "18*a*1*1",
@@ -9651,7 +9601,7 @@
   },
   {
     "split": "train",
-    "idx": 965,
+    "idx": 960,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "8*a*1*1",
@@ -9661,7 +9611,7 @@
   },
   {
     "split": "train",
-    "idx": 966,
+    "idx": 961,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "43*b*3*8",
@@ -9671,7 +9621,7 @@
   },
   {
     "split": "train",
-    "idx": 967,
+    "idx": 962,
     "section": "24-Ky-nha-Dinh",
     "sec_num": 24,
     "pos_from": "3*a*1*1",
@@ -9681,7 +9631,7 @@
   },
   {
     "split": "train",
-    "idx": 968,
+    "idx": 963,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "26*b*1*1",
@@ -9691,7 +9641,7 @@
   },
   {
     "split": "train",
-    "idx": 969,
+    "idx": 964,
     "section": null,
     "sec_num": null,
     "pos_from": null,
@@ -9701,7 +9651,7 @@
   },
   {
     "split": "train",
-    "idx": 970,
+    "idx": 965,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "22*b*1*8",
@@ -9711,7 +9661,7 @@
   },
   {
     "split": "train",
-    "idx": 971,
+    "idx": 966,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "67*a*1*1",
@@ -9721,7 +9671,7 @@
   },
   {
     "split": "train",
-    "idx": 972,
+    "idx": 967,
     "section": "67-Cung-Hoang-De",
     "sec_num": 67,
     "pos_from": "67*a*2*14",
@@ -9731,7 +9681,7 @@
   },
   {
     "split": "train",
-    "idx": 973,
+    "idx": 968,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "30*b*1*1",
@@ -9741,7 +9691,7 @@
   },
   {
     "split": "train",
-    "idx": 974,
+    "idx": 969,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "21*b*1*1",
@@ -9751,7 +9701,7 @@
   },
   {
     "split": "train",
-    "idx": 975,
+    "idx": 970,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "1*b*1*1",
@@ -9761,7 +9711,7 @@
   },
   {
     "split": "train",
-    "idx": 976,
+    "idx": 971,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "10*a*1*1",
@@ -9771,7 +9721,7 @@
   },
   {
     "split": "train",
-    "idx": 977,
+    "idx": 972,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "55*b*1*1",
@@ -9781,7 +9731,7 @@
   },
   {
     "split": "train",
-    "idx": 978,
+    "idx": 973,
     "section": "103-Toan-thu-bieu",
     "sec_num": 103,
     "pos_from": "2*a*1*1",
@@ -9791,7 +9741,7 @@
   },
   {
     "split": "train",
-    "idx": 979,
+    "idx": 974,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "35*a*1*10",
@@ -9801,7 +9751,7 @@
   },
   {
     "split": "train",
-    "idx": 980,
+    "idx": 975,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "51*b*1*1",
@@ -9811,7 +9761,7 @@
   },
   {
     "split": "train",
-    "idx": 981,
+    "idx": 976,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "35*b*1*9",
@@ -9821,7 +9771,7 @@
   },
   {
     "split": "train",
-    "idx": 982,
+    "idx": 977,
     "section": "83-Chan-Tong-Thuan-Hoang-De",
     "sec_num": 83,
     "pos_from": "40*a*1*1",
@@ -9831,7 +9781,7 @@
   },
   {
     "split": "train",
-    "idx": 983,
+    "idx": 978,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "40*b*1*1",
@@ -9841,7 +9791,7 @@
   },
   {
     "split": "train",
-    "idx": 984,
+    "idx": 979,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "59*a*1*2",
@@ -9851,7 +9801,7 @@
   },
   {
     "split": "train",
-    "idx": 985,
+    "idx": 980,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "13*a*1*1",
@@ -9861,7 +9811,7 @@
   },
   {
     "split": "train",
-    "idx": 986,
+    "idx": 981,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "18*b*1*1",
@@ -9871,7 +9821,7 @@
   },
   {
     "split": "train",
-    "idx": 987,
+    "idx": 982,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "16*a*1*1",
@@ -9881,7 +9831,7 @@
   },
   {
     "split": "train",
-    "idx": 988,
+    "idx": 983,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "54*a*1*1",
@@ -9891,7 +9841,7 @@
   },
   {
     "split": "train",
-    "idx": 989,
+    "idx": 984,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "1*a*1*1",
@@ -9901,7 +9851,7 @@
   },
   {
     "split": "train",
-    "idx": 990,
+    "idx": 985,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "42*a*1*15",
@@ -9911,7 +9861,7 @@
   },
   {
     "split": "train",
-    "idx": 991,
+    "idx": 986,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "5*b*1*1",
@@ -9921,7 +9871,7 @@
   },
   {
     "split": "train",
-    "idx": 992,
+    "idx": 987,
     "section": "50-Thuan-Tong-Hoang-De",
     "sec_num": 50,
     "pos_from": "15*b*1*1",
@@ -9931,7 +9881,7 @@
   },
   {
     "split": "train",
-    "idx": 993,
+    "idx": 988,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "48*b*3*2",
@@ -9941,7 +9891,7 @@
   },
   {
     "split": "train",
-    "idx": 994,
+    "idx": 989,
     "section": "12-Ky-thuoc-Tuy-Duong",
     "sec_num": 12,
     "pos_from": "1*a*1*1",
@@ -9951,7 +9901,7 @@
   },
   {
     "split": "train",
-    "idx": 995,
+    "idx": 990,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "11*a*1*1",
@@ -9961,7 +9911,7 @@
   },
   {
     "split": "train",
-    "idx": 996,
+    "idx": 991,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "61*a*6*1",
@@ -9971,7 +9921,7 @@
   },
   {
     "split": "train",
-    "idx": 997,
+    "idx": 992,
     "section": "26-Ky-nha-Le",
     "sec_num": 26,
     "pos_from": "17*b*2*6",
@@ -9981,7 +9931,7 @@
   },
   {
     "split": "train",
-    "idx": 998,
+    "idx": 993,
     "section": "100-Tuc-bien-tu",
     "sec_num": 100,
     "pos_from": "2*b*1*1",
@@ -9991,7 +9941,7 @@
   },
   {
     "split": "train",
-    "idx": 999,
+    "idx": 994,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "36*b*1*1",
@@ -10001,7 +9951,7 @@
   },
   {
     "split": "train",
-    "idx": 1000,
+    "idx": 995,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "19*a*1*1",
@@ -10011,7 +9961,7 @@
   },
   {
     "split": "train",
-    "idx": 1001,
+    "idx": 996,
     "section": "105-Ky-nien-muc-luc",
     "sec_num": 105,
     "pos_from": "2*b*1*1",
@@ -10021,7 +9971,7 @@
   },
   {
     "split": "train",
-    "idx": 1002,
+    "idx": 997,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "54*b*1*4",
@@ -10031,7 +9981,7 @@
   },
   {
     "split": "train",
-    "idx": 1003,
+    "idx": 998,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "60*b*1*1",
@@ -10041,7 +9991,7 @@
   },
   {
     "split": "train",
-    "idx": 1004,
+    "idx": 999,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "44*b*1*3",
@@ -10051,7 +10001,7 @@
   },
   {
     "split": "train",
-    "idx": 1005,
+    "idx": 1000,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "20*a*1*1",
@@ -10061,7 +10011,7 @@
   },
   {
     "split": "train",
-    "idx": 1006,
+    "idx": 1001,
     "section": "101-Tuc-bien-thu",
     "sec_num": 101,
     "pos_from": "2*b*1*1",
@@ -10071,7 +10021,7 @@
   },
   {
     "split": "train",
-    "idx": 1007,
+    "idx": 1002,
     "section": "48-Due-Tong-Hoang-De",
     "sec_num": 48,
     "pos_from": "41*b*1*1",
@@ -10081,7 +10031,7 @@
   },
   {
     "split": "train",
-    "idx": 1008,
+    "idx": 1003,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "49*a*1*1",
@@ -10091,7 +10041,7 @@
   },
   {
     "split": "train",
-    "idx": 1009,
+    "idx": 1004,
     "section": "67-Cung-Hoang-De",
     "sec_num": 67,
     "pos_from": "69*a*1*1",
@@ -10101,7 +10051,7 @@
   },
   {
     "split": "train",
-    "idx": 1010,
+    "idx": 1005,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "18*a*1*7",
@@ -10111,7 +10061,7 @@
   },
   {
     "split": "train",
-    "idx": 1011,
+    "idx": 1006,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "73*a*1*1",
@@ -10121,7 +10071,7 @@
   },
   {
     "split": "train",
-    "idx": 1012,
+    "idx": 1007,
     "section": "63-Tuc-Tong-Kham-Hoang-De",
     "sec_num": 63,
     "pos_from": "37*a*1*10",
@@ -10131,7 +10081,7 @@
   },
   {
     "split": "train",
-    "idx": 1013,
+    "idx": 1008,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "64*a*1*1",
@@ -10141,7 +10091,7 @@
   },
   {
     "split": "train",
-    "idx": 1014,
+    "idx": 1009,
     "section": null,
     "sec_num": null,
     "pos_from": null,
@@ -10151,7 +10101,7 @@
   },
   {
     "split": "train",
-    "idx": 1015,
+    "idx": 1010,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "61*b*1*3",
@@ -10161,7 +10111,7 @@
   },
   {
     "split": "train",
-    "idx": 1016,
+    "idx": 1011,
     "section": "39-Thanh-Tong-Hoang-De",
     "sec_num": 39,
     "pos_from": "37*b*1*1",
@@ -10171,7 +10121,7 @@
   },
   {
     "split": "train",
-    "idx": 1017,
+    "idx": 1012,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "14*b*2*1",
@@ -10181,7 +10131,7 @@
   },
   {
     "split": "train",
-    "idx": 1018,
+    "idx": 1013,
     "section": "105-Ky-nien-muc-luc",
     "sec_num": 105,
     "pos_from": "7*b*1*1",
@@ -10191,7 +10141,7 @@
   },
   {
     "split": "train",
-    "idx": 1019,
+    "idx": 1014,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "7*b*1*1",
@@ -10201,7 +10151,7 @@
   },
   {
     "split": "train",
-    "idx": 1020,
+    "idx": 1015,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "23*b*1*1",
@@ -10211,7 +10161,7 @@
   },
   {
     "split": "train",
-    "idx": 1021,
+    "idx": 1016,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "1*b*5*1",
@@ -10221,7 +10171,7 @@
   },
   {
     "split": "train",
-    "idx": 1022,
+    "idx": 1017,
     "section": "86-Gia-Tong-My-Hoang-De",
     "sec_num": 86,
     "pos_from": "31*a*1*1",
@@ -10231,7 +10181,7 @@
   },
   {
     "split": "train",
-    "idx": 1023,
+    "idx": 1018,
     "section": "48-Due-Tong-Hoang-De",
     "sec_num": 48,
     "pos_from": "46*a*1*7",
@@ -10241,7 +10191,7 @@
   },
   {
     "split": "train",
-    "idx": 1024,
+    "idx": 1019,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "57*b*1*1",
@@ -10251,7 +10201,7 @@
   },
   {
     "split": "train",
-    "idx": 1025,
+    "idx": 1020,
     "section": "67-Cung-Hoang-De",
     "sec_num": 67,
     "pos_from": "67*b*1*1",
@@ -10261,7 +10211,7 @@
   },
   {
     "split": "train",
-    "idx": 1026,
+    "idx": 1021,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "2*b*1*1",
@@ -10271,7 +10221,7 @@
   },
   {
     "split": "train",
-    "idx": 1027,
+    "idx": 1022,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "51*a*1*1",
@@ -10281,7 +10231,7 @@
   },
   {
     "split": "train",
-    "idx": 1028,
+    "idx": 1023,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "12*a*1*1",
@@ -10291,7 +10241,7 @@
   },
   {
     "split": "train",
-    "idx": 1029,
+    "idx": 1024,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "3*a*1*1",
@@ -10301,7 +10251,7 @@
   },
   {
     "split": "train",
-    "idx": 1030,
+    "idx": 1025,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "23*a*1*1",
@@ -10311,7 +10261,7 @@
   },
   {
     "split": "train",
-    "idx": 1031,
+    "idx": 1026,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "17*b*1*1",
@@ -10321,7 +10271,7 @@
   },
   {
     "split": "train",
-    "idx": 1032,
+    "idx": 1027,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "11*a*1*1",
@@ -10331,7 +10281,7 @@
   },
   {
     "split": "train",
-    "idx": 1033,
+    "idx": 1028,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "9*a*1*4",
@@ -10341,7 +10291,7 @@
   },
   {
     "split": "train",
-    "idx": 1034,
+    "idx": 1029,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "19*a*1*1",
@@ -10351,7 +10301,7 @@
   },
   {
     "split": "train",
-    "idx": 1035,
+    "idx": 1030,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "20*b*1*1",
@@ -10361,7 +10311,7 @@
   },
   {
     "split": "train",
-    "idx": 1036,
+    "idx": 1031,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "48*b*2*8",
@@ -10371,7 +10321,7 @@
   },
   {
     "split": "train",
-    "idx": 1037,
+    "idx": 1032,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "7*a*1*1",
@@ -10381,7 +10331,7 @@
   },
   {
     "split": "train",
-    "idx": 1038,
+    "idx": 1033,
     "section": "8-Ky-thuoc-Ngo-Tan-Tong-Te",
     "sec_num": 8,
     "pos_from": "5*b*1*1",
@@ -10391,7 +10341,7 @@
   },
   {
     "split": "train",
-    "idx": 1039,
+    "idx": 1034,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "60*a*1*6",
@@ -10401,7 +10351,7 @@
   },
   {
     "split": "train",
-    "idx": 1040,
+    "idx": 1035,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "28*a*1*1",
@@ -10411,7 +10361,7 @@
   },
   {
     "split": "train",
-    "idx": 1041,
+    "idx": 1036,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "65*b*1*1",
@@ -10421,7 +10371,7 @@
   },
   {
     "split": "train",
-    "idx": 1042,
+    "idx": 1037,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "28*b*1*1",
@@ -10431,7 +10381,7 @@
   },
   {
     "split": "train",
-    "idx": 1043,
+    "idx": 1038,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "34*a*1*1",
@@ -10441,7 +10391,7 @@
   },
   {
     "split": "train",
-    "idx": 1044,
+    "idx": 1039,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "19*b*1*1",
@@ -10451,7 +10401,7 @@
   },
   {
     "split": "train",
-    "idx": 1045,
+    "idx": 1040,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "22*a*1*10",
@@ -10461,7 +10411,7 @@
   },
   {
     "split": "train",
-    "idx": 1046,
+    "idx": 1041,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "32*a*1*1",
@@ -10471,7 +10421,7 @@
   },
   {
     "split": "train",
-    "idx": 1047,
+    "idx": 1042,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "40*b*1*8",
@@ -10481,7 +10431,7 @@
   },
   {
     "split": "train",
-    "idx": 1048,
+    "idx": 1043,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "9*a*1*6",
@@ -10491,7 +10441,7 @@
   },
   {
     "split": "train",
-    "idx": 1049,
+    "idx": 1044,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "36*b*1*1",
@@ -10501,7 +10451,7 @@
   },
   {
     "split": "train",
-    "idx": 1050,
+    "idx": 1045,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "35*b*1*1",
@@ -10511,7 +10461,7 @@
   },
   {
     "split": "train",
-    "idx": 1051,
+    "idx": 1046,
     "section": "26-Ky-nha-Le",
     "sec_num": 26,
     "pos_from": "24*a*1*6",
@@ -10521,7 +10471,7 @@
   },
   {
     "split": "train",
-    "idx": 1052,
+    "idx": 1047,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "36*a*1*4",
@@ -10531,7 +10481,7 @@
   },
   {
     "split": "train",
-    "idx": 1053,
+    "idx": 1048,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "55*a*1*1",
@@ -10541,7 +10491,7 @@
   },
   {
     "split": "train",
-    "idx": 1054,
+    "idx": 1049,
     "section": "63-Tuc-Tong-Kham-Hoang-De",
     "sec_num": 63,
     "pos_from": "36*a*1*1",
@@ -10551,7 +10501,7 @@
   },
   {
     "split": "train",
-    "idx": 1055,
+    "idx": 1050,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "25*a*1*1",
@@ -10561,7 +10511,7 @@
   },
   {
     "split": "train",
-    "idx": 1056,
+    "idx": 1051,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "30*a*1*1",
@@ -10571,7 +10521,7 @@
   },
   {
     "split": "train",
-    "idx": 1057,
+    "idx": 1052,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "17*a*1*1",
@@ -10581,7 +10531,7 @@
   },
   {
     "split": "train",
-    "idx": 1058,
+    "idx": 1053,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "85*a*1*1",
@@ -10591,7 +10541,7 @@
   },
   {
     "split": "train",
-    "idx": 1059,
+    "idx": 1054,
     "section": "102-Ngoai-ky-toan-thu",
     "sec_num": 102,
     "pos_from": "1*a*1*1",
@@ -10601,7 +10551,7 @@
   },
   {
     "split": "train",
-    "idx": 1060,
+    "idx": 1055,
     "section": "9-Ky-tien-Ly",
     "sec_num": 9,
     "pos_from": "16*a*1*1",
@@ -10611,7 +10561,7 @@
   },
   {
     "split": "train",
-    "idx": 1061,
+    "idx": 1056,
     "section": "86-Gia-Tong-My-Hoang-De",
     "sec_num": 86,
     "pos_from": "38*b*1*7",
@@ -10621,17 +10571,7 @@
   },
   {
     "split": "train",
-    "idx": 1062,
-    "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
-    "sec_num": 82,
-    "pos_from": "34*a*1*1",
-    "pos_to": "34*a*9*7",
-    "n_source_sent": 8,
-    "n_chars": 167
-  },
-  {
-    "split": "train",
-    "idx": 1063,
+    "idx": 1057,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "11*a*1*1",
@@ -10641,7 +10581,7 @@
   },
   {
     "split": "train",
-    "idx": 1064,
+    "idx": 1058,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "2*a*1*7",
@@ -10651,7 +10591,7 @@
   },
   {
     "split": "train",
-    "idx": 1065,
+    "idx": 1059,
     "section": "43-Hien-Tong-Hoang-De",
     "sec_num": 43,
     "pos_from": "1*a*1*1",
@@ -10661,7 +10601,7 @@
   },
   {
     "split": "train",
-    "idx": 1066,
+    "idx": 1060,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "6*a*1*1",
@@ -10671,7 +10611,7 @@
   },
   {
     "split": "train",
-    "idx": 1067,
+    "idx": 1061,
     "section": "70-Trang-Tong-Du-Hoang-De",
     "sec_num": 70,
     "pos_from": "5*b*1*7",
@@ -10681,7 +10621,7 @@
   },
   {
     "split": "train",
-    "idx": 1068,
+    "idx": 1062,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "24*b*1*3",
@@ -10691,7 +10631,7 @@
   },
   {
     "split": "train",
-    "idx": 1069,
+    "idx": 1063,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "16*b*1*1",
@@ -10701,7 +10641,7 @@
   },
   {
     "split": "train",
-    "idx": 1070,
+    "idx": 1064,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "23*a*1*1",
@@ -10711,7 +10651,7 @@
   },
   {
     "split": "train",
-    "idx": 1071,
+    "idx": 1065,
     "section": "36-Hue-Tong-Hoang-De",
     "sec_num": 36,
     "pos_from": "28*b*1*1",
@@ -10721,7 +10661,7 @@
   },
   {
     "split": "train",
-    "idx": 1072,
+    "idx": 1066,
     "section": "12-Ky-thuoc-Tuy-Duong",
     "sec_num": 12,
     "pos_from": "7*a*1*5",
@@ -10731,7 +10671,7 @@
   },
   {
     "split": "train",
-    "idx": 1073,
+    "idx": 1067,
     "section": "43-Hien-Tong-Hoang-De",
     "sec_num": 43,
     "pos_from": "6*a*1*1",
@@ -10741,7 +10681,7 @@
   },
   {
     "split": "train",
-    "idx": 1074,
+    "idx": 1068,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "41*a*1*1",
@@ -10751,7 +10691,7 @@
   },
   {
     "split": "train",
-    "idx": 1075,
+    "idx": 1069,
     "section": "26-Ky-nha-Le",
     "sec_num": 26,
     "pos_from": "16*b*1*8",
@@ -10761,7 +10701,7 @@
   },
   {
     "split": "train",
-    "idx": 1076,
+    "idx": 1070,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "5*b*1*1",
@@ -10771,7 +10711,7 @@
   },
   {
     "split": "train",
-    "idx": 1077,
+    "idx": 1071,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "52*a*2*8",
@@ -10781,7 +10721,7 @@
   },
   {
     "split": "train",
-    "idx": 1078,
+    "idx": 1072,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "6*b*1*1",
@@ -10791,7 +10731,7 @@
   },
   {
     "split": "train",
-    "idx": 1079,
+    "idx": 1073,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "4*a*1*2",
@@ -10801,7 +10741,7 @@
   },
   {
     "split": "train",
-    "idx": 1080,
+    "idx": 1074,
     "section": "12-Ky-thuoc-Tuy-Duong",
     "sec_num": 12,
     "pos_from": "15*a*1*1",
@@ -10811,7 +10751,7 @@
   },
   {
     "split": "train",
-    "idx": 1081,
+    "idx": 1075,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "30*a*1*1",
@@ -10821,7 +10761,7 @@
   },
   {
     "split": "train",
-    "idx": 1082,
+    "idx": 1076,
     "section": "106-Khao-tong-luan",
     "sec_num": 106,
     "pos_from": "21*a*1*1",
@@ -10831,7 +10771,7 @@
   },
   {
     "split": "train",
-    "idx": 1083,
+    "idx": 1077,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "47*b*1*1",
@@ -10841,7 +10781,7 @@
   },
   {
     "split": "train",
-    "idx": 1084,
+    "idx": 1078,
     "section": "48-Due-Tong-Hoang-De",
     "sec_num": 48,
     "pos_from": "40*a*2*20",
@@ -10851,7 +10791,7 @@
   },
   {
     "split": "train",
-    "idx": 1085,
+    "idx": 1079,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "11*a*1*1",
@@ -10861,7 +10801,7 @@
   },
   {
     "split": "train",
-    "idx": 1086,
+    "idx": 1080,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "10*a*1*1",
@@ -10871,7 +10811,7 @@
   },
   {
     "split": "train",
-    "idx": 1087,
+    "idx": 1081,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "18*b*1*1",
@@ -10881,7 +10821,7 @@
   },
   {
     "split": "train",
-    "idx": 1088,
+    "idx": 1082,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "8*b*2*3",
@@ -10891,7 +10831,7 @@
   },
   {
     "split": "train",
-    "idx": 1089,
+    "idx": 1083,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "1*b*1*1",
@@ -10901,7 +10841,7 @@
   },
   {
     "split": "train",
-    "idx": 1090,
+    "idx": 1084,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "23*b*2*1",
@@ -10911,7 +10851,7 @@
   },
   {
     "split": "train",
-    "idx": 1091,
+    "idx": 1085,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "76*a*1*12",
@@ -10921,7 +10861,7 @@
   },
   {
     "split": "train",
-    "idx": 1092,
+    "idx": 1086,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "53*a*1*7",
@@ -10931,7 +10871,7 @@
   },
   {
     "split": "train",
-    "idx": 1093,
+    "idx": 1087,
     "section": "1-Ky-Hong-Bang-thi",
     "sec_num": 1,
     "pos_from": "4*a*1*5",
@@ -10941,7 +10881,7 @@
   },
   {
     "split": "train",
-    "idx": 1094,
+    "idx": 1088,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "18*b*1*1",
@@ -10951,7 +10891,7 @@
   },
   {
     "split": "train",
-    "idx": 1095,
+    "idx": 1089,
     "section": "35-Cao-Tong-Hoang-De",
     "sec_num": 35,
     "pos_from": "17*b*2*1",
@@ -10961,7 +10901,7 @@
   },
   {
     "split": "train",
-    "idx": 1096,
+    "idx": 1090,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "34*a*1*6",
@@ -10971,7 +10911,7 @@
   },
   {
     "split": "train",
-    "idx": 1097,
+    "idx": 1091,
     "section": "12-Ky-thuoc-Tuy-Duong",
     "sec_num": 12,
     "pos_from": "12*a*1*5",
@@ -10981,7 +10921,7 @@
   },
   {
     "split": "train",
-    "idx": 1098,
+    "idx": 1092,
     "section": "14-Ky-nha-Ngo",
     "sec_num": 14,
     "pos_from": "25*a*1*1",
@@ -10991,7 +10931,7 @@
   },
   {
     "split": "train",
-    "idx": 1099,
+    "idx": 1093,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "37*a*1*1",
@@ -11001,7 +10941,7 @@
   },
   {
     "split": "train",
-    "idx": 1100,
+    "idx": 1094,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "8*a*3*11",
@@ -11011,7 +10951,7 @@
   },
   {
     "split": "train",
-    "idx": 1101,
+    "idx": 1095,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "46*b*1*6",
@@ -11021,7 +10961,7 @@
   },
   {
     "split": "train",
-    "idx": 1102,
+    "idx": 1096,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "12*a*1*1",
@@ -11031,7 +10971,7 @@
   },
   {
     "split": "train",
-    "idx": 1103,
+    "idx": 1097,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "24*a*1*1",
@@ -11041,7 +10981,7 @@
   },
   {
     "split": "train",
-    "idx": 1104,
+    "idx": 1098,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "5*a*1*6",
@@ -11051,7 +10991,7 @@
   },
   {
     "split": "train",
-    "idx": 1105,
+    "idx": 1099,
     "section": "39-Thanh-Tong-Hoang-De",
     "sec_num": 39,
     "pos_from": "30*a*1*4",
@@ -11061,7 +11001,7 @@
   },
   {
     "split": "train",
-    "idx": 1106,
+    "idx": 1100,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "69*a*1*1",
@@ -11071,7 +11011,7 @@
   },
   {
     "split": "train",
-    "idx": 1107,
+    "idx": 1101,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "16*a*1*1",
@@ -11081,7 +11021,7 @@
   },
   {
     "split": "train",
-    "idx": 1108,
+    "idx": 1102,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "69*b*1*1",
@@ -11091,7 +11031,7 @@
   },
   {
     "split": "train",
-    "idx": 1109,
+    "idx": 1103,
     "section": "7-Ky-Si-Vuong",
     "sec_num": 7,
     "pos_from": "8*a*1*1",
@@ -11101,7 +11041,7 @@
   },
   {
     "split": "train",
-    "idx": 1110,
+    "idx": 1104,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "55*a*1*1",
@@ -11111,7 +11051,7 @@
   },
   {
     "split": "train",
-    "idx": 1111,
+    "idx": 1105,
     "section": "3-Ky-nha-Trieu",
     "sec_num": 3,
     "pos_from": "14*b*1*1",
@@ -11121,7 +11061,7 @@
   },
   {
     "split": "train",
-    "idx": 1112,
+    "idx": 1106,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "33*a*1*1",
@@ -11131,7 +11071,7 @@
   },
   {
     "split": "train",
-    "idx": 1113,
+    "idx": 1107,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "36*b*1*1",
@@ -11141,7 +11081,7 @@
   },
   {
     "split": "train",
-    "idx": 1114,
+    "idx": 1108,
     "section": "103-Toan-thu-bieu",
     "sec_num": 103,
     "pos_from": "1*a*1*1",
@@ -11151,7 +11091,7 @@
   },
   {
     "split": "train",
-    "idx": 1115,
+    "idx": 1109,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "33*b*1*5",
@@ -11161,7 +11101,7 @@
   },
   {
     "split": "train",
-    "idx": 1116,
+    "idx": 1110,
     "section": "86-Gia-Tong-My-Hoang-De",
     "sec_num": 86,
     "pos_from": "35*a*1*1",
@@ -11171,7 +11111,7 @@
   },
   {
     "split": "train",
-    "idx": 1117,
+    "idx": 1111,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "64*a*1*1",
@@ -11181,7 +11121,7 @@
   },
   {
     "split": "train",
-    "idx": 1118,
+    "idx": 1112,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "13*b*2*1",
@@ -11191,7 +11131,7 @@
   },
   {
     "split": "train",
-    "idx": 1119,
+    "idx": 1113,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "4*a*1*1",
@@ -11201,7 +11141,7 @@
   },
   {
     "split": "train",
-    "idx": 1120,
+    "idx": 1114,
     "section": "39-Thanh-Tong-Hoang-De",
     "sec_num": 39,
     "pos_from": "32*a*1*1",
@@ -11211,7 +11151,7 @@
   },
   {
     "split": "train",
-    "idx": 1121,
+    "idx": 1115,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "26*b*1*2",
@@ -11221,7 +11161,7 @@
   },
   {
     "split": "train",
-    "idx": 1122,
+    "idx": 1116,
     "section": "14-Ky-nha-Ngo",
     "sec_num": 14,
     "pos_from": "22*b*1*1",
@@ -11231,7 +11171,7 @@
   },
   {
     "split": "train",
-    "idx": 1123,
+    "idx": 1117,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "13*a*1*1",
@@ -11241,7 +11181,7 @@
   },
   {
     "split": "train",
-    "idx": 1124,
+    "idx": 1118,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "78*b*1*8",
@@ -11251,7 +11191,7 @@
   },
   {
     "split": "train",
-    "idx": 1125,
+    "idx": 1119,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "45*a*1*3",
@@ -11261,7 +11201,7 @@
   },
   {
     "split": "train",
-    "idx": 1126,
+    "idx": 1120,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "45*a*2*15",
@@ -11271,7 +11211,7 @@
   },
   {
     "split": "train",
-    "idx": 1127,
+    "idx": 1121,
     "section": "26-Ky-nha-Le",
     "sec_num": 26,
     "pos_from": "23*a*2*1",
@@ -11281,7 +11221,7 @@
   },
   {
     "split": "train",
-    "idx": 1128,
+    "idx": 1122,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "20*b*1*1",
@@ -11291,7 +11231,7 @@
   },
   {
     "split": "train",
-    "idx": 1129,
+    "idx": 1123,
     "section": "12-Ky-thuoc-Tuy-Duong",
     "sec_num": 12,
     "pos_from": "10*b*1*8",
@@ -11301,7 +11241,7 @@
   },
   {
     "split": "train",
-    "idx": 1130,
+    "idx": 1124,
     "section": "105-Ky-nien-muc-luc",
     "sec_num": 105,
     "pos_from": "8*b*5*1",
@@ -11311,7 +11251,7 @@
   },
   {
     "split": "train",
-    "idx": 1131,
+    "idx": 1125,
     "section": "34-Anh-Tong-Hoang-De",
     "sec_num": 34,
     "pos_from": "13*b*1*3",
@@ -11321,7 +11261,7 @@
   },
   {
     "split": "train",
-    "idx": 1132,
+    "idx": 1126,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "42*b*1*1",
@@ -11331,7 +11271,7 @@
   },
   {
     "split": "train",
-    "idx": 1133,
+    "idx": 1127,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "46*a*1*2",
@@ -11341,7 +11281,7 @@
   },
   {
     "split": "train",
-    "idx": 1134,
+    "idx": 1128,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "24*b*1*1",
@@ -11351,7 +11291,7 @@
   },
   {
     "split": "train",
-    "idx": 1135,
+    "idx": 1129,
     "section": "34-Anh-Tong-Hoang-De",
     "sec_num": 34,
     "pos_from": "14*a*1*1",
@@ -11361,7 +11301,7 @@
   },
   {
     "split": "train",
-    "idx": 1136,
+    "idx": 1130,
     "section": "50-Thuan-Tong-Hoang-De",
     "sec_num": 50,
     "pos_from": "17*a*1*1",
@@ -11371,7 +11311,7 @@
   },
   {
     "split": "train",
-    "idx": 1137,
+    "idx": 1131,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "11*b*1*1",
@@ -11381,7 +11321,7 @@
   },
   {
     "split": "train",
-    "idx": 1138,
+    "idx": 1132,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "35*b*1*1",
@@ -11391,7 +11331,7 @@
   },
   {
     "split": "train",
-    "idx": 1139,
+    "idx": 1133,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "18*b*1*1",
@@ -11401,7 +11341,7 @@
   },
   {
     "split": "train",
-    "idx": 1140,
+    "idx": 1134,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "28*b*1*1",
@@ -11411,7 +11351,7 @@
   },
   {
     "split": "train",
-    "idx": 1141,
+    "idx": 1135,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "73*b*1*1",
@@ -11421,7 +11361,7 @@
   },
   {
     "split": "train",
-    "idx": 1142,
+    "idx": 1136,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "7*b*1*1",
@@ -11431,7 +11371,7 @@
   },
   {
     "split": "train",
-    "idx": 1143,
+    "idx": 1137,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "54*a*2*1",
@@ -11441,17 +11381,7 @@
   },
   {
     "split": "train",
-    "idx": 1144,
-    "section": "2-Ky-nha-Thuc",
-    "sec_num": 2,
-    "pos_from": "1*a*1*1",
-    "pos_to": "11*b*9*1",
-    "n_source_sent": 6,
-    "n_chars": 95
-  },
-  {
-    "split": "train",
-    "idx": 1145,
+    "idx": 1138,
     "section": "7-Ky-Si-Vuong",
     "sec_num": 7,
     "pos_from": "11*a*1*8",
@@ -11461,7 +11391,7 @@
   },
   {
     "split": "train",
-    "idx": 1146,
+    "idx": 1139,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "18*a*4*11",
@@ -11471,7 +11401,7 @@
   },
   {
     "split": "train",
-    "idx": 1147,
+    "idx": 1140,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "17*a*1*3",
@@ -11481,7 +11411,7 @@
   },
   {
     "split": "train",
-    "idx": 1148,
+    "idx": 1141,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "22*b*1*3",
@@ -11491,7 +11421,7 @@
   },
   {
     "split": "train",
-    "idx": 1149,
+    "idx": 1142,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "60*b*1*1",
@@ -11501,7 +11431,7 @@
   },
   {
     "split": "train",
-    "idx": 1150,
+    "idx": 1143,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "31*a*1*1",
@@ -11511,7 +11441,7 @@
   },
   {
     "split": "train",
-    "idx": 1151,
+    "idx": 1144,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "28*b*1*8",
@@ -11521,7 +11451,7 @@
   },
   {
     "split": "train",
-    "idx": 1152,
+    "idx": 1145,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "32*a*1*7",
@@ -11531,7 +11461,7 @@
   },
   {
     "split": "train",
-    "idx": 1153,
+    "idx": 1146,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "32*b*1*1",
@@ -11541,7 +11471,7 @@
   },
   {
     "split": "train",
-    "idx": 1154,
+    "idx": 1147,
     "section": "14-Ky-nha-Ngo",
     "sec_num": 14,
     "pos_from": "24*b*2*1",
@@ -11551,7 +11481,7 @@
   },
   {
     "split": "train",
-    "idx": 1155,
+    "idx": 1148,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "12*b*4*14",
@@ -11561,7 +11491,7 @@
   },
   {
     "split": "train",
-    "idx": 1156,
+    "idx": 1149,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "16*a*2*1",
@@ -11571,7 +11501,7 @@
   },
   {
     "split": "train",
-    "idx": 1157,
+    "idx": 1150,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "27*a*1*1",
@@ -11581,7 +11511,7 @@
   },
   {
     "split": "train",
-    "idx": 1158,
+    "idx": 1151,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "34*b*1*1",
@@ -11591,7 +11521,7 @@
   },
   {
     "split": "train",
-    "idx": 1159,
+    "idx": 1152,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "22*b*1*1",
@@ -11601,7 +11531,7 @@
   },
   {
     "split": "train",
-    "idx": 1160,
+    "idx": 1153,
     "section": "104-Toan-thu-pham-le",
     "sec_num": 104,
     "pos_from": "3*a*1*1",
@@ -11611,7 +11541,7 @@
   },
   {
     "split": "train",
-    "idx": 1161,
+    "idx": 1154,
     "section": "39-Thanh-Tong-Hoang-De",
     "sec_num": 39,
     "pos_from": "34*a*1*1",
@@ -11621,7 +11551,7 @@
   },
   {
     "split": "train",
-    "idx": 1162,
+    "idx": 1155,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "57*a*1*1",
@@ -11631,7 +11561,7 @@
   },
   {
     "split": "train",
-    "idx": 1163,
+    "idx": 1156,
     "section": "3-Ky-nha-Trieu",
     "sec_num": 3,
     "pos_from": "11*b*1*1",
@@ -11641,7 +11571,7 @@
   },
   {
     "split": "train",
-    "idx": 1164,
+    "idx": 1157,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "47*b*1*1",
@@ -11651,7 +11581,7 @@
   },
   {
     "split": "train",
-    "idx": 1165,
+    "idx": 1158,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "17*b*1*1",
@@ -11661,7 +11591,7 @@
   },
   {
     "split": "train",
-    "idx": 1166,
+    "idx": 1159,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "9*a*1*1",
@@ -11671,7 +11601,7 @@
   },
   {
     "split": "train",
-    "idx": 1167,
+    "idx": 1160,
     "section": "43-Hien-Tong-Hoang-De",
     "sec_num": 43,
     "pos_from": "1*b*1*3",
@@ -11681,7 +11611,7 @@
   },
   {
     "split": "train",
-    "idx": 1168,
+    "idx": 1161,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "13*b*1*1",
@@ -11691,7 +11621,7 @@
   },
   {
     "split": "train",
-    "idx": 1169,
+    "idx": 1162,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "16*a*1*8",
@@ -11701,7 +11631,7 @@
   },
   {
     "split": "train",
-    "idx": 1170,
+    "idx": 1163,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "27*a*1*1",
@@ -11711,7 +11641,7 @@
   },
   {
     "split": "train",
-    "idx": 1171,
+    "idx": 1164,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "37*b*1*1",
@@ -11721,7 +11651,7 @@
   },
   {
     "split": "train",
-    "idx": 1172,
+    "idx": 1165,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "62*b*1*2",
@@ -11731,7 +11661,7 @@
   },
   {
     "split": "train",
-    "idx": 1173,
+    "idx": 1166,
     "section": "81-Kinh-Tong-Hue-Hoang-De",
     "sec_num": 81,
     "pos_from": "10*a*1*1",
@@ -11741,7 +11671,7 @@
   },
   {
     "split": "train",
-    "idx": 1174,
+    "idx": 1167,
     "section": "50-Thuan-Tong-Hoang-De",
     "sec_num": 50,
     "pos_from": "16*b*1*2",
@@ -11751,7 +11681,7 @@
   },
   {
     "split": "train",
-    "idx": 1175,
+    "idx": 1168,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "34*b*1*1",
@@ -11761,7 +11691,7 @@
   },
   {
     "split": "train",
-    "idx": 1176,
+    "idx": 1169,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "16*b*4*17",
@@ -11771,7 +11701,7 @@
   },
   {
     "split": "train",
-    "idx": 1177,
+    "idx": 1170,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "19*a*2*1",
@@ -11781,7 +11711,7 @@
   },
   {
     "split": "train",
-    "idx": 1178,
+    "idx": 1171,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "16*a*1*1",
@@ -11791,7 +11721,7 @@
   },
   {
     "split": "train",
-    "idx": 1179,
+    "idx": 1172,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "24*b*1*1",
@@ -11801,7 +11731,7 @@
   },
   {
     "split": "train",
-    "idx": 1180,
+    "idx": 1173,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "2*b*1*1",
@@ -11811,7 +11741,7 @@
   },
   {
     "split": "train",
-    "idx": 1181,
+    "idx": 1174,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "16*a*4*7",
@@ -11821,7 +11751,7 @@
   },
   {
     "split": "train",
-    "idx": 1182,
+    "idx": 1175,
     "section": "39-Thanh-Tong-Hoang-De",
     "sec_num": 39,
     "pos_from": "31*a*1*7",
@@ -11831,7 +11761,7 @@
   },
   {
     "split": "train",
-    "idx": 1183,
+    "idx": 1176,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "39*b*1*8",
@@ -11841,7 +11771,7 @@
   },
   {
     "split": "train",
-    "idx": 1184,
+    "idx": 1177,
     "section": "83-Chan-Tong-Thuan-Hoang-De",
     "sec_num": 83,
     "pos_from": "40*b*1*1",
@@ -11851,7 +11781,7 @@
   },
   {
     "split": "train",
-    "idx": 1185,
+    "idx": 1178,
     "section": "105-Ky-nien-muc-luc",
     "sec_num": 105,
     "pos_from": "2*a*1*1",
@@ -11861,7 +11791,7 @@
   },
   {
     "split": "train",
-    "idx": 1186,
+    "idx": 1179,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "39*a*1*1",
@@ -11871,7 +11801,7 @@
   },
   {
     "split": "train",
-    "idx": 1187,
+    "idx": 1180,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "7*a*1*1",
@@ -11881,7 +11811,7 @@
   },
   {
     "split": "train",
-    "idx": 1188,
+    "idx": 1181,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "13*b*1*1",
@@ -11891,7 +11821,7 @@
   },
   {
     "split": "train",
-    "idx": 1189,
+    "idx": 1182,
     "section": "12-Ky-thuoc-Tuy-Duong",
     "sec_num": 12,
     "pos_from": "16*b*1*1",
@@ -11901,7 +11831,7 @@
   },
   {
     "split": "train",
-    "idx": 1190,
+    "idx": 1183,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "47*a*7*26",
@@ -11911,7 +11841,7 @@
   },
   {
     "split": "train",
-    "idx": 1191,
+    "idx": 1184,
     "section": "39-Thanh-Tong-Hoang-De",
     "sec_num": 39,
     "pos_from": "26*a*1*4",
@@ -11921,7 +11851,7 @@
   },
   {
     "split": "train",
-    "idx": 1192,
+    "idx": 1185,
     "section": "37-Chieu-Hoang",
     "sec_num": 37,
     "pos_from": "33*a*1*1",
@@ -11931,7 +11861,7 @@
   },
   {
     "split": "train",
-    "idx": 1193,
+    "idx": 1186,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "32*b*1*1",
@@ -11941,7 +11871,7 @@
   },
   {
     "split": "train",
-    "idx": 1194,
+    "idx": 1187,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "40*a*1*1",
@@ -11951,7 +11881,7 @@
   },
   {
     "split": "train",
-    "idx": 1195,
+    "idx": 1188,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "14*b*1*5",
@@ -11961,7 +11891,7 @@
   },
   {
     "split": "train",
-    "idx": 1196,
+    "idx": 1189,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "34*b*1*5",
@@ -11971,7 +11901,7 @@
   },
   {
     "split": "train",
-    "idx": 1197,
+    "idx": 1190,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "36*b*1*4",
@@ -11981,7 +11911,7 @@
   },
   {
     "split": "train",
-    "idx": 1198,
+    "idx": 1191,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "1*a*1*1",
@@ -11991,7 +11921,7 @@
   },
   {
     "split": "train",
-    "idx": 1199,
+    "idx": 1192,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "14*b*1*4",
@@ -12001,7 +11931,7 @@
   },
   {
     "split": "train",
-    "idx": 1200,
+    "idx": 1193,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "2*b*1*8",
@@ -12011,7 +11941,7 @@
   },
   {
     "split": "train",
-    "idx": 1201,
+    "idx": 1194,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "31*a*1*1",
@@ -12021,7 +11951,7 @@
   },
   {
     "split": "train",
-    "idx": 1202,
+    "idx": 1195,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "38*b*1*1",
@@ -12031,7 +11961,7 @@
   },
   {
     "split": "train",
-    "idx": 1203,
+    "idx": 1196,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "18*b*3*1",
@@ -12041,7 +11971,7 @@
   },
   {
     "split": "train",
-    "idx": 1204,
+    "idx": 1197,
     "section": "39-Thanh-Tong-Hoang-De",
     "sec_num": 39,
     "pos_from": "26*b*1*1",
@@ -12051,7 +11981,7 @@
   },
   {
     "split": "train",
-    "idx": 1205,
+    "idx": 1198,
     "section": "102-Ngoai-ky-toan-thu",
     "sec_num": 102,
     "pos_from": "3*a*3*1",
@@ -12061,7 +11991,7 @@
   },
   {
     "split": "train",
-    "idx": 1206,
+    "idx": 1199,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "3*b*1*5",
@@ -12071,7 +12001,7 @@
   },
   {
     "split": "train",
-    "idx": 1207,
+    "idx": 1200,
     "section": "48-Due-Tong-Hoang-De",
     "sec_num": 48,
     "pos_from": "46*b*1*1",
@@ -12081,7 +12011,7 @@
   },
   {
     "split": "train",
-    "idx": 1208,
+    "idx": 1201,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "64*a*2*6",
@@ -12091,7 +12021,7 @@
   },
   {
     "split": "train",
-    "idx": 1209,
+    "idx": 1202,
     "section": "50-Thuan-Tong-Hoang-De",
     "sec_num": 50,
     "pos_from": "14*b*1*3",
@@ -12101,7 +12031,7 @@
   },
   {
     "split": "train",
-    "idx": 1210,
+    "idx": 1203,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "41*b*1*6",
@@ -12111,7 +12041,7 @@
   },
   {
     "split": "train",
-    "idx": 1211,
+    "idx": 1204,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "59*b*1*1",
@@ -12121,7 +12051,7 @@
   },
   {
     "split": "train",
-    "idx": 1212,
+    "idx": 1205,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "33*a*1*1",
@@ -12131,7 +12061,7 @@
   },
   {
     "split": "train",
-    "idx": 1213,
+    "idx": 1206,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "53*b*1*1",
@@ -12141,7 +12071,7 @@
   },
   {
     "split": "train",
-    "idx": 1214,
+    "idx": 1207,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "6*a*1*7",
@@ -12151,7 +12081,7 @@
   },
   {
     "split": "train",
-    "idx": 1215,
+    "idx": 1208,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "30*b*1*5",
@@ -12161,7 +12091,7 @@
   },
   {
     "split": "train",
-    "idx": 1216,
+    "idx": 1209,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "37*a*1*4",
@@ -12171,7 +12101,7 @@
   },
   {
     "split": "train",
-    "idx": 1217,
+    "idx": 1210,
     "section": "68-Phu-Mac-Dang-Dung-Mac-Dang-Doanh",
     "sec_num": 68,
     "pos_from": "69*b*4*7",
@@ -12181,7 +12111,7 @@
   },
   {
     "split": "train",
-    "idx": 1218,
+    "idx": 1211,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "24*a*1*1",
@@ -12191,7 +12121,7 @@
   },
   {
     "split": "train",
-    "idx": 1219,
+    "idx": 1212,
     "section": "82-Than-Tong-Uyen-Hoang-De-thuong",
     "sec_num": 82,
     "pos_from": "22*a*1*1",
@@ -12201,7 +12131,7 @@
   },
   {
     "split": "train",
-    "idx": 1220,
+    "idx": 1213,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "9*a*1*1",
@@ -12211,7 +12141,7 @@
   },
   {
     "split": "train",
-    "idx": 1221,
+    "idx": 1214,
     "section": "38-Thai-Tong-Hoang-De",
     "sec_num": 38,
     "pos_from": "19*b*1*5",
@@ -12221,7 +12151,7 @@
   },
   {
     "split": "train",
-    "idx": 1222,
+    "idx": 1215,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "63*b*1*15",
@@ -12231,7 +12161,7 @@
   },
   {
     "split": "train",
-    "idx": 1223,
+    "idx": 1216,
     "section": "26-Ky-nha-Le",
     "sec_num": 26,
     "pos_from": "21*a*1*3",
@@ -12241,7 +12171,7 @@
   },
   {
     "split": "train",
-    "idx": 1224,
+    "idx": 1217,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "40*b*2*15",
@@ -12251,7 +12181,7 @@
   },
   {
     "split": "train",
-    "idx": 1225,
+    "idx": 1218,
     "section": "83-Chan-Tong-Thuan-Hoang-De",
     "sec_num": 83,
     "pos_from": "39*b*1*1",
@@ -12261,7 +12191,7 @@
   },
   {
     "split": "train",
-    "idx": 1226,
+    "idx": 1219,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "3*a*1*7",
@@ -12271,7 +12201,7 @@
   },
   {
     "split": "train",
-    "idx": 1227,
+    "idx": 1220,
     "section": "14-Ky-nha-Ngo",
     "sec_num": 14,
     "pos_from": "22*a*1*5",
@@ -12281,7 +12211,7 @@
   },
   {
     "split": "train",
-    "idx": 1228,
+    "idx": 1221,
     "section": "104-Toan-thu-pham-le",
     "sec_num": 104,
     "pos_from": "3*b*1*1",
@@ -12291,7 +12221,7 @@
   },
   {
     "split": "train",
-    "idx": 1229,
+    "idx": 1222,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "14*a*1*1",
@@ -12301,7 +12231,7 @@
   },
   {
     "split": "train",
-    "idx": 1230,
+    "idx": 1223,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "3*b*1*13",
@@ -12311,7 +12241,7 @@
   },
   {
     "split": "train",
-    "idx": 1231,
+    "idx": 1224,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "34*a*1*3",
@@ -12321,7 +12251,7 @@
   },
   {
     "split": "train",
-    "idx": 1232,
+    "idx": 1225,
     "section": "35-Cao-Tong-Hoang-De",
     "sec_num": 35,
     "pos_from": "25*b*1*1",
@@ -12331,7 +12261,7 @@
   },
   {
     "split": "train",
-    "idx": 1233,
+    "idx": 1226,
     "section": "64-Uy-Muc-De",
     "sec_num": 64,
     "pos_from": "42*a*1*5",
@@ -12341,7 +12271,7 @@
   },
   {
     "split": "train",
-    "idx": 1234,
+    "idx": 1227,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "9*a*1*1",
@@ -12351,7 +12281,7 @@
   },
   {
     "split": "train",
-    "idx": 1235,
+    "idx": 1228,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "60*a*1*1",
@@ -12361,7 +12291,7 @@
   },
   {
     "split": "train",
-    "idx": 1236,
+    "idx": 1229,
     "section": "84-Than-Tong-Uyen-Hoang-De-ha",
     "sec_num": 84,
     "pos_from": "34*b*2*20",
@@ -12371,7 +12301,7 @@
   },
   {
     "split": "train",
-    "idx": 1237,
+    "idx": 1230,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "55*b*1*1",
@@ -12381,7 +12311,7 @@
   },
   {
     "split": "train",
-    "idx": 1238,
+    "idx": 1231,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "19*a*1*1",
@@ -12391,7 +12321,7 @@
   },
   {
     "split": "train",
-    "idx": 1239,
+    "idx": 1232,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "34*b*1*1",
@@ -12401,7 +12331,7 @@
   },
   {
     "split": "train",
-    "idx": 1240,
+    "idx": 1233,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "20*a*3*19",
@@ -12411,7 +12341,7 @@
   },
   {
     "split": "train",
-    "idx": 1241,
+    "idx": 1234,
     "section": "65-Tuong-Duc-De",
     "sec_num": 65,
     "pos_from": "31*a*1*4",
@@ -12421,7 +12351,7 @@
   },
   {
     "split": "train",
-    "idx": 1242,
+    "idx": 1235,
     "section": "49-Phe-De",
     "sec_num": 49,
     "pos_from": "7*b*1*5",
@@ -12431,7 +12361,7 @@
   },
   {
     "split": "train",
-    "idx": 1243,
+    "idx": 1236,
     "section": "63-Tuc-Tong-Kham-Hoang-De",
     "sec_num": 63,
     "pos_from": "38*a*1*1",
@@ -12441,7 +12371,7 @@
   },
   {
     "split": "train",
-    "idx": 1244,
+    "idx": 1237,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "22*b*1*1",
@@ -12451,7 +12381,7 @@
   },
   {
     "split": "train",
-    "idx": 1245,
+    "idx": 1238,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "30*b*2*9",
@@ -12461,7 +12391,7 @@
   },
   {
     "split": "train",
-    "idx": 1246,
+    "idx": 1239,
     "section": "66-Chieu-Tong-Than-Hoang-De",
     "sec_num": 66,
     "pos_from": "35*a*1*1",
@@ -12471,7 +12401,7 @@
   },
   {
     "split": "train",
-    "idx": 1247,
+    "idx": 1240,
     "section": "48-Due-Tong-Hoang-De",
     "sec_num": 48,
     "pos_from": "45*b*1*1",
@@ -12481,7 +12411,7 @@
   },
   {
     "split": "train",
-    "idx": 1248,
+    "idx": 1241,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "40*a*1*1",
@@ -12491,7 +12421,7 @@
   },
   {
     "split": "train",
-    "idx": 1249,
+    "idx": 1242,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "48*a*1*1",
@@ -12501,7 +12431,7 @@
   },
   {
     "split": "train",
-    "idx": 1250,
+    "idx": 1243,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "37*a*1*14",
@@ -12511,7 +12441,7 @@
   },
   {
     "split": "train",
-    "idx": 1251,
+    "idx": 1244,
     "section": "101-Tuc-bien-thu",
     "sec_num": 101,
     "pos_from": "3*a*1*1",
@@ -12521,7 +12451,7 @@
   },
   {
     "split": "train",
-    "idx": 1252,
+    "idx": 1245,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "25*b*1*1",
@@ -12531,7 +12461,7 @@
   },
   {
     "split": "train",
-    "idx": 1253,
+    "idx": 1246,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "19*b*1*1",
@@ -12541,7 +12471,7 @@
   },
   {
     "split": "train",
-    "idx": 1254,
+    "idx": 1247,
     "section": "50-Thuan-Tong-Hoang-De",
     "sec_num": 50,
     "pos_from": "18*b*1*1",
@@ -12551,7 +12481,7 @@
   },
   {
     "split": "train",
-    "idx": 1255,
+    "idx": 1248,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "34*a*1*1",
@@ -12561,7 +12491,7 @@
   },
   {
     "split": "train",
-    "idx": 1256,
+    "idx": 1249,
     "section": "40-Nhan-Tong-Hoang-De",
     "sec_num": 40,
     "pos_from": "41*b*1*1",
@@ -12571,7 +12501,7 @@
   },
   {
     "split": "train",
-    "idx": 1257,
+    "idx": 1250,
     "section": "42-Minh-Tong-Hoang-De",
     "sec_num": 42,
     "pos_from": "49*b*1*1",
@@ -12581,7 +12511,7 @@
   },
   {
     "split": "train",
-    "idx": 1258,
+    "idx": 1251,
     "section": "70-Trang-Tong-Du-Hoang-De",
     "sec_num": 70,
     "pos_from": "3*b*1*1",
@@ -12591,7 +12521,7 @@
   },
   {
     "split": "train",
-    "idx": 1259,
+    "idx": 1252,
     "section": "29-Thai-To-Hoang-De",
     "sec_num": 29,
     "pos_from": "7*a*1*1",
@@ -12601,7 +12531,7 @@
   },
   {
     "split": "train",
-    "idx": 1260,
+    "idx": 1253,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "60*b*1*2",
@@ -12611,7 +12541,7 @@
   },
   {
     "split": "train",
-    "idx": 1261,
+    "idx": 1254,
     "section": "35-Cao-Tong-Hoang-De",
     "sec_num": 35,
     "pos_from": "22*a*1*1",
@@ -12621,7 +12551,7 @@
   },
   {
     "split": "train",
-    "idx": 1262,
+    "idx": 1255,
     "section": "6-Ky-thuoc-Dong-Han",
     "sec_num": 6,
     "pos_from": "5*a*1*8",
@@ -12631,7 +12561,7 @@
   },
   {
     "split": "train",
-    "idx": 1263,
+    "idx": 1256,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "1*a*1*1",
@@ -12641,7 +12571,7 @@
   },
   {
     "split": "train",
-    "idx": 1264,
+    "idx": 1257,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "23*b*1*1",
@@ -12651,7 +12581,7 @@
   },
   {
     "split": "train",
-    "idx": 1265,
+    "idx": 1258,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "56*b*1*1",
@@ -12661,7 +12591,7 @@
   },
   {
     "split": "train",
-    "idx": 1266,
+    "idx": 1259,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "64*a*1*1",
@@ -12671,7 +12601,7 @@
   },
   {
     "split": "train",
-    "idx": 1267,
+    "idx": 1260,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "66*a*1*1",
@@ -12681,7 +12611,7 @@
   },
   {
     "split": "train",
-    "idx": 1268,
+    "idx": 1261,
     "section": "85-Huyen-Tong-Muc-Hoang-De",
     "sec_num": 85,
     "pos_from": "22*a*1*2",
@@ -12691,7 +12621,7 @@
   },
   {
     "split": "train",
-    "idx": 1269,
+    "idx": 1262,
     "section": "30-Thai-Tong-Hoang-De",
     "sec_num": 30,
     "pos_from": "38*b*1*2",
@@ -12701,7 +12631,7 @@
   },
   {
     "split": "train",
-    "idx": 1270,
+    "idx": 1263,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "49*b*1*6",
@@ -12711,7 +12641,7 @@
   },
   {
     "split": "train",
-    "idx": 1271,
+    "idx": 1264,
     "section": "24-Ky-nha-Dinh",
     "sec_num": 24,
     "pos_from": "6*a*1*1",
@@ -12721,7 +12651,7 @@
   },
   {
     "split": "train",
-    "idx": 1272,
+    "idx": 1265,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "26*a*1*7",
@@ -12731,7 +12661,7 @@
   },
   {
     "split": "train",
-    "idx": 1273,
+    "idx": 1266,
     "section": "41-Anh-Tong-Hoang-De",
     "sec_num": 41,
     "pos_from": "7*b*1*8",
@@ -12741,7 +12671,7 @@
   },
   {
     "split": "train",
-    "idx": 1274,
+    "idx": 1267,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "65*b*1*3",
@@ -12751,7 +12681,7 @@
   },
   {
     "split": "train",
-    "idx": 1275,
+    "idx": 1268,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "21*b*1*1",
@@ -12761,7 +12691,7 @@
   },
   {
     "split": "train",
-    "idx": 1276,
+    "idx": 1269,
     "section": "62-Hien-Tong-Due-Hoang-De",
     "sec_num": 62,
     "pos_from": "19*a*1*1",
@@ -12771,7 +12701,7 @@
   },
   {
     "split": "train",
-    "idx": 1277,
+    "idx": 1270,
     "section": "76-Anh-Tong-Tuan-Hoang-De",
     "sec_num": 76,
     "pos_from": "28*b*1*1",
@@ -12781,7 +12711,7 @@
   },
   {
     "split": "train",
-    "idx": 1278,
+    "idx": 1271,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "14*a*6*1",
@@ -12791,7 +12721,7 @@
   },
   {
     "split": "train",
-    "idx": 1279,
+    "idx": 1272,
     "section": "79-The-Tong-Nghi-Hoang-De",
     "sec_num": 79,
     "pos_from": "45*a*1*1",
@@ -12801,7 +12731,7 @@
   },
   {
     "split": "train",
-    "idx": 1280,
+    "idx": 1273,
     "section": "44-Du-Tong-Hoang-De",
     "sec_num": 44,
     "pos_from": "27*a*1*1",
@@ -12811,7 +12741,7 @@
   },
   {
     "split": "train",
-    "idx": 1281,
+    "idx": 1274,
     "section": "60-Thanh-Tong-Thuan-Hoang-De-thuong",
     "sec_num": 60,
     "pos_from": "59*a*1*3",
@@ -12821,7 +12751,7 @@
   },
   {
     "split": "train",
-    "idx": 1282,
+    "idx": 1275,
     "section": "61-Thanh-Tong-Thuan-Hoang-De-ha",
     "sec_num": 61,
     "pos_from": "75*b*1*1",
@@ -12831,7 +12761,7 @@
   },
   {
     "split": "train",
-    "idx": 1283,
+    "idx": 1276,
     "section": "39-Thanh-Tong-Hoang-De",
     "sec_num": 39,
     "pos_from": "30*b*1*1",

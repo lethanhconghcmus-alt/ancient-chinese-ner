@@ -121,8 +121,33 @@ truy nguyên nguồn · leakage định lượng) và `docs/gazetteer_findings.m
 Thêm hai điểm mới có thể đưa vào paper:
 - **Phân tích lỗi theo THỜI KỲ** — nhờ `record_source_map.json` gắn được
   section/position cho 99%+ record
-- **Limitation về phạm vi**: v2 chỉ phủ **71.6%** ĐVSKTT, 10 section vắng hẳn,
+- **Limitation về phạm vi**: v2 chỉ phủ **71.3%** ĐVSKTT, 10 section vắng hẳn,
   lớn nhất là `57-Thai-To` (Lê Lợi, 1,068 câu)
+
+---
+
+## 5b. ĐÃ XONG 04/08 — A1 · A2 · B2
+
+| Task | Kết quả |
+|---|---|
+| **A1** clean test | 148 sửa, chạm 65/160 record. Chỉ áp luật guideline, **tắt majority-vote** (`--min-count 999999`) để không có quyết định thống kê nào dựa trên chính test. Nhiễu test 2.76% → **0.86%** |
+| **A2** loại leakage | Bỏ **7 record train** chia sẻ đoạn văn duy nhất với dev/test. train 1,284 → **1,277**; dev/test giữ nguyên 160. **Leakage nay = 0** |
+| **B2** thống kê corpus | `docs/corpus_stats.md` — bảng sẵn dùng cho paper |
+
+**Số chốt thay cho v1** (chi tiết: `docs/corpus_stats.md`):
+
+| Bản thảo cũ (v1) | v2-clean |
+|---|---|
+| 7,301 câu | **1,597 record** |
+| 1,291,822 token | **263,638 ký tự Hán** |
+| 107,105 entity | **22,858 entity** |
+
+Split 1,277 / 160 / 160 · PER 32.7% · TITLE 24.8% · LOC 20.9% · DTM 11.0% · ORG 10.7%
+Nhiễu nhãn: train 1.80% · dev 0.17% · test 0.86% · BIO hợp lệ 0 lỗi / 263,638 token
+
+> **⇒ A4/A5 (rerun baseline + E2) giờ chạy được ngay. Không còn gì chặn.**
+> Việc duyệt 924 dòng gold test vẫn tiếp tục độc lập, apply lên trên rồi rerun
+> `clean_labels.py` là xong — script xác định, lặp lại được.
 
 ---
 

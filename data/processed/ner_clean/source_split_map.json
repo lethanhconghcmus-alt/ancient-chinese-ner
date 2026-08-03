@@ -1,7 +1,6 @@
 {
   "1-Ky-Hong-Bang-thi|1a*1*1": [
-    "dev",
-    "train"
+    "dev"
   ],
   "1-Ky-Hong-Bang-thi|1a*2*1": [
     "dev"
@@ -298,18 +297,6 @@
     "train"
   ],
   "2-Ky-nha-Thuc|11a*5*13": [
-    "train"
-  ],
-  "2-Ky-nha-Thuc|11b*1*5": [
-    "train"
-  ],
-  "2-Ky-nha-Thuc|11b*3*1": [
-    "train"
-  ],
-  "2-Ky-nha-Thuc|11b*5*1": [
-    "train"
-  ],
-  "2-Ky-nha-Thuc|11b*9*1": [
     "train"
   ],
   "3-Ky-nha-Trieu|1a*1*1": [
@@ -8387,8 +8374,7 @@
     "train"
   ],
   "41-Anh-Tong-Hoang-De|1a*1*1": [
-    "test",
-    "train"
+    "test"
   ],
   "41-Anh-Tong-Hoang-De|1a*3*1": [
     "test"
@@ -10385,9 +10371,6 @@
   "42-Minh-Tong-Hoang-De|50a*1*15": [
     "train"
   ],
-  "42-Minh-Tong-Hoang-De|50b*9*1": [
-    "train"
-  ],
   "43-Hien-Tong-Hoang-De|1a*1*1": [
     "train"
   ],
@@ -11076,28 +11059,22 @@
     "dev"
   ],
   "44-Du-Tong-Hoang-De|16a*1*1": [
-    "dev",
-    "train"
+    "dev"
   ],
   "44-Du-Tong-Hoang-De|16a*3*7": [
-    "dev",
-    "train"
+    "dev"
   ],
   "44-Du-Tong-Hoang-De|16a*5*7": [
-    "dev",
-    "train"
+    "dev"
   ],
   "44-Du-Tong-Hoang-De|16a*5*18": [
-    "dev",
-    "train"
+    "dev"
   ],
   "44-Du-Tong-Hoang-De|16a*6*11": [
-    "dev",
-    "train"
+    "dev"
   ],
   "44-Du-Tong-Hoang-De|16a*8*9": [
-    "dev",
-    "train"
+    "dev"
   ],
   "44-Du-Tong-Hoang-De|16b*1*1": [
     "test"
@@ -15042,23 +15019,7 @@
     "train"
   ],
   "61-Thanh-Tong-Thuan-Hoang-De-ha|1a*1*1": [
-    "dev",
-    "train"
-  ],
-  "61-Thanh-Tong-Thuan-Hoang-De-ha|1a*4*13": [
-    "train"
-  ],
-  "61-Thanh-Tong-Thuan-Hoang-De-ha|1a*5*9": [
-    "train"
-  ],
-  "61-Thanh-Tong-Thuan-Hoang-De-ha|1a*6*17": [
-    "train"
-  ],
-  "61-Thanh-Tong-Thuan-Hoang-De-ha|1a*8*3": [
-    "train"
-  ],
-  "61-Thanh-Tong-Thuan-Hoang-De-ha|1a*8*11": [
-    "train"
+    "dev"
   ],
   "61-Thanh-Tong-Thuan-Hoang-De-ha|1b*1*13": [
     "dev"
@@ -17533,27 +17494,8 @@
   "61-Thanh-Tong-Thuan-Hoang-De-ha|85a*9*4": [
     "train"
   ],
-  "61-Thanh-Tong-Thuan-Hoang-De-ha|85b*1*1": [
-    "train"
-  ],
-  "61-Thanh-Tong-Thuan-Hoang-De-ha|85b*2*1": [
-    "train"
-  ],
   "61-Thanh-Tong-Thuan-Hoang-De-ha|85b*3*3": [
-    "dev",
-    "train"
-  ],
-  "61-Thanh-Tong-Thuan-Hoang-De-ha|85b*4*1": [
-    "train"
-  ],
-  "61-Thanh-Tong-Thuan-Hoang-De-ha|85b*6*1": [
-    "train"
-  ],
-  "61-Thanh-Tong-Thuan-Hoang-De-ha|85b*6*13": [
-    "train"
-  ],
-  "61-Thanh-Tong-Thuan-Hoang-De-ha|85b*9*1": [
-    "train"
+    "dev"
   ],
   "61-Thanh-Tong-Thuan-Hoang-De-ha|86a*1*1": [
     "train"
@@ -27010,30 +26952,8 @@
   "82-Than-Tong-Uyen-Hoang-De-thuong|33b*9*7": [
     "dev"
   ],
-  "82-Than-Tong-Uyen-Hoang-De-thuong|34a*1*1": [
-    "train"
-  ],
-  "82-Than-Tong-Uyen-Hoang-De-thuong|34a*2*6": [
-    "train"
-  ],
   "82-Than-Tong-Uyen-Hoang-De-thuong|34a*3*3": [
-    "dev",
-    "train"
-  ],
-  "82-Than-Tong-Uyen-Hoang-De-thuong|34a*4*2": [
-    "train"
-  ],
-  "82-Than-Tong-Uyen-Hoang-De-thuong|34a*5*10": [
-    "train"
-  ],
-  "82-Than-Tong-Uyen-Hoang-De-thuong|34a*7*1": [
-    "train"
-  ],
-  "82-Than-Tong-Uyen-Hoang-De-thuong|34a*7*19": [
-    "train"
-  ],
-  "82-Than-Tong-Uyen-Hoang-De-thuong|34a*9*7": [
-    "train"
+    "dev"
   ],
   "82-Than-Tong-Uyen-Hoang-De-thuong|34b*2*1": [
     "train"
@@ -29243,27 +29163,6 @@
   "85-Huyen-Tong-Muc-Hoang-De|26b*8*9": [
     "train"
   ],
-  "85-Huyen-Tong-Muc-Hoang-De|27a*1*1": [
-    "train"
-  ],
-  "85-Huyen-Tong-Muc-Hoang-De|27a*2*3": [
-    "train"
-  ],
-  "85-Huyen-Tong-Muc-Hoang-De|27a*3*21": [
-    "train"
-  ],
-  "85-Huyen-Tong-Muc-Hoang-De|27a*4*8": [
-    "train"
-  ],
-  "85-Huyen-Tong-Muc-Hoang-De|27a*6*9": [
-    "train"
-  ],
-  "85-Huyen-Tong-Muc-Hoang-De|27a*7*13": [
-    "train"
-  ],
-  "85-Huyen-Tong-Muc-Hoang-De|27a*8*7": [
-    "train"
-  ],
   "85-Huyen-Tong-Muc-Hoang-De|27b*1*1": [
     "train"
   ],
@@ -29560,8 +29459,7 @@
     "dev"
   ],
   "86-Gia-Tong-My-Hoang-De|36a*1*15": [
-    "dev",
-    "train"
+    "dev"
   ],
   "86-Gia-Tong-My-Hoang-De|36a*2*7": [
     "dev"

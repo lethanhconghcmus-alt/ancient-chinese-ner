@@ -29,7 +29,11 @@ TAG = re.compile(r"\{([^|{}]+)\|([A-Z]+)\}")
 
 RAW_DIR = r"D:\ancient-chinese-ner\data\raw\ner_sft"
 CLEAN_DIR = r"D:\ancient-chinese-ner\data\processed\ner_clean"
-SPLITS = ["train", "dev"]          # test cố ý vắng mặt
+SPLITS = ["train", "dev"]          # mặc định: test cố ý vắng mặt.
+# Chạy `--splits test` để chuẩn hoá test. BẮT BUỘC làm trước khi đo, nếu không
+# train/dev đã áp guideline mà test chưa => model bị TRỪ ĐIỂM VÌ TRẢ LỜI ĐÚNG.
+# Không xung đột gold review: review đọc từ gold_review_sheet.xlsx, và có thể
+# apply lên trên rồi rerun script này (script xác định, lặp lại được).
 
 # ---------------------------------------------------------------- guideline
 
@@ -157,11 +161,16 @@ def main():
     ap.add_argument("--maj-threshold", type=float, default=0.7)
     ap.add_argument("--min-count", type=int, default=5,
                     help="số lần xuất hiện tối thiểu để majority-vote có hiệu lực")
+    ap.add_argument("--splits", nargs="+", default=SPLITS,
+                    help="split cần xử lý (mặc định: train dev)")
+    ap.add_argument("--report-name", default="clean_report.json")
+    ap.add_argument("--review-name", default="needs_review.json")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
+    splits = args.splits
 
     data = {}
-    for sp in SPLITS:
+    for sp in splits:
         recs = []
         with open(os.path.join(args.raw_dir, f"{sp}.jsonl"), encoding="utf-8") as f:
             for line in f:
@@ -344,8 +353,8 @@ def main():
 
     rep = {
         "guideline": "docs/annotation_guideline.md v1.0",
-        "splits_cleaned": SPLITS,
-        "test_untouched": True,
+        "splits_cleaned": splits,
+        "test_untouched": "test" not in splits,
         "maj_threshold": args.maj_threshold,
         "changes": dict(changes),
         "type_distribution": dict(type_dist),
@@ -353,14 +362,14 @@ def main():
         "majority_applied": maj,
         "detail": {k: dict(v) for k, v in detail.items()},
     }
-    with open(os.path.join(args.clean_dir, "clean_report.json"), "w", encoding="utf-8") as f:
+    with open(os.path.join(args.clean_dir, args.report_name), "w", encoding="utf-8") as f:
         json.dump(rep, f, ensure_ascii=False, indent=2)
-    with open(os.path.join(args.clean_dir, "needs_review.json"), "w", encoding="utf-8") as f:
+    with open(os.path.join(args.clean_dir, args.review_name), "w", encoding="utf-8") as f:
         json.dump(review, f, ensure_ascii=False, indent=2)
 
-    print(f"\nĐã ghi {SPLITS} vào {args.raw_dir} + {args.clean_dir}")
-    print(f"  clean_report.json  — {sum(changes.values())} thay đổi")
-    print(f"  needs_review.json  — {len(review)} chuỗi cần bạn quyết")
+    print(f"\nĐã ghi {splits} vào {args.raw_dir} + {args.clean_dir}")
+    print(f"  {args.report_name}  — {sum(changes.values())} thay đổi")
+    print(f"  {args.review_name}  — {len(review)} chuỗi cần bạn quyết")
 
 
 if __name__ == "__main__":
