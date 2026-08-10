@@ -2,7 +2,8 @@
 
 **Ngày:** 2026-08-03
 **Phạm vi:** khảo sát `data/raw/gazetteer/` (chưa commit) để quyết định chiến lược xây gazetteer.
-**Trạng thái:** mới khảo sát + đo đạc, **chưa viết code build**.
+**Trạng thái:** đã khảo sát + đo đạc + **build xong TITLE/ORG/LOC**
+(2026-08-10, xem mục 12).
 
 > **Cập nhật 2026-08-04** — xem `docs/dataset_v2_cleaning.md` cho các phát hiện
 > đến sau và đã kiểm chứng:
@@ -379,3 +380,36 @@ thay vì "họ + 2 chữ sau `遣`/`命`/`封` là PER". Chỉ lộ ra khi test 
 3. Bỏ/đánh dấu 63 câu có `?`/`>` (glyph hỏng) và 11 câu dính `mat-chu`
 4. `〇` giữ lại hoặc bỏ nhất quán — là dấu ngắt đoạn bản gốc, không phải rác
 5. Chuẩn hoá dị thể tự
+
+---
+
+## 12. Build TITLE/ORG/LOC (2026-08-10)
+
+Script: `scripts/build_gazetteer.py`. Output: `data/processed/gazetteer/{title,org,loc}.jsonl` + `report.json`.
+
+**Quyết định phạm vi mining:** chỉ dùng entity gold **train** (không đụng dev/test) —
+lexicon dùng làm feature đánh giá trên dev/test, đưa entity dev/test vào sẽ tự thổi phồng
+số liệu chính nó đo. Mục 11 câu hỏi #1 coi như chốt theo hướng an toàn nhất.
+Guideline v1.0 đã chốt luôn `越`=ORG (câu hỏi #3) và convention TITLE lấy trọn cụm
+(câu hỏi #2) — 3/4 quyết định treo ở mục 11 nay đã giải quyết qua guideline/lựa chọn này;
+câu hỏi #4 (phạm vi DVSKTT-only vs Hán văn VN nói chung) vẫn treo, hiện build chỉ nhắm DVSKTT.
+
+**TITLE** — gold train (1,358 surface) + cross-product tiền tố×hậu tố (ngưỡng ≥5 lần xuất
+hiện làm tiền/hậu tố trong entity gold đa âm tiết → 78 tiền tố × 40 hậu tố → 2,998 ứng viên,
+`needs_review=true`). Coverage trên dev (mention-level, exact match): **73.4%**.
+
+**ORG** — chỉ gold train (629 surface), không mở rộng tự động (1-char ORG cần context-gate,
+để dành cho lúc dùng làm feature, không phải lúc build list). Coverage dev: **67.0%**.
+
+**LOC** — mining qua căn chỉnh âm tiết phiên âm ↔ chữ Hán trên toàn bộ crawl, **trừ 2,037 câu
+blocklist** (leakage guard), cộng vá hậu tố loại từ (§4). Sau khi lọc nhiễu PER (span mở đầu
+bằng 1 trong 30 chữ họ phổ biến, span trùng surface PER/TITLE/ORG gold train, hoặc kết thúc
+bằng `宗` — miếu hiệu): còn **6,967 unique / 21,042 mention**. Coverage dev: **54.9%**.
+Vẫn còn lọt một số nhiễu khó lọc bằng rule đơn giản (ví dụ `元至元` — gộp quốc hiệu + niên hiệu
+liền kề, đúng như lỗi hệ thống đã nêu ở §4) — do vậy dùng LOC list này **có `needs_review`
+theo tần suất** (freq<2 → true), không nên coi là danh sách sạch tuyệt đối.
+
+**Chưa làm ở lần build này:** mở rộng ORG bằng mining (hiện chỉ gold), curate tay lexicon
+TITLE (thay vì cross-product ngưỡng tần suất), context-gate cho ORG/entity 1 chữ khi dùng làm
+feature thật trong model. Đây là các việc downstream — bản thân gazetteer build coi như **xong
+scope TITLE/ORG/LOC như đã lên kế hoạch ở mục 9**.
