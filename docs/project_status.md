@@ -154,12 +154,18 @@ Nhiễu nhãn: train 1.80% · dev 0.17% · test 0.86% · BIO hợp lệ 0 lỗi 
 ## 6. Đường găng 26 ngày
 
 ```
-T1 (04–10/08)  A1 clean test  →  A2 dev leakage  →  A3 backup git  →  A4 rerun baseline
+T1 (04–10/08)  A1 clean test ✅ → A2 dev leakage ✅ → A3 backup git ✅ → A4 rerun baseline ✅
                B1 rà abstract
-T2 (11–17/08)  A5 rerun E2 · B2 thống kê corpus · B3 error analysis v2
+T2 (11–17/08)  A5 rerun E2 · B2 thống kê corpus ✅ · B3 error analysis v2
 T3 (18–24/08)  B5 viết paper · (C3/C4 gazetteer nếu kịp)
 T4 (25–30/08)  hoàn thiện, rà soát
 ```
+
+**A4 xong 10/08**: rerun GuwenBERT-CRF trên test v2.1 (982 đề xuất gold review đã áp,
+xem commit `572ab8f`) → test F1 = **0.6522** (so với v1 hỏng 0.8124). Chi tiết + so sánh
+đầy đủ ở `results/baseline_v2_1/README.md`. CHisIEC anchor giữ nguyên ~0.913, xác nhận
+pipeline đúng. Việc tiếp theo: A5 (rerun E2 Qwen2.5-7B LoRA SFT trên v2.1) và B1 (rà
+abstract VCL2026 xem có quảng cáo số liệu corpus v1 sai không).
 
 Chi tiết từng task + output cụ thể: **`ke_hoach_VCL2026.xlsx`** sheet `Kế hoạch`.
 
