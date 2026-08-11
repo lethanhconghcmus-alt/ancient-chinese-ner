@@ -74,6 +74,19 @@ logger = Logger(f"{CONFIG['log_dir']}/sft.log")
 # dir qua from_pretrained (khac ban moi) -> tu lam 2 buoc: load base model
 # roi ap adapter pretrain bang PeftModel, giu is_trainable=True de train tiep.
 logger.log(f"Loading base model: {BASE_MODEL}")
+
+# unsloth's loader swallows the real AutoConfig error and re-raises a generic
+# "Can't load the configuration" message. Probe the actual failure first so
+# the real cause (network/auth/hub) shows up in the log instead of a guess.
+try:
+    from huggingface_hub import hf_hub_download
+    p = hf_hub_download(repo_id=BASE_MODEL, filename="config.json")
+    logger.log(f"Diagnostic hf_hub_download OK: {p}")
+except Exception as e:
+    import traceback
+    logger.log(f"Diagnostic hf_hub_download FAILED: {type(e).__name__}: {e}")
+    traceback.print_exc()
+
 model, tokenizer = FastLanguageModel.from_pretrained(
     model_name=BASE_MODEL,
     max_seq_length=CONFIG["max_seq_len"],
