@@ -11,11 +11,13 @@ import numpy as np, pandas as pd
 print("NumPy:", np.__version__, "| Pandas:", pd.__version__)
 
 from unsloth import FastLanguageModel
+from peft import PeftModel
 from datasets import Dataset
 from transformers import default_data_collator, get_cosine_schedule_with_warmup
 from torch.utils.data import DataLoader
 import torch.optim as optim
 
+BASE_MODEL = "unsloth/qwen2.5-7b-unsloth-bnb-4bit"
 SFT_DATA_DIR = "/kaggle/working/ancient-chinese-ner/data/raw/ner_sft"
 PRETRAIN_CKPT_SRC = "/kaggle/input/datasets/thnhcngl/dvsktt-pretrain-final-ckpt"
 
@@ -64,24 +66,24 @@ class Logger:
 
 
 logger = Logger(f"{CONFIG['log_dir']}/sft.log")
-logger.log(f"Loading pretrain checkpoint: {PRETRAIN_CKPT_SRC}")
+
+# PRETRAIN_CKPT_SRC la LoRA adapter-only (adapter_config.json +
+# adapter_model.safetensors, khong co config.json cua full model) vi no duoc
+# luu bang model.save_pretrained() tren mot PeftModel. Ban unsloth==2024.8
+# (buoc phai dung vi torch 2.3.1/P100) khong tu nhan dien duoc adapter-only
+# dir qua from_pretrained (khac ban moi) -> tu lam 2 buoc: load base model
+# roi ap adapter pretrain bang PeftModel, giu is_trainable=True de train tiep.
+logger.log(f"Loading base model: {BASE_MODEL}")
 model, tokenizer = FastLanguageModel.from_pretrained(
-    model_name=PRETRAIN_CKPT_SRC,
+    model_name=BASE_MODEL,
     max_seq_length=CONFIG["max_seq_len"],
     load_in_4bit=True,
     dtype=None,
 )
-model = FastLanguageModel.get_peft_model(
-    model,
-    r=CONFIG["lora_rank"],
-    lora_alpha=CONFIG["lora_alpha"],
-    lora_dropout=CONFIG["lora_dropout"],
-    target_modules=["q_proj", "k_proj", "v_proj", "o_proj",
-                     "gate_proj", "up_proj", "down_proj"],
-    bias="none",
-    use_gradient_checkpointing="unsloth",
-    random_state=42,
-)
+logger.log(f"Applying pretrain LoRA adapter: {PRETRAIN_CKPT_SRC}")
+model = PeftModel.from_pretrained(model, PRETRAIN_CKPT_SRC, is_trainable=True)
+model.gradient_checkpointing_enable()
+model.enable_input_require_grads()
 logger.log("Model loaded!")
 model.print_trainable_parameters()
 
