@@ -113,6 +113,12 @@ model, tokenizer = FastLanguageModel.from_pretrained(
     load_in_4bit=True,
     dtype=None,
 )
+# Qwen3.6 la model da phuong thuc -> unsloth co the tra ve processor bao
+# ngoai tokenizer text thuan; goi thang processor voi text co the bi hieu
+# nham la image source va crash. Unwrap ve tokenizer text neu co.
+if hasattr(tokenizer, "tokenizer"):
+    logger.log("Tokenizer la processor da phuong thuc, unwrap ve .tokenizer")
+    tokenizer = tokenizer.tokenizer
 
 if PRETRAIN_CKPT_DIR:
     from peft import PeftModel

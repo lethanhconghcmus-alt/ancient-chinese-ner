@@ -26,9 +26,9 @@ CONFIG = {
     "lora_dropout": 0.05,
     "lr":         5e-5,
     "epochs":     1,
-    "batch":      2,
+    "batch":      int(os.environ.get("PRETRAIN_BATCH", "1")),
     "grad_accum": 4,
-    "sample_size": 5000,
+    "sample_size": int(os.environ.get("PRETRAIN_SAMPLE_SIZE", "5000")),
 }
 for d in ["ckpt_dir", "log_dir"]:
     os.makedirs(CONFIG[d], exist_ok=True)
@@ -93,6 +93,14 @@ model, tokenizer = FastLanguageModel.from_pretrained(
     load_in_4bit=True,
     dtype=None,
 )
+# Qwen3.6 la model da phuong thuc (text/image/video) -> unsloth co the tra ve
+# mot processor bao ngoai tokenizer text thuan. Goi truc tiep processor voi
+# text se co the bi hieu nham la image source va crash. Unwrap ve tokenizer
+# text neu co.
+if hasattr(tokenizer, "tokenizer"):
+    logger.log("Tokenizer la processor da phuong thuc, unwrap ve .tokenizer")
+    tokenizer = tokenizer.tokenizer
+
 model = FastLanguageModel.get_peft_model(
     model,
     r=CONFIG["lora_rank"],
