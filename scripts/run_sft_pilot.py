@@ -15,7 +15,14 @@ import torch
 
 BASE_MODEL = os.environ.get("PILOT_BASE_MODEL", "unsloth/qwen2.5-7b-unsloth-bnb-4bit")
 RUN_TAG = os.environ.get("PILOT_RUN_TAG", "pilot")
-SFT_DATA_DIR = "/kaggle/working/ancient-chinese-ner/data/raw/ner_sft"
+SFT_DATA_DIR = os.environ.get(
+    "PILOT_SFT_DATA_DIR",
+    "/kaggle/working/ancient-chinese-ner/data/raw/ner_sft",
+)
+# Neu set, load LoRA adapter da continue-pretrain truoc khi SFT (kich ban
+# B/C cua thi nghiem TQ-merge vs DVSKTT pretrain corpus). Bo trong = SFT
+# thang tu base model (kich ban pilot 7B vs 27B ban dau, khong pretrain).
+PRETRAIN_CKPT_DIR = os.environ.get("PILOT_PRETRAIN_CKPT_DIR", "")
 
 CONFIG = {
     "work_dir":   f"/kaggle/working/run_{RUN_TAG}",
@@ -106,17 +113,25 @@ model, tokenizer = FastLanguageModel.from_pretrained(
     load_in_4bit=True,
     dtype=None,
 )
-model = FastLanguageModel.get_peft_model(
-    model,
-    r=CONFIG["lora_rank"],
-    target_modules=["q_proj", "k_proj", "v_proj", "o_proj",
-                     "gate_proj", "up_proj", "down_proj"],
-    lora_alpha=CONFIG["lora_alpha"],
-    lora_dropout=CONFIG["lora_dropout"],
-    bias="none",
-    use_gradient_checkpointing="unsloth",
-    random_state=42,
-)
+
+if PRETRAIN_CKPT_DIR:
+    from peft import PeftModel
+    logger.log(f"Applying pretrain LoRA adapter: {PRETRAIN_CKPT_DIR}")
+    model = PeftModel.from_pretrained(model, PRETRAIN_CKPT_DIR, is_trainable=True)
+    model.gradient_checkpointing_enable()
+    model.enable_input_require_grads()
+else:
+    model = FastLanguageModel.get_peft_model(
+        model,
+        r=CONFIG["lora_rank"],
+        target_modules=["q_proj", "k_proj", "v_proj", "o_proj",
+                         "gate_proj", "up_proj", "down_proj"],
+        lora_alpha=CONFIG["lora_alpha"],
+        lora_dropout=CONFIG["lora_dropout"],
+        bias="none",
+        use_gradient_checkpointing="unsloth",
+        random_state=42,
+    )
 logger.log("Model + LoRA adapter ready.")
 model.print_trainable_parameters()
 
@@ -222,7 +237,7 @@ logger2 = Logger(f"{CONFIG['log_dir']}/evaluate.log")
 test_data = load_jsonl(f"{SFT_DATA_DIR}/test.jsonl")
 logger2.log(f"Test records: {len(test_data):,}")
 
-ENTITY_TYPES = ["PER", "LOC", "ORG", "DTM", "TITLE"]
+ENTITY_TYPES = os.environ.get("PILOT_ENTITY_TYPES", "PER,LOC,ORG,DTM,TITLE").split(",")
 
 
 def parse_entities(text):
