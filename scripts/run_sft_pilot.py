@@ -36,7 +36,7 @@ CONFIG = {
     "lora_dropout": 0.05,
 
     "sft_lr":         5e-5,
-    "sft_epochs":     3,
+    "sft_epochs":     int(os.environ.get("PILOT_SFT_EPOCHS", "3")),
     "sft_batch":      1,
     "sft_grad_accum": 4,
 
