@@ -2,11 +2,20 @@
 
 Khac voi run_sft_evaluate.py (E2/A5 full pipeline: pretrain-LoRA + SFT):
 day la ban RUT GON de co tin hieu nhanh, ro rang loai bo bien "model size"
-khoi cac bien khac (khong continue-pretrain, cung 3 epoch, cung LoRA config,
-cung data v2.1). Khong dung cho ket qua cuoi cung, chi de quyet dinh co dang
-dau tu tiep vao Qwen3.6-27B hay khong.
+khoi cac bien khac (khong continue-pretrain, cung LoRA config, cung data
+v2.1). Khong dung cho ket qua cuoi cung, chi de quyet dinh co dang dau tu
+tiep vao Qwen3.6-27B hay khong.
 
 BASE_MODEL doc tu env var PILOT_BASE_MODEL, mac dinh Qwen2.5-7B.
+
+Early stopping (2026-08-28): PILOT_SFT_EPOCHS la so epoch TOI DA, khong
+phai so epoch bat buoc train het -- sau moi epoch se do loss tren
+dev.jsonl (forward-only, khong generate), neu khong cai thien lien tuc
+PILOT_EARLY_STOP_PATIENCE epoch (mac dinh 2) thi dung som. Checkpoint
+"best" (theo dev loss) va "final" (epoch cuoi train duoc) luu rieng;
+buoc eval entity-level cuoi script luon dung best, khong dung final, de
+tranh danh gia tren ban da bat dau overfit (dev loss tang trong khi train
+loss van giam).
 """
 import os, sys, time, json, warnings, re
 warnings.filterwarnings("ignore")
@@ -36,7 +45,10 @@ CONFIG = {
     "lora_dropout": 0.05,
 
     "sft_lr":         5e-5,
-    "sft_epochs":     int(os.environ.get("PILOT_SFT_EPOCHS", "3")),
+    # so epoch TOI DA -- early stopping (dua tren dev loss) se dung som hon
+    # neu khong con cai thien, nen de cao mot cach an toan thay vi doan dung.
+    "sft_epochs":     int(os.environ.get("PILOT_SFT_EPOCHS", "8")),
+    "early_stop_patience": int(os.environ.get("PILOT_EARLY_STOP_PATIENCE", "2")),
     "sft_batch":      1,
     "sft_grad_accum": 4,
 
@@ -148,7 +160,8 @@ def load_jsonl(path):
 
 
 train_data = load_jsonl(f"{SFT_DATA_DIR}/train.jsonl")
-logger.log(f"Train records: {len(train_data):,}")
+dev_data = load_jsonl(f"{SFT_DATA_DIR}/dev.jsonl")
+logger.log(f"Train records: {len(train_data):,} | Dev records: {len(dev_data):,}")
 
 
 def make_prefix(record):
@@ -188,17 +201,46 @@ def tokenize_sft(examples):
 train_tokenized = train_dataset.map(tokenize_sft, batched=True, remove_columns=["text", "prefix"], num_proc=2)
 logger.log(f"SFT tokenized: {len(train_tokenized):,} examples")
 
-EPOCHS = CONFIG["sft_epochs"]
+dev_prefixes = [make_prefix(r) for r in dev_data]
+dev_texts = [format_prompt(r) for r in dev_data]
+dev_dataset = Dataset.from_dict({"text": dev_texts, "prefix": dev_prefixes})
+dev_tokenized = dev_dataset.map(tokenize_sft, batched=True, remove_columns=["text", "prefix"], num_proc=2)
+
+EPOCHS = CONFIG["sft_epochs"]  # tran ep toi da; co the dung som hon neu dev loss het cai thien
+PATIENCE = CONFIG["early_stop_patience"]
 BATCH = CONFIG["sft_batch"]
 GRAD_ACCUM = CONFIG["sft_grad_accum"]
 
 sft_loader = DataLoader(train_tokenized, batch_size=BATCH, shuffle=True, collate_fn=default_data_collator)
+dev_loader = DataLoader(dev_tokenized, batch_size=BATCH, shuffle=False, collate_fn=default_data_collator)
 total_steps = len(sft_loader) * EPOCHS
 optimizer = optim.AdamW(model.parameters(), lr=CONFIG["sft_lr"])
 scheduler = get_cosine_schedule_with_warmup(
     optimizer, num_warmup_steps=int(total_steps * 0.05), num_training_steps=total_steps,
 )
-logger.log(f"SFT total steps: {total_steps:,}")
+logger.log(f"SFT total steps (toi da): {total_steps:,} | early_stop_patience={PATIENCE} epoch")
+
+
+def eval_dev_loss():
+    """Forward-only loss tren dev set (khong generate) -- de theo doi overfit
+    doc lap voi train loss, dung lam tieu chi early stopping."""
+    model.eval()
+    total, n = 0.0, 0
+    with torch.no_grad():
+        for batch in dev_loader:
+            batch = {k: v.to(model.device) for k, v in batch.items()}
+            out = model(**batch)
+            total += out.loss.item()
+            n += 1
+    model.train()
+    return total / max(n, 1)
+
+
+best_path = f"{CONFIG['ckpt_dir']}/pilot_best"
+final_path = f"{CONFIG['ckpt_dir']}/pilot_final"
+best_dev_loss = float("inf")
+best_epoch = 0
+patience_counter = 0
 
 model.train()
 global_step = 0
@@ -228,12 +270,35 @@ for epoch in range(EPOCHS):
             eta = elapsed / global_step * (total_steps - global_step)
             logger.log(f"Epoch {epoch+1}/{EPOCHS} | Step {global_step}/{total_steps} | Loss {avg:.4f} | ETA {eta/60:.1f}m")
     avg_epoch = total_loss / len(sft_loader)
-    logger.log(f"Epoch {epoch+1} done | Avg Loss: {avg_epoch:.4f}")
+    dev_loss = eval_dev_loss()
+    logger.log(f"Epoch {epoch+1} done | Avg Train Loss: {avg_epoch:.4f} | Dev Loss: {dev_loss:.4f}")
 
-best_path = f"{CONFIG['ckpt_dir']}/pilot_final"
-model.save_pretrained(best_path)
-tokenizer.save_pretrained(best_path)
-logger.log(f"Saved: {best_path}")
+    if dev_loss < best_dev_loss:
+        best_dev_loss = dev_loss
+        best_epoch = epoch + 1
+        patience_counter = 0
+        model.save_pretrained(best_path)
+        tokenizer.save_pretrained(best_path)
+        logger.log(f"  -> Dev loss cai thien, luu best checkpoint (epoch {best_epoch})")
+    else:
+        patience_counter += 1
+        logger.log(f"  -> Dev loss khong cai thien ({patience_counter}/{PATIENCE})")
+        if patience_counter >= PATIENCE:
+            logger.log(f"Early stopping tai epoch {epoch+1} (best epoch={best_epoch}, best_dev_loss={best_dev_loss:.4f})")
+            break
+
+model.save_pretrained(final_path)
+tokenizer.save_pretrained(final_path)
+logger.log(f"Saved final (epoch cuoi cung train): {final_path}")
+logger.log(f"Best checkpoint: {best_path} (epoch {best_epoch}, dev_loss={best_dev_loss:.4f})")
+
+# Danh gia entity-level dung BEST checkpoint (theo dev loss), khong phai epoch
+# cuoi cung -- tranh danh gia tren ban da bat dau overfit. Chi swap LoRA
+# weights tren cung base model (khong reload lai base tu dau, do VRAM/thoi gian).
+if best_epoch > 0 and best_epoch < epoch + 1:
+    logger.log(f"Load lai adapter tu best checkpoint (epoch {best_epoch}) truoc khi eval...")
+    model.load_adapter(best_path, adapter_name="best")
+    model.set_adapter("best")
 
 # ── Evaluate ────────────────────────────────────────────────────────────────
 FastLanguageModel.for_inference(model)
